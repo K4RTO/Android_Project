@@ -1,0 +1,2500 @@
+Counter-Strike: Global Offensive%%%Windows, MacOS, Linux%%%0%%%2012-08-21%%%2GB%%%0
+Dota 2%%%Windows, MacOS, Linux%%%0%%%2013-07-09%%%4GB%%%0
+Team Fortress 2%%%Windows, MacOS, Linux%%%0%%%2007-10-10%%%512MB%%%0
+PLAYERUNKNOWN'S BATTLEGROUNDS%%%Windows%%%26.99%%%2017-12-21%%%8GB%%%0
+Garry's Mod%%%Windows, MacOS, Linux%%%6.99%%%2006-11-29%%%4GB%%%0
+Grand Theft Auto V%%%Windows%%%24.99%%%2015-04-13%%%4GB%%%18
+PAYDAY 2%%%Windows, Linux%%%7.49%%%2013-08-13%%%4GB%%%18
+Unturned%%%Windows, MacOS, Linux%%%0%%%2017-07-07%%%4GB%%%0
+Left 4 Dead 2%%%Windows, MacOS, Linux%%%7.19%%%2009-11-19%%%2GB%%%0
+Tom Clancy's Rainbow Six Siege%%%Windows%%%16.99%%%2015-12-01%%%6GB%%%0
+Rocket League%%%Windows, MacOS, Linux%%%14.99%%%2015-07-07%%%2GB%%%0
+Warframe%%%Windows%%%0%%%2013-03-25%%%4GB%%%16
+Rust%%%Windows, MacOS%%%27.79%%%2018-02-08%%%8GB%%%18
+The Witcher 3: Wild Hunt%%%Windows%%%24.99%%%2015-05-18%%%6GB%%%0
+Euro Truck Simulator 2%%%Windows, MacOS, Linux%%%14.99%%%2012-10-12%%%4GB%%%0
+Paladins%%%Windows%%%0%%%2018-05-08%%%4GB%%%0
+ARK: Survival Evolved%%%Windows, MacOS, Linux%%%44.99%%%2017-08-27%%%8GB%%%0
+Dead by Daylight%%%Windows%%%14.99%%%2016-06-14%%%8GB%%%0
+Portal 2%%%Windows, MacOS, Linux%%%7.19%%%2011-04-18%%%2GB%%%0
+Sid Meier's Civilization V%%%Windows, MacOS, Linux%%%19.99%%%2010-09-23%%%2GB%%%0
+Counter-Strike%%%Windows, MacOS, Linux%%%7.19%%%2000-11-01%%%96MB%%%0
+Life is Strange - Episode 1%%%Windows, MacOS, Linux%%%0%%%2015-01-29%%%2GB%%%16
+DayZ%%%Windows%%%33.99%%%2018-12-13%%%8GB%%%18
+Stardew Valley%%%Windows, MacOS, Linux%%%10.99%%%2016-02-26%%%2GB%%%0
+Z1 Battle Royale%%%Windows%%%0%%%2018-02-28%%%6GB%%%0
+The Forest%%%Windows%%%15.49%%%2018-04-30%%%4GB%%%18
+Fallout 4%%%Windows%%%19.99%%%2015-11-09%%%8GB%%%18
+Don't Starve Together%%%Windows, MacOS, Linux%%%10.99%%%2016-04-21%%%1GB%%%0
+Doki Doki Literature Club!%%%Windows, MacOS%%%0%%%2017-10-06%%%4GB%%%0
+Arma 3%%%Windows%%%29.99%%%2013-09-12%%%4GB%%%0
+DARK SOULS III%%%Windows%%%39.99%%%2016-04-11%%%4GB%%%0
+Undertale%%%Windows, MacOS, Linux%%%6.99%%%2015-09-15%%%2GB%%%0
+Insurgency%%%Windows, MacOS, Linux%%%6.99%%%2014-01-22%%%4GB%%%0
+Subnautica%%%Windows, MacOS%%%19.49%%%2018-01-23%%%4GB%%%0
+War Thunder%%%Windows, MacOS, Linux%%%0%%%2013-08-15%%%4GB%%%0
+Robocraft%%%Windows, MacOS, Linux%%%0%%%2017-08-24%%%4GB%%%0
+Dying Light%%%Windows, MacOS, Linux%%%24.99%%%2015-01-26%%%4GB%%%18
+Counter-Strike: Source%%%Windows, MacOS, Linux%%%7.19%%%2004-11-01%%%512MB%%%0
+Mount & Blade: Warband%%%Windows, MacOS, Linux%%%14.99%%%2010-03-31%%%512MB%%%0
+Starbound%%%Windows, MacOS, Linux%%%11.99%%%2016-07-22%%%2GB%%%0
+Brawlhalla%%%Windows, MacOS%%%0%%%2017-10-17%%%1GB%%%0
+The Binding of Isaac: Rebirth%%%Windows, MacOS, Linux%%%10.99%%%2014-11-04%%%2GB%%%16
+MONSTER HUNTER: WORLD%%%Windows%%%49.99%%%2018-08-09%%%8GB%%%0
+Path of Exile%%%Windows%%%0%%%2013-10-23%%%4GB%%%0
+DOOM%%%Windows%%%14.99%%%2016-05-12%%%8GB%%%18
+Half-Life 2%%%Windows, MacOS, Linux%%%7.19%%%2004-11-16%%%512MB%%%0
+Cities: Skylines%%%Windows, MacOS, Linux%%%22.99%%%2015-03-10%%%4GB%%%0
+Fallout: New Vegas%%%Windows%%%7.99%%%2010-10-21%%%2GB%%%18
+Heroes & Generals%%%Windows%%%0%%%2016-10-18%%%3GB%%%0
+Wallpaper Engine%%%Windows%%%2.79%%%2018-11-16%%%1024MB%%%0
+No Man's Sky%%%Windows%%%39.99%%%2016-08-12%%%8GB%%%0
+Killing Floor 2%%%Windows%%%19.99%%%2016-11-18%%%3GB%%%18
+Space Engineers%%%Windows%%%15.49%%%2019-02-28%%%8GB%%%0
+Saints Row IV%%%Windows, Linux%%%10.99%%%2013-08-22%%%4GB%%%16
+Age of Empires II HD%%%Windows%%%14.99%%%2013-04-09%%%1GB%%%0
+Killing Floor%%%Windows, MacOS, Linux%%%14.99%%%2009-05-14%%%1GB%%%0
+Geometry Dash%%%Windows, MacOS%%%2.79%%%2014-12-22%%%512MB%%%0
+Portal%%%Windows, MacOS, Linux%%%7.19%%%2007-10-10%%%512MB%%%0
+Chivalry: Medieval Warfare%%%Windows, MacOS, Linux%%%18.99%%%2012-10-16%%%2GB%%%0
+Castle Crashers%%%Windows, MacOS%%%9.99%%%2012-09-26%%%1GB%%%0
+Tom Clancys The Division%%%Windows%%%41.99%%%2016-03-07%%%6GB%%%18
+Kerbal Space Program%%%Windows, MacOS, Linux%%%29.99%%%2015-04-27%%%4GB%%%0
+Rise of the Tomb Raider%%%Windows, MacOS, Linux%%%39.99%%%2016-02-09%%%6GB%%%18
+No More Room in Hell%%%Windows, MacOS, Linux%%%0%%%2013-10-31%%%2GB%%%0
+Factorio%%%Windows, MacOS, Linux%%%21%%%2016-02-25%%%4GB%%%0
+Trove%%%Windows, MacOS%%%0%%%2015-07-09%%%1GB%%%0
+The Elder Scrolls V: Skyrim Special Edition%%%Windows%%%29.99%%%2016-10-27%%%8GB%%%18
+BattleBlock Theater%%%Windows, MacOS, Linux%%%10.99%%%2014-05-15%%%1GB%%%0
+This War of Mine%%%Windows, MacOS, Linux%%%14.99%%%2014-11-14%%%2GB%%%0
+Far Cry 3%%%Windows%%%16.99%%%2012-11-28%%%4GB%%%0
+Outlast%%%Windows, MacOS, Linux%%%15.49%%%2013-09-04%%%2GB%%%0
+Goat Simulator%%%Windows, MacOS, Linux%%%7.19%%%2014-04-01%%%2GB%%%0
+The Long Dark%%%Windows, MacOS, Linux%%%23.79%%%2017-08-01%%%4GB%%%0
+Hotline Miami%%%Windows, MacOS, Linux%%%6.99%%%2012-10-23%%%512MB%%%18
+Divinity: Original Sin 2 - Definitive Edition%%%Windows, MacOS%%%29.99%%%2017-09-14%%%4GB%%%0
+Dirty Bomb%%%Windows%%%0%%%2015-06-01%%%3GB%%%0
+FTL: Faster Than Light%%%Windows, MacOS, Linux%%%6.99%%%2012-09-14%%%1GB%%%0
+Clicker Heroes%%%Windows, MacOS%%%0%%%2015-05-13%%%512MB%%%0
+To the Moon%%%Windows, MacOS, Linux%%%6.99%%%2012-09-07%%%512MB%%%0
+Darkest Dungeon%%%Windows, MacOS, Linux%%%18.99%%%2016-01-19%%%2GB%%%0
+Battlerite%%%Windows%%%0%%%2017-11-08%%%4GB%%%0
+Europa Universalis IV%%%Windows, MacOS, Linux%%%34.99%%%2013-08-13%%%4GB%%%0
+Hollow Knight%%%Windows, MacOS, Linux%%%10.99%%%2017-02-24%%%4GB%%%0
+Ring of Elysium%%%Windows%%%0%%%2018-09-19%%%4GB%%%0
+NieR:Automata%%%Windows%%%29.99%%%2017-03-17%%%4GB%%%18
+Sid Meiers Civilization VI%%%Windows, MacOS, Linux%%%49.99%%%2016-10-20%%%4GB%%%0
+Cuphead%%%Windows, MacOS%%%14.99%%%2017-09-29%%%3GB%%%0
+METAL GEAR SOLID V: THE PHANTOM PAIN%%%Windows%%%24.99%%%2015-09-01%%%4GB%%%18
+RimWorld%%%Windows, MacOS, Linux%%%27.79%%%2018-10-17%%%4GB%%%0
+Just Cause 3%%%Windows%%%11.99%%%2015-11-30%%%8GB%%%18
+XCOM: Enemy Unknown%%%Windows, MacOS, Linux%%%14.99%%%2012-10-11%%%2GB%%%12
+POSTAL 2%%%Windows, MacOS, Linux%%%6.99%%%2012-11-02%%%128MB%%%18
+Call of Duty: Black Ops III%%%Windows, MacOS%%%44.99%%%2015-11-05%%%6GB%%%18
+Mad Max%%%Windows, MacOS, Linux%%%15.99%%%2015-09-01%%%6GB%%%18
+PlanetSide 2%%%Windows%%%0%%%2012-11-20%%%6GB%%%0
+Stellaris%%%Windows, MacOS, Linux%%%34.99%%%2016-05-09%%%4GB%%%0
+AdVenture Capitalist%%%Windows, MacOS, Linux%%%0%%%2015-03-30%%%512MB%%%0
+FOR HONOR%%%Windows%%%12.49%%%2017-02-13%%%4GB%%%0
+Hearts of Iron IV%%%Windows, MacOS, Linux%%%34.99%%%2016-06-06%%%4GB%%%0
+PAYDAY The Heist%%%Windows%%%10.99%%%2011-10-20%%%1GB%%%18
+SMITE%%%Windows%%%0%%%2015-09-08%%%4GB%%%0
+The Elder Scrolls Online%%%Windows, MacOS%%%14.99%%%2017-05-22%%%3GB%%%18
+Black Squad%%%Windows%%%0%%%2017-07-28%%%4GB%%%0
+Batman: Arkham Knight%%%Windows%%%15.99%%%2015-06-23%%%6GB%%%18
+Firewatch%%%Windows, MacOS, Linux%%%14.99%%%2016-02-09%%%6GB%%%0
+Warface%%%Windows%%%0%%%2014-07-01%%%2GB%%%16
+Company of Heroes 2%%%Windows, MacOS, Linux%%%14.99%%%2013-06-25%%%2GB%%%18
+Spec Ops: The Line%%%Windows, MacOS, Linux%%%19.99%%%2012-06-28%%%2GB%%%18
+Total War: ROME II - Emperor Edition%%%Windows, MacOS%%%29.99%%%2013-09-02%%%2GB%%%0
+Brothers - A Tale of Two Sons%%%Windows%%%10.99%%%2013-09-03%%%2GB%%%0
+Prison Architect%%%Windows, MacOS, Linux%%%23.79%%%2015-10-06%%%4GB%%%0
+Crusader Kings II%%%Windows, MacOS, Linux%%%29.99%%%2012-02-14%%%4GB%%%0
+Assassin's Creed Origins%%%Windows%%%49.99%%%2017-10-26%%%6GB%%%0
+The Stanley Parable%%%Windows, MacOS, Linux%%%9.99%%%2013-10-17%%%2GB%%%0
+Mafia II%%%Windows, MacOS%%%19.99%%%2011-03-22%%%5GB%%%18
+Everlasting Summer%%%Windows, MacOS, Linux%%%0%%%2014-11-19%%%512MB%%%0
+Broforce%%%Windows, MacOS, Linux%%%11.99%%%2015-10-15%%%4GB%%%0
+Kingdom Come: Deliverance%%%Windows%%%29.99%%%2018-02-13%%%8GB%%%0
+DARK SOULS II%%%Windows%%%29.99%%%2014-04-25%%%2GB%%%16
+Call of Duty: Modern Warfare 2%%%Windows, MacOS%%%19.99%%%2009-11-11%%%1GB%%%0
+Total War: WARHAMMER%%%Windows, MacOS, Linux%%%39.99%%%2016-05-24%%%3GB%%%0
+XCOM 2%%%Windows, MacOS, Linux%%%34.99%%%2016-02-04%%%4GB%%%0
+ASTRONEER%%%Windows%%%23.79%%%2019-02-05%%%4GB%%%0
+Human: Fall Flat%%%Windows, MacOS%%%11.99%%%2016-07-22%%%1024MB%%%0
+Metro 2033 Redux%%%Windows, MacOS, Linux%%%14.99%%%2014-08-27%%%2GB%%%0
+Half-Life%%%Windows, MacOS, Linux%%%7.19%%%1998-11-08%%%96MB%%%0
+Game Dev Tycoon%%%Windows, MacOS, Linux%%%6.99%%%2013-08-29%%%2GB%%%0
+Grim Dawn%%%Windows%%%19.99%%%2016-02-25%%%2GB%%%0
+Wolfenstein: The New Order%%%Windows%%%14.99%%%2014-05-19%%%4GB%%%18
+Tom Clancy's Ghost Recon Wildlands%%%Windows%%%41.99%%%2017-03-06%%%6GB%%%0
+The Witcher: Enhanced Edition Director's Cut%%%Windows, MacOS%%%6.99%%%2008-09-16%%%1GB%%%0
+Slay the Spire%%%Windows, MacOS, Linux%%%19.49%%%2019-01-23%%%4GB%%%0
+Elite Dangerous%%%Windows%%%19.99%%%2015-04-02%%%6GB%%%0
+Dead Cells%%%Windows, MacOS, Linux%%%21.99%%%2018-08-06%%%2GB%%%0
+Batman: Arkham City - Game of the Year Edition%%%Windows, MacOS%%%14.99%%%2012-09-07%%%2GB%%%0
+Emily is Away%%%Windows, MacOS, Linux%%%0%%%2015-11-20%%%512MB%%%0
+DARK SOULS II: Scholar of the First Sin%%%Windows%%%29.99%%%2015-04-01%%%4GB%%%16
+Besiege%%%Windows, MacOS, Linux%%%6.99%%%2015-01-28%%%2GB%%%0
+VRChat%%%Windows%%%0%%%2017-02-01%%%4GB%%%0
+Papers, Please%%%Windows, MacOS, Linux%%%6.99%%%2013-08-08%%%2GB%%%0
+American Truck Simulator%%%Windows, MacOS, Linux%%%14.99%%%2016-02-02%%%4GB%%%0
+RESIDENT EVIL 2 / BIOHAZARD RE:2%%%Windows%%%44.99%%%2019-01-24%%%8GB%%%18
+Enter the Gungeon%%%Windows, MacOS, Linux%%%10.99%%%2016-04-05%%%2GB%%%0
+Stick Fight: The Game%%%Windows, MacOS%%%3.99%%%2017-09-28%%%1GB%%%0
+Banished%%%Windows%%%14.99%%%2014-02-18%%%512MB%%%0
+Alien: Isolation%%%Windows, MacOS, Linux%%%29.99%%%2014-10-06%%%4GB%%%18
+Slime Rancher%%%Windows, MacOS, Linux%%%14.99%%%2017-08-01%%%4GB%%%0
+Assassins Creed IV Black Flag%%%Windows%%%16.99%%%2013-11-19%%%2GB%%%0
+Fistful of Frags%%%Windows, MacOS, Linux%%%0%%%2014-05-09%%%2GB%%%0
+Squad%%%Windows%%%32.5%%%2015-12-14%%%8GB%%%0
+Metro: Last Light Redux%%%Windows, MacOS, Linux%%%14.99%%%2014-08-27%%%2GB%%%0
+Realm of the Mad God%%%Windows, MacOS%%%0%%%2012-02-20%%%1GB%%%0
+Far Cry 5%%%Windows%%%49.99%%%2018-03-26%%%8GB%%%0
+Hitman: Absolution%%%Windows, MacOS%%%14.99%%%2012-11-19%%%2GB%%%18
+Alan Wake%%%Windows%%%11.39%%%2012-02-16%%%2GB%%%0
+Frostpunk%%%Windows%%%24.99%%%2018-04-24%%%4GB%%%16
+Risk of Rain%%%Windows, MacOS, Linux%%%6.99%%%2013-11-08%%%1GB%%%0
+Depth%%%Windows%%%14.99%%%2014-11-03%%%3GB%%%0
+Transistor%%%Windows, MacOS, Linux%%%15.49%%%2014-05-20%%%4GB%%%0
+Counter-Strike Nexon: Zombies%%%Windows%%%0%%%2014-10-07%%%2GB%%%0
+ORION: Prelude%%%Windows%%%0.79%%%2013-04-16%%%3GB%%%0
+Verdun%%%Windows, MacOS, Linux%%%15.49%%%2015-04-28%%%4GB%%%0
+Planet Coaster%%%Windows%%%29.99%%%2016-11-17%%%8GB%%%0
+Conan Exiles%%%Windows%%%33.99%%%2018-05-08%%%6GB%%%18
+Life is Strange: Before the Storm%%%Windows, MacOS, Linux%%%13.99%%%2017-08-31%%%3GB%%%16
+Warhammer: Vermintide 2%%%Windows%%%23.79%%%2018-03-08%%%6GB%%%0
+Sekiro: Shadows Die Twice%%%Windows%%%49.9%%%2019-03-21%%%4GB%%%18
+Mortal Kombat X%%%Windows%%%15.99%%%2015-04-13%%%3GB%%%18
+Fallout Shelter%%%Windows%%%0%%%2017-03-29%%%2GB%%%0
+Mirror%%%Windows, MacOS%%%1.69%%%2018-04-19%%%2GB%%%0
+The Wolf Among Us%%%Windows, MacOS%%%11.99%%%2013-10-11%%%3GB%%%16
+Dishonored 2%%%Windows%%%29.99%%%2016-11-11%%%8GB%%%18
+Cry of Fear%%%Windows%%%0%%%2013-04-25%%%1024MB%%%0
+Totally Accurate Battlegrounds%%%Windows%%%3.99%%%2018-06-05%%%8GB%%%0
+Magicka%%%Windows%%%7.99%%%2011-01-25%%%2GB%%%0
+Watch_Dogs 2%%%Windows%%%49.99%%%2016-11-28%%%6GB%%%0
+SpeedRunners%%%Windows, MacOS, Linux%%%10.99%%%2016-04-19%%%3GB%%%0
+Assassin's Creed Odyssey%%%Windows%%%49.99%%%2018-10-05%%%8GB%%%0
+Awesomenauts - the 2D moba%%%Windows, MacOS, Linux%%%0%%%2012-08-01%%%2GB%%%0
+Hunt Showdown%%%Windows%%%25.99%%%2018-02-22%%%8GB%%%0
+Batman: Arkham Origins%%%Windows%%%0%%%2013-10-24%%%2GB%%%16
+Batman: Arkham Asylum Game of the Year Edition%%%Windows, MacOS%%%14.99%%%2010-03-26%%%1GB%%%0
+Hellblade: Senua's Sacrifice%%%Windows%%%24.99%%%2017-08-07%%%8GB%%%18
+Plague Inc: Evolved%%%Windows, MacOS, Linux%%%11.99%%%2016-02-18%%%1GB%%%0
+APB Reloaded%%%Windows%%%0%%%2011-12-06%%%3GB%%%0
+Middle-earth: Shadow of War%%%Windows%%%34.99%%%2017-10-09%%%6GB%%%18
+Friday the 13th: The Game%%%Windows%%%15.49%%%2017-05-25%%%4GB%%%18
+INSIDE%%%Windows%%%14.99%%%2016-07-07%%%4GB%%%0
+SCP: Secret Laboratory%%%Windows%%%0%%%2017-12-29%%%3GB%%%0
+The Plan%%%Windows, MacOS, Linux%%%0%%%2014-02-14%%%1024MB%%%0
+Total War: WARHAMMER II%%%Windows, MacOS, Linux%%%39.99%%%2017-09-28%%%5GB%%%0
+Creativerse%%%Windows, MacOS%%%0%%%2017-05-08%%%6GB%%%0
+RESIDENT EVIL 7 biohazard / BIOHAZARD 7 resident evil%%%Windows%%%19.99%%%2017-01-23%%%8GB%%%18
+Shadow Warrior%%%Windows, MacOS, Linux%%%29.99%%%2013-09-26%%%2GB%%%18
+Deceit%%%Windows%%%0%%%2017-03-03%%%4GB%%%0
+Neverwinter%%%Windows%%%0%%%2013-12-05%%%2GB%%%0
+A Story About My Uncle%%%Windows, MacOS, Linux%%%9.99%%%2014-05-28%%%2GB%%%0
+Risk of Rain 2%%%Windows%%%14.99%%%2019-03-28%%%4GB%%%0
+Mirror's Edge%%%Windows%%%9.99%%%2009-01-14%%%1GB%%%0
+Prey%%%Windows%%%19.99%%%2017-05-04%%%8GB%%%0
+HuniePop%%%Windows, MacOS, Linux%%%6.99%%%2015-01-19%%%2GB%%%18
+Fallout 3: Game of the Year Edition%%%Windows%%%14.99%%%2009-12-17%%%256MB%%%0
+Devil May Cry 5%%%Windows%%%44.99%%%2019-03-07%%%8GB%%%18
+DiRT Rally%%%Windows, MacOS, Linux%%%24.99%%%2015-12-07%%%4GB%%%0
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 4%%%Windows%%%24.99%%%2016-02-04%%%2GB%%%0
+Project Zomboid%%%Windows, MacOS, Linux%%%9.99%%%2013-11-08%%%4GB%%%0
+Miscreated%%%Windows%%%19.49%%%2018-12-18%%%8GB%%%0
+The Talos Principle%%%Windows, MacOS, Linux%%%29.99%%%2014-12-11%%%2GB%%%0
+Realm Royale%%%Windows%%%0%%%2018-06-05%%%6GB%%%0
+Rising Storm 2: Vietnam%%%Windows%%%18.99%%%2017-05-30%%%4GB%%%0
+Far Cry 4%%%Windows%%%25.99%%%2014-12-01%%%4GB%%%0
+Spintires: The Original Game%%%Windows%%%9.99%%%2014-06-12%%%2GB%%%0
+ICEY%%%Windows, MacOS%%%8.99%%%2016-11-17%%%2GB%%%0
+Borderlands: The Pre-Sequel%%%Windows, MacOS, Linux%%%29.99%%%2014-10-16%%%2GB%%%18
+Blood and Bacon%%%Windows%%%0.79%%%2016-02-01%%%600MB%%%0
+Oxygen Not Included%%%Windows, MacOS, Linux%%%18.99%%%2017-05-18%%%4GB%%%0
+Duck Game%%%Windows%%%9.99%%%2015-06-04%%%1GB%%%0
+Magic Duels%%%Windows%%%0%%%2015-07-29%%%1GB%%%0
+SOMA%%%Windows, MacOS, Linux%%%22.99%%%2015-09-21%%%4GB%%%0
+NEKOPARA Vol. 1%%%Windows%%%6.99%%%2014-12-29%%%1GB%%%0
+Deus Ex: Mankind Divided%%%Windows, MacOS, Linux%%%19.99%%%2016-08-23%%%8GB%%%18
+Golf With Your Friends%%%Windows, MacOS, Linux%%%4.79%%%2016-01-29%%%4GB%%%0
+SCUM%%%Windows%%%15.49%%%2018-08-29%%%8GB%%%0
+Ori and the Blind Forest: Definitive Edition%%%Windows%%%14.99%%%2016-04-27%%%4GB%%%0
+Quake Champions%%%Windows%%%0%%%2017-08-22%%%8GB%%%0
+BLOCKADE 3D%%%Windows%%%0%%%2014-12-19%%%2GB%%%0
+Five Nights at Freddy's%%%Windows%%%3.99%%%2014-08-19%%%1GB%%%0
+theHunter: Call of the Wild%%%Windows%%%19.99%%%2017-02-16%%%4GB%%%0
+Valiant Hearts: The Great War / Soldats Inconnus : Mmoires de la Grande Guerre%%%Windows%%%12.49%%%2014-06-25%%%2GB%%%0
+ABZU%%%Windows%%%14.99%%%2016-08-02%%%4GB%%%0
+Stranded Deep%%%Windows, MacOS, Linux%%%10.99%%%2015-01-23%%%4GB%%%0
+Hurtworld%%%Windows, MacOS%%%19.49%%%2015-12-03%%%4GB%%%0
+Sleeping Dogs: Definitive Edition%%%Windows, MacOS%%%19.99%%%2014-10-08%%%4GB%%%18
+TEKKEN 7%%%Windows%%%34.99%%%2017-06-01%%%6GB%%%0
+Assetto Corsa%%%Windows%%%15.49%%%2014-12-19%%%2GB%%%0
+Scrap Mechanic%%%Windows%%%14.99%%%2016-01-19%%%4GB%%%0
+BeamNG.drive%%%Windows%%%18.99%%%2015-05-29%%%4GB%%%0
+SPORE%%%Windows%%%14.99%%%2008-12-19%%%512MB%%%0
+The Expendabros%%%Windows, MacOS%%%0%%%2014-08-05%%%2GB%%%0
+Dust: An Elysian Tail%%%Windows, MacOS, Linux%%%11.99%%%2013-05-24%%%1GB%%%0
+Ryse: Son of Rome%%%Windows%%%11.99%%%2014-10-10%%%4GB%%%18
+Hero Siege%%%Windows, MacOS, Linux%%%6.99%%%2014-01-29%%%4GB%%%0
+Total War: EMPIRE  Definitive Edition%%%Windows, MacOS, Linux%%%19.99%%%2009-03-04%%%1GB%%%0
+Call of Duty: Ghosts%%%Windows%%%39.99%%%2014-03-25%%%6GB%%%16
+SUPERHOT%%%Windows, MacOS, Linux%%%17.99%%%2016-02-25%%%4GB%%%0
+DmC: Devil May Cry%%%Windows%%%23.99%%%2013-01-24%%%2GB%%%16
+Resident Evil 6 / Biohazard 6%%%Windows%%%19.99%%%2013-03-21%%%2GB%%%18
+Layers of Fear%%%Windows, MacOS, Linux%%%14.99%%%2016-02-15%%%4GB%%%0
+Day of Infamy%%%Windows, MacOS, Linux%%%11.39%%%2017-03-23%%%4GB%%%0
+Tales from the Borderlands%%%Windows, MacOS%%%11.99%%%2014-11-25%%%3GB%%%18
+Skullgirls%%%Windows, MacOS, Linux%%%6.99%%%2013-08-22%%%2GB%%%0
+One Finger Death Punch%%%Windows%%%3.99%%%2014-03-03%%%1GB%%%0
+Crypt of the NecroDancer%%%Windows, MacOS, Linux%%%10.99%%%2015-04-23%%%1000MB%%%0
+Black Mesa%%%Windows, Linux%%%14.99%%%2015-05-05%%%4GB%%%0
+World of Tanks Blitz MMO%%%Windows, MacOS%%%0%%%2016-11-09%%%2GB%%%0
+A Hat in Time%%%Windows, MacOS%%%22.99%%%2017-10-05%%%4GB%%%0
+Half-Life 2: Episode Two%%%Windows, MacOS, Linux%%%5.79%%%2007-10-10%%%512MB%%%0
+Iron Snout%%%Windows, MacOS, Linux%%%0%%%2016-01-27%%%512MB%%%0
+Rogue Legacy%%%Windows, MacOS, Linux%%%10.99%%%2013-06-27%%%1GB%%%0
+FINAL FANTASY XV WINDOWS EDITION%%%Windows%%%34.99%%%2018-03-06%%%8GB%%%16
+Age of Empires III: Complete Collection%%%Windows%%%29.99%%%2012-01-05%%%2GB%%%0
+Infestation: The New Z%%%Windows%%%0%%%2016-11-22%%%4GB%%%0
+METAL GEAR RISING: REVENGEANCE%%%Windows%%%19.99%%%2014-01-09%%%2GB%%%18
+Gang Beasts%%%Windows, MacOS, Linux%%%14.99%%%2017-12-12%%%4GB%%%0
+Call of Duty: Advanced Warfare - Gold Edition%%%Windows%%%39.99%%%2014-11-03%%%6GB%%%18
+Mafia III%%%Windows, MacOS%%%34.99%%%2016-10-06%%%6GB%%%18
+Hacknet%%%Windows, MacOS, Linux%%%7.19%%%2015-08-12%%%512MB%%%0
+Town of Salem%%%Windows, MacOS%%%3.99%%%2014-12-15%%%2GB%%%0
+Orcs Must Die! 2%%%Windows%%%11.99%%%2012-07-30%%%2GB%%%0
+Minion Masters%%%Windows%%%0%%%2016-12-02%%%4GB%%%0
+Tabletop Simulator%%%Windows, MacOS, Linux%%%14.99%%%2015-06-05%%%4GB%%%0
+HELLDIVERS A New Hell Edition%%%Windows%%%15.99%%%2015-12-07%%%4GB%%%16
+Deus Ex: Human Revolution - Director's Cut%%%Windows, MacOS%%%12.99%%%2013-10-25%%%2GB%%%16
+How to Survive%%%Windows%%%10.99%%%2014-08-29%%%4GB%%%0
+Guns of Icarus Online%%%Windows, MacOS, Linux%%%3.99%%%2012-10-29%%%2GB%%%0
+Insurgency: Sandstorm%%%Windows%%%25.99%%%2018-12-12%%%8GB%%%0
+Dragon's Dogma: Dark Arisen%%%Windows%%%23.99%%%2016-01-15%%%4GB%%%0
+My Summer Car%%%Windows%%%10.99%%%2016-10-24%%%6GB%%%0
+Brutal Legend%%%Windows, MacOS, Linux%%%10.99%%%2013-02-26%%%1GB%%%0
+The Beginner's Guide%%%Windows, MacOS, Linux%%%6.99%%%2015-10-01%%%2GB%%%0
+Sniper Elite 3%%%Windows%%%22.99%%%2014-06-27%%%2GB%%%0
+DRAGON BALL XENOVERSE%%%Windows%%%31.99%%%2015-02-26%%%2GB%%%0
+Crossout%%%Windows%%%0%%%2017-07-26%%%4GB%%%0
+Assassin's Creed Unity%%%Windows%%%25.99%%%2014-12-19%%%6GB%%%0
+VA-11 Hall-A: Cyberpunk Bartender Action%%%Windows, MacOS, Linux%%%10.99%%%2016-06-21%%%1GB%%%0
+Total War: ATTILA%%%Windows, MacOS, Linux%%%29.99%%%2015-02-17%%%3GB%%%0
+Antichamber%%%Windows, MacOS, Linux%%%14.99%%%2013-01-31%%%2GB%%%0
+Dino D-Day%%%Windows%%%6.99%%%2011-04-08%%%2GB%%%0
+Northgard%%%Windows, MacOS, Linux%%%23.79%%%2018-03-07%%%1GB%%%0
+Sven Co-op%%%Windows%%%0%%%2016-01-22%%%512MB%%%18
+Counter-Strike: Condition Zero%%%Windows, MacOS, Linux%%%7.19%%%2004-03-01%%%96MB%%%0
+The Darkness II%%%Windows, MacOS%%%19.99%%%2012-02-09%%%5GB%%%18
+GRID 2%%%Windows%%%19.98%%%2013-05-27%%%2GB%%%0
+Sakura Clicker%%%Windows%%%0%%%2015-07-29%%%512MB%%%0
+Lost Castle%%%Windows, MacOS%%%6.99%%%2016-08-31%%%2GB%%%0
+Refunct%%%Windows, MacOS, Linux%%%1.99%%%2015-10-16%%%1GB%%%0
+NEKOPARA Vol. 0%%%Windows%%%1.99%%%2015-08-17%%%1GB%%%0
+Wolfenstein II: The New Colossus%%%Windows%%%39.99%%%2017-10-26%%%8GB%%%18
+FINAL FANTASY VII%%%Windows%%%9.99%%%2013-07-04%%%1GB%%%12
+Transformice%%%Windows, MacOS%%%0%%%2015-01-30%%%512MB%%%0
+The Escapists%%%Windows, MacOS, Linux%%%12.99%%%2015-02-13%%%2GB%%%0
+Sanctum 2%%%Windows, MacOS, Linux%%%11.39%%%2013-05-15%%%2GB%%%0
+Raft%%%Windows%%%14.99%%%2018-05-23%%%4GB%%%0
+Pillars of Eternity%%%Windows, MacOS, Linux%%%22.99%%%2015-03-26%%%4GB%%%0
+Codename CURE%%%Windows, MacOS, Linux%%%0%%%2017-10-31%%%2GB%%%0
+theHunter Classic%%%Windows%%%0%%%2014-06-03%%%2GB%%%0
+ShellShock Live%%%Windows, MacOS, Linux%%%4.99%%%2015-03-11%%%1GB%%%0
+Men of War: Assault Squad 2%%%Windows%%%19.99%%%2014-05-15%%%4GB%%%0
+Surgeon Simulator%%%Windows, MacOS, Linux%%%6.99%%%2013-04-19%%%2GB%%%0
+Tricolour Lovestory%%%Windows%%%1.59%%%2017-09-20%%%1GB%%%0
+They Are Billions%%%Windows%%%19.49%%%2017-12-12%%%4GB%%%0
+resident evil 4 / biohazard 4%%%Windows%%%14.99%%%2014-02-27%%%2GB%%%16
+Farming Simulator 17%%%Windows, MacOS%%%15.99%%%2016-10-24%%%2GB%%%0
+World of Guns: Gun Disassembly%%%Windows, MacOS, Linux%%%0%%%2014-05-21%%%1024MB%%%0
+Beat Saber%%%Windows%%%15.49%%%2018-05-01%%%4GB%%%0
+Empyrion - Galactic Survival%%%Windows%%%14.99%%%2015-08-05%%%8GB%%%0
+S.T.A.L.K.E.R.: Shadow of Chernobyl%%%Windows%%%9.99%%%2007-03-20%%%512MB%%%0
+Hyper Light Drifter%%%Windows, MacOS, Linux%%%14.99%%%2016-03-31%%%4GB%%%0
+OneShot%%%Windows, MacOS, Linux%%%6.99%%%2016-12-08%%%4GB%%%0
+Getting Over It with Bennett Foddy%%%Windows, MacOS, Linux%%%5.79%%%2017-12-06%%%2GB%%%0
+Mountain%%%Windows, MacOS, Linux%%%0.79%%%2014-08-18%%%2GB%%%0
+Sniper Elite 4%%%Windows%%%39.99%%%2017-02-13%%%4GB%%%0
+Block N Load%%%Windows%%%0%%%2015-04-30%%%3GB%%%0
+Portal Knights%%%Windows%%%14.99%%%2017-05-18%%%4GB%%%0
+Shadow of the Tomb Raider%%%Windows%%%44.99%%%2018-09-14%%%8GB%%%18
+HITMAN 2%%%Windows%%%44.99%%%2018-11-13%%%8GB%%%0
+Outlast 2%%%Windows%%%23.79%%%2017-04-24%%%4GB%%%0
+Dungeon Defenders II%%%Windows%%%0%%%2017-06-20%%%3GB%%%0
+Call of Duty: WWII%%%Windows%%%44.99%%%2017-11-02%%%8GB%%%18
+My Time At Portia%%%Windows%%%24.99%%%2019-01-15%%%6GB%%%0
+Dungeon Defenders%%%Windows, MacOS, Linux%%%9.99%%%2011-10-18%%%1GB%%%0
+Mass Effect 2%%%Windows%%%19.99%%%2010-01-28%%%1GB%%%0
+FEZ%%%Windows, MacOS, Linux%%%6.99%%%2013-05-01%%%2GB%%%0
+Divinity: Original Sin - Enhanced Edition%%%Windows, MacOS, Linux%%%29.99%%%2015-10-27%%%2GB%%%0
+Fishing Planet%%%Windows, MacOS, Linux%%%0%%%2017-08-28%%%4GB%%%0
+The Evil Within%%%Windows%%%14.99%%%2014-10-13%%%4GB%%%18
+What Remains of Edith Finch%%%Windows%%%14.99%%%2017-04-24%%%2GB%%%0
+Titan Quest Anniversary Edition%%%Windows%%%17.99%%%2016-08-31%%%1GB%%%0
+Day of Defeat: Source%%%Windows, MacOS, Linux%%%7.19%%%2010-07-12%%%512MB%%%0
+Thief%%%Windows, MacOS%%%19.99%%%2014-02-27%%%4GB%%%16
+Bad Rats: the Rats' Revenge%%%Windows%%%0.79%%%2009-07-20%%%512MB%%%0
+DRAGON BALL FighterZ%%%Windows%%%44.99%%%2018-01-26%%%4GB%%%0
+Gunpoint%%%Windows, MacOS, Linux%%%6%%%2013-06-03%%%1GB%%%0
+Black Desert Online%%%Windows%%%7.99%%%2017-05-24%%%4GB%%%0
+Total War: MEDIEVAL II  Definitive Edition%%%Windows, MacOS, Linux%%%0%%%2006-11-15%%%512MB%%%0
+Deep Rock Galactic%%%Windows%%%24.99%%%2018-02-28%%%6GB%%%0
+Quantum Break%%%Windows%%%29.99%%%2016-09-29%%%8GB%%%0
+Quake Live%%%Windows%%%6.99%%%2014-09-17%%%1GB%%%0
+Farming Simulator 15%%%Windows, MacOS%%%15.49%%%2014-10-30%%%2GB%%%0
+S.T.A.L.K.E.R.: Call of Pripyat%%%Windows%%%12.99%%%2010-02-11%%%768MB%%%0
+Shadow Warrior 2%%%Windows%%%34.99%%%2016-10-13%%%8GB%%%0
+DC Universe Online%%%Windows%%%0%%%2011-11-02%%%1GB%%%0
+Eternal Senia%%%Windows%%%0%%%2015-06-18%%%512MB%%%0
+Montaro%%%Windows%%%0.79%%%2016-07-25%%%256MB%%%0
+Tom Clancys Splinter Cell Blacklist%%%Windows%%%16.99%%%2013-08-23%%%2GB%%%0
+Endless Legend%%%Windows, MacOS%%%22.99%%%2014-09-18%%%4GB%%%0
+Survarium%%%Windows%%%0%%%2015-04-02%%%4GB%%%16
+Child of Light%%%Windows%%%12.49%%%2014-04-29%%%2GB%%%0
+Beholder%%%Windows, MacOS, Linux%%%6.99%%%2016-11-09%%%2GB%%%3
+Artifact%%%Windows, MacOS, Linux%%%15.99%%%2018-11-28%%%4GB%%%0
+Fallout 3%%%Windows%%%7.99%%%2008-10-28%%%256MB%%%0
+Bendy and the Ink Machine%%%Windows, MacOS, Linux%%%15.49%%%2017-04-27%%%8GB%%%0
+Yet Another Zombie Defense%%%Windows%%%0%%%2014-03-28%%%1GB%%%0
+Nioh: Complete Edition /  Complete Edition%%%Windows%%%39.99%%%2017-11-07%%%6GB%%%0
+Jurassic World Evolution%%%Windows%%%34.99%%%2018-06-11%%%8GB%%%0
+FINAL FANTASY XIV Online%%%Windows%%%9.99%%%2014-02-18%%%3GB%%%16
+Hand Simulator%%%Windows%%%1.59%%%2017-07-18%%%2GB%%%0
+Who's Your Daddy%%%Windows, MacOS, Linux%%%3.99%%%2016-05-13%%%4GB%%%0
+The Banner Saga%%%Windows, MacOS%%%18.74%%%2014-01-14%%%2GB%%%0
+Burnout Paradise: The Ultimate Box%%%Windows%%%9.99%%%2009-03-12%%%1GB%%%0
+Nuclear Throne%%%Windows, MacOS, Linux%%%9.29%%%2015-12-05%%%1024MB%%%0
+Kingdom: Classic%%%Windows, MacOS, Linux%%%3.99%%%2015-10-21%%%1GB%%%0
+Darwin Project%%%Windows%%%0%%%2018-03-09%%%4GB%%%0
+Cuisine Royale%%%Windows%%%0%%%2018-06-15%%%8GB%%%0
+Sid Meier's Civilization: Beyond Earth%%%Windows, MacOS, Linux%%%29.99%%%2014-10-23%%%2GB%%%0
+DRAGON BALL XENOVERSE 2%%%Windows%%%39.99%%%2016-10-27%%%2GB%%%0
+Shadow Tactics: Blades of the Shogun%%%Windows, MacOS, Linux%%%34.99%%%2016-12-06%%%4GB%%%0
+Kenshi%%%Windows%%%22.99%%%2018-12-06%%%6GB%%%0
+The Crew%%%Windows%%%25.99%%%2014-12-19%%%4GB%%%0
+Mitos.is: The Game%%%Windows, MacOS%%%0%%%2015-07-29%%%512MB%%%0
+Aliens vs. Predator%%%Windows%%%9.99%%%2010-02-16%%%128MB%%%0
+Car Mechanic Simulator 2018%%%Windows, MacOS%%%14.99%%%2017-07-28%%%4GB%%%0
+World of Warships%%%Windows%%%0%%%2017-11-15%%%4GB%%%0
+Age of Mythology: Extended Edition%%%Windows%%%22.99%%%2014-05-08%%%1GB%%%0
+Tree of Savior (English Ver.)%%%Windows%%%0%%%2016-03-28%%%8GB%%%0
+Gotham City Impostors Free to Play%%%Windows%%%0%%%2012-08-30%%%5GB%%%0
+Double Action: Boogaloo%%%Windows, Linux%%%0%%%2014-10-23%%%512MB%%%0
+Hyperdimension Neptunia ReBirth1 /  ReBirth1 / 1%%%Windows%%%19.49%%%2015-01-29%%%4GB%%%0
+Dead Space%%%Windows%%%14.99%%%2009-01-09%%%1GB%%%0
+Ravenfield%%%Windows, MacOS, Linux%%%10.99%%%2017-05-18%%%4GB%%%0
+Contagion%%%Windows%%%6.99%%%2013-10-25%%%4GB%%%0
+Remember Me%%%Windows%%%22.99%%%2013-06-06%%%2GB%%%16
+Resident Evil Revelations 2 / Biohazard Revelations 2%%%Windows%%%4.99%%%2015-02-24%%%2GB%%%18
+Spooky's Jump Scare Mansion%%%Windows%%%0%%%2015-07-28%%%4GB%%%0
+Yakuza 0%%%Windows%%%14.99%%%2018-08-01%%%4GB%%%18
+LEGO Worlds%%%Windows%%%24.99%%%2017-03-07%%%4GB%%%0
+WARMODE%%%Windows%%%0%%%2015-08-25%%%1024MB%%%0
+Deadlight%%%Windows%%%9.99%%%2012-10-25%%%2GB%%%18
+Dungeons 3%%%Windows, MacOS, Linux%%%29.99%%%2017-10-13%%%4GB%%%16
+Dead Space 2%%%Windows%%%14.99%%%2011-01-27%%%1GB%%%0
+The Evil Within 2%%%Windows%%%39.99%%%2017-10-12%%%8GB%%%18
+Bayonetta%%%Windows%%%14.99%%%2017-04-11%%%4GB%%%18
+Valkyria Chronicles%%%Windows%%%14.99%%%2014-11-11%%%2GB%%%0
+Microsoft Flight Simulator X: Steam Edition%%%Windows%%%19.99%%%2014-12-18%%%2GB%%%0
+RWBY: Grimm Eclipse%%%Windows, MacOS%%%14.99%%%2016-07-05%%%4GB%%%0
+Wreckfest%%%Windows%%%38.99%%%2018-06-14%%%4GB%%%0
+LEGO Marvel Super Heroes%%%Windows, MacOS%%%14.99%%%2013-11-15%%%2GB%%%0
+Injustice: Gods Among Us Ultimate Edition%%%Windows%%%14.99%%%2013-11-29%%%2GB%%%16
+Tropico 4%%%Windows, MacOS%%%12.49%%%2011-09-01%%%1GB%%%0
+Call of Duty 4: Modern Warfare%%%Windows, MacOS%%%19.99%%%2007-11-12%%%512MB%%%0
+Digger Online%%%Windows%%%6.99%%%2015-06-02%%%1GB%%%0
+Shadowrun Returns%%%Windows, MacOS, Linux%%%10.99%%%2013-07-25%%%2GB%%%0
+NEKOPARA Vol. 2%%%Windows%%%6.99%%%2016-02-19%%%1GB%%%0
+Sonic Mania%%%Windows%%%14.99%%%2017-08-29%%%2GB%%%0
+DARK SOULS: REMASTERED%%%Windows%%%34.99%%%2018-05-23%%%6GB%%%0
+Murdered: Soul Suspect%%%Windows%%%19.99%%%2014-06-05%%%2GB%%%16
+BioShock Remastered%%%Windows, MacOS%%%9.99%%%2016-09-15%%%4GB%%%18
+Star Conflict%%%Windows, MacOS, Linux%%%0%%%2013-02-27%%%4GB%%%0
+Move or Die%%%Windows, MacOS, Linux%%%10.99%%%2016-01-21%%%4GB%%%0
+ATLAS%%%Windows%%%23.79%%%2018-12-22%%%4GB%%%0
+Project CARS%%%Windows%%%23.39%%%2015-03-15%%%4GB%%%0
+Train Simulator 2019%%%Windows%%%34.99%%%2015-09-17%%%4GB%%%0
+Total War: NAPOLEON  Definitive Edition%%%Windows, MacOS%%%0%%%2010-02-25%%%1GB%%%0
+Detention%%%Windows, MacOS, Linux%%%8.99%%%2017-01-12%%%4GB%%%0
+We Were Here%%%Windows, MacOS, Linux%%%0%%%2017-02-03%%%4GB%%%0
+World War 3%%%Windows%%%24%%%2018-10-19%%%8GB%%%0
+Kingdoms of Amalur: Reckoning%%%Windows%%%19.99%%%2012-02-09%%%1GB%%%16
+Bully: Scholarship Edition%%%Windows%%%9.99%%%2008-10-21%%%1GB%%%0
+Zombie Army Trilogy%%%Windows%%%29.99%%%2015-03-06%%%2GB%%%0
+Far Cry Primal%%%Windows%%%41.99%%%2016-02-29%%%4GB%%%18
+Natural Selection 2%%%Windows, Linux%%%6.99%%%2012-10-30%%%4GB%%%0
+BRAIN / OUT%%%Windows, MacOS, Linux%%%0%%%2017-02-24%%%512MB%%%0
+Street Fighter V%%%Windows%%%15.99%%%2016-02-15%%%6GB%%%0
+Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad%%%Windows%%%0.79%%%2015-09-02%%%1024MB%%%16
+Ultra Street Fighter IV%%%Windows%%%22.99%%%2014-08-07%%%1GB%%%0
+BATTLETECH%%%Windows, MacOS, Linux%%%34.99%%%2018-04-24%%%8GB%%%0
+Car Mechanic Simulator 2015%%%Windows, MacOS%%%14.99%%%2015-04-23%%%4GB%%%0
+Rocksmith 2014 Edition - Remastered%%%Windows, MacOS%%%25.99%%%2016-10-04%%%2GB%%%0
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD%%%Windows%%%14.99%%%2013-10-24%%%2GB%%%0
+Endless Space 2%%%Windows, MacOS%%%34.99%%%2017-05-18%%%4GB%%%0
+The Awesome Adventures of Captain Spirit%%%Windows%%%0%%%2018-06-25%%%4GB%%%0
+Reign Of Kings%%%Windows%%%7.19%%%2015-12-15%%%6GB%%%0
+STAR WARS Knights of the Old Republic II - The Sith Lords%%%Windows, MacOS, Linux%%%7.19%%%2012-08-23%%%4GB%%%0
+Five Nights at Freddy's 2%%%Windows%%%5.79%%%2014-11-10%%%1GB%%%0
+Yu-Gi-Oh! Duel Links%%%Windows%%%0%%%2017-11-16%%%2GB%%%0
+METAL GEAR SOLID V: GROUND ZEROES%%%Windows%%%16.99%%%2014-12-18%%%4GB%%%18
+Wargame: Red Dragon%%%Windows, MacOS, Linux%%%24.99%%%2014-04-17%%%2GB%%%0
+Transmissions: Element 120%%%Windows, Linux%%%0%%%2016-06-16%%%2GB%%%0
+Half-Life 2: Episode One%%%Windows, MacOS, Linux%%%5.79%%%2006-06-01%%%512MB%%%0
+Ultimate Chicken Horse%%%Windows, MacOS, Linux%%%10.99%%%2016-03-04%%%2GB%%%0
+Tropico 5%%%Windows, MacOS, Linux%%%14.99%%%2014-05-23%%%4GB%%%0
+Freddy Fazbear's Pizzeria Simulator%%%Windows%%%0%%%2017-12-04%%%2GB%%%0
+Call of Duty: Infinite Warfare%%%Windows%%%39.99%%%2016-11-03%%%8GB%%%18
+Rome: Total War - Collection%%%Windows%%%8.99%%%2007-08-28%%%256MB%%%0
+Steep%%%Windows%%%25.99%%%2016-12-02%%%6GB%%%0
+Ultimate Custom Night%%%Windows%%%0%%%2018-06-27%%%2GB%%%0
+NEKOPARA Vol. 3%%%Windows%%%6.99%%%2017-05-25%%%1GB%%%0
+Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist%%%Windows, MacOS%%%0%%%2015-12-04%%%2GB%%%0
+AirMech Strike%%%Windows%%%0%%%2018-03-30%%%4GB%%%0
+Star Trek Online%%%Windows%%%0%%%2012-01-31%%%2GB%%%0
+Alien Swarm: Reactive Drop%%%Windows%%%0%%%2017-04-20%%%2GB%%%0
+Little Nightmares%%%Windows%%%15.99%%%2017-04-27%%%4GB%%%0
+Nether: Resurrected%%%Windows%%%6.99%%%2014-06-05%%%4GB%%%0
+Thomas Was Alone%%%Windows, MacOS%%%5.99%%%2012-11-12%%%1GB%%%0
+LISA%%%Windows, MacOS, Linux%%%6.99%%%2014-12-15%%%512MB%%%0
+Tales of Berseria%%%Windows%%%39.99%%%2017-01-26%%%2GB%%%0
+Dungeon of the Endless%%%Windows, MacOS%%%8.99%%%2014-10-27%%%2GB%%%0
+Lords Of The Fallen%%%Windows%%%23.79%%%2014-10-28%%%6GB%%%16
+The Room Two%%%Windows%%%3.99%%%2016-07-05%%%2GB%%%0
+S.K.I.L.L. - Special Force 2 (Shooter)%%%Windows%%%0%%%2015-05-19%%%1GB%%%0
+Dead Rising 3 Apocalypse Edition%%%Windows%%%24.99%%%2014-09-05%%%6GB%%%18
+Crush Crush%%%Windows, MacOS, Linux%%%0%%%2016-10-18%%%1GB%%%0
+Celeste%%%Windows, MacOS, Linux%%%14.99%%%2018-01-25%%%2GB%%%0
+SNOW%%%Windows%%%0%%%2019-02-14%%%4GB%%%0
+DEEP SPACE WAIFU%%%Windows%%%1.59%%%2017-05-31%%%4GB%%%18
+Armello%%%Windows, MacOS, Linux%%%14.99%%%2015-09-01%%%2GB%%%0
+Deponia%%%Windows, MacOS, Linux%%%6.99%%%2012-08-06%%%2GB%%%0
+Assassin's Creed Syndicate%%%Windows%%%33.99%%%2015-11-18%%%6GB%%%0
+Salt and Sanctuary%%%Windows, MacOS, Linux%%%13.59%%%2016-05-17%%%1GB%%%16
+The Isle%%%Windows%%%14.99%%%2015-12-01%%%8GB%%%0
+Orwell: Keeping an Eye On You%%%Windows, MacOS, Linux%%%7.19%%%2016-10-27%%%4GB%%%0
+House Flipper%%%Windows, MacOS%%%15.49%%%2018-05-17%%%4GB%%%0
+FINAL FANTASY XIII%%%Windows%%%10.99%%%2014-10-09%%%1GB%%%16
+Craft The World%%%Windows, MacOS%%%13.99%%%2014-11-24%%%1GB%%%0
+Material Girl%%%Windows%%%1.59%%%2017-06-20%%%2GB%%%0
+Sonic Generations Collection%%%Windows%%%0%%%2011-11-03%%%2GB%%%0
+The Vanishing of Ethan Carter%%%Windows%%%14.99%%%2014-09-25%%%6GB%%%0
+GunZ 2: The Second Duel%%%Windows%%%0%%%2014-05-01%%%4GB%%%0
+DISTRAINT: Deluxe Edition%%%Windows%%%3.99%%%2015-10-21%%%2GB%%%0
+Carpe Diem%%%Windows, MacOS, Linux%%%0%%%2015-11-30%%%128MB%%%0
+Sniper: Ghost Warrior 2%%%Windows%%%6.99%%%2013-03-11%%%512MB%%%18
+Night in the Woods%%%Windows, MacOS, Linux%%%14.99%%%2017-02-21%%%4GB%%%0
+Viscera Cleanup Detail%%%Windows, MacOS%%%9.99%%%2015-10-23%%%4GB%%%0
+Octodad: Dadliest Catch%%%Windows, MacOS, Linux%%%11.99%%%2014-01-30%%%2GB%%%0
+Crysis 2 - Maximum Edition%%%Windows%%%19.99%%%2011-03-22%%%512MB%%%0
+Scribblenauts Unlimited%%%Windows%%%14.99%%%2013-02-15%%%2GB%%%0
+The Bureau: XCOM Declassified%%%Windows, MacOS%%%14.99%%%2013-08-22%%%2GB%%%16
+Overcooked%%%Windows%%%12.99%%%2016-08-03%%%2GB%%%0
+Hook%%%Windows, MacOS, Linux%%%0.79%%%2015-07-06%%%2GB%%%0
+Wolfenstein: The Old Blood%%%Windows%%%14.99%%%2015-05-04%%%4GB%%%18
+Shakes and Fidget%%%Windows, MacOS%%%0%%%2016-02-24%%%1GB%%%0
+Finding Paradise%%%Windows, MacOS, Linux%%%6.99%%%2017-12-14%%%1GB%%%0
+The Witness%%%Windows, MacOS%%%29.99%%%2016-01-26%%%4GB%%%0
+PC Building Simulator%%%Windows%%%14.99%%%2019-01-29%%%4GB%%%0
+Oxenfree%%%Windows, MacOS, Linux%%%14.99%%%2016-01-14%%%2GB%%%0
+Rabi-Ribi%%%Windows%%%13.59%%%2016-01-28%%%1GB%%%0
+Bloons TD Battles%%%Windows, MacOS%%%0%%%2016-04-20%%%512MB%%%0
+Youtubers Life%%%Windows, MacOS, Linux%%%19.99%%%2017-02-02%%%2GB%%%0
+Two Point Hospital%%%Windows, MacOS, Linux%%%24.99%%%2018-08-29%%%4GB%%%0
+America's Army: Proving Grounds%%%Windows%%%0%%%2013-08-01%%%4GB%%%0
+Homefront: The Revolution%%%Windows%%%24.99%%%2016-05-19%%%6GB%%%18
+Absolver%%%Windows%%%24.99%%%2017-08-29%%%4GB%%%0
+STAR WARS Republic Commando%%%Windows%%%7.19%%%2009-07-08%%%256MB%%%0
+Gear Up%%%Windows, MacOS, Linux%%%0%%%2015-01-28%%%2GB%%%0
+Kingdoms and Castles%%%Windows, MacOS, Linux%%%6.99%%%2017-07-20%%%4GB%%%0
+Five Nights at Freddy's 4%%%Windows%%%5.79%%%2015-07-23%%%2GB%%%0
+Mount Your Friends%%%Windows%%%10.99%%%2014-07-29%%%2GB%%%18
+FINAL FANTASY X/X-2 HD Remaster%%%Windows%%%19.99%%%2016-05-12%%%1GB%%%12
+Osiris: New Dawn%%%Windows%%%18.99%%%2016-09-28%%%4GB%%%0
+Resident Evil / biohazard HD REMASTER%%%Windows%%%15.99%%%2015-01-19%%%2GB%%%0
+Deus Ex: Game of the Year Edition%%%Windows%%%4.99%%%2007-03-29%%%64MB%%%16
+CrossCode%%%Windows, MacOS, Linux%%%14.99%%%2018-09-20%%%2GB%%%0
+CPUCores :: Maximize Your FPS%%%Windows%%%10.99%%%2015-07-06%%%1GB%%%0
+Out There Somewhere%%%Windows, MacOS%%%0.79%%%2016-03-14%%%1GB%%%0
+Life is Feudal: Your Own%%%Windows%%%15.49%%%2015-11-17%%%4GB%%%0
+Tyranny%%%Windows, MacOS, Linux%%%23.79%%%2016-11-10%%%6GB%%%0
+Foxhole%%%Windows%%%14.99%%%2017-07-27%%%4GB%%%0
+Punch Club%%%Windows, MacOS, Linux%%%6.99%%%2016-01-08%%%1GB%%%0
+Pathfinder: Kingmaker%%%Windows, MacOS, Linux%%%34.99%%%2018-09-25%%%4GB%%%0
+Galactic Civilizations III%%%Windows%%%23.79%%%2015-05-14%%%4GB%%%0
+Minecraft: Story Mode - A Telltale Games Series%%%Windows, MacOS%%%18.99%%%2015-10-13%%%3GB%%%0
+Half-Life 2: Deathmatch%%%Windows, MacOS, Linux%%%3.99%%%2004-11-01%%%256MB%%%0
+PAC-MAN Championship Edition DX+%%%Windows%%%7.99%%%2013-09-24%%%1GB%%%0
+A Bird Story%%%Windows, MacOS, Linux%%%2.79%%%2014-11-07%%%2GB%%%0
+SoulWorker - Anime Action MMO%%%Windows%%%0%%%2018-02-26%%%2GB%%%0
+Super Crate Box%%%Windows, MacOS, Linux%%%0%%%2012-08-29%%%512MB%%%0
+Darksiders II Deathinitive Edition%%%Windows%%%24.99%%%2015-11-05%%%4GB%%%0
+Universe Sandbox%%%Windows, MacOS, Linux%%%19.49%%%2015-08-24%%%1GB%%%0
+Sakura Spirit%%%Windows, MacOS, Linux%%%6.99%%%2014-07-09%%%1GB%%%0
+Momodora: Reverie Under The Moonlight%%%Windows, MacOS, Linux%%%6.99%%%2016-03-04%%%2GB%%%0
+Hitman: Blood Money%%%Windows%%%9.29%%%2007-03-15%%%512MB%%%18
+MudRunner%%%Windows%%%19.99%%%2017-10-30%%%2GB%%%0
+Radical Heights%%%Windows%%%0%%%2018-04-10%%%8GB%%%0
+Door Kickers%%%Windows, MacOS, Linux%%%14.99%%%2014-10-20%%%2GB%%%0
+How to Survive 2%%%Windows%%%10.99%%%2016-09-08%%%4GB%%%0
+Zup!%%%Windows%%%0.79%%%2016-10-04%%%256MB%%%0
+Call to Arms%%%Windows%%%0%%%2018-04-27%%%4GB%%%16
+Half-Life 2: Lost Coast%%%Windows, MacOS, Linux%%%0%%%2005-10-27%%%1GB%%%0
+Loading Screen Simulator%%%Windows%%%0%%%2017-07-13%%%150MB%%%0
+Freestyle 2: Street Basketball%%%Windows%%%0%%%2015-04-01%%%1GB%%%0
+Lucius%%%Windows%%%6.99%%%2012-10-26%%%5GB%%%18
+GRIS%%%Windows, MacOS%%%14.49%%%2018-12-13%%%4GB%%%0
+Keep Talking and Nobody Explodes%%%Windows, MacOS, Linux%%%10.99%%%2015-10-08%%%2GB%%%0
+Assassin's Creed: Director's Cut Edition%%%Windows%%%8.59%%%2008-04-09%%%1GB%%%0
+Farming Simulator 19%%%Windows, MacOS%%%29.99%%%2018-11-19%%%4GB%%%0
+Batman - The Telltale Series%%%Windows%%%11.99%%%2016-08-02%%%3GB%%%0
+STEINSGATE%%%Windows%%%23.99%%%2016-09-08%%%4GB%%%0
+Relic Hunters Zero%%%Windows, MacOS%%%0%%%2015-08-18%%%4GB%%%0
+Danganronpa: Trigger Happy Havoc%%%Windows, MacOS, Linux%%%14.99%%%2016-02-18%%%3GB%%%0
+Endless Space - Collection%%%Windows, MacOS%%%0%%%2012-07-04%%%2GB%%%0
+The Swapper%%%Windows, MacOS, Linux%%%11.99%%%2013-05-30%%%1GB%%%0
+Battleborn%%%Windows%%%0%%%2016-05-03%%%6GB%%%0
+Aura Kingdom%%%Windows%%%0%%%2014-07-01%%%4GB%%%0
+Long Live The Queen%%%Windows, MacOS, Linux%%%6.99%%%2013-11-08%%%256MB%%%0
+Sword Art Online: Fatal Bullet%%%Windows%%%34.99%%%2018-02-23%%%4GB%%%0
+ArcheBlade%%%Windows%%%0%%%2014-04-25%%%2GB%%%0
+Warhammer 40,000: Dawn of War II%%%Windows, MacOS, Linux%%%14.99%%%2009-02-18%%%1GB%%%0
+Shadowverse CCG%%%Windows, MacOS%%%0%%%2016-10-27%%%4GB%%%0
+S.T.A.L.K.E.R.: Clear Sky%%%Windows%%%7.99%%%2008-09-15%%%512MB%%%0
+Viridi%%%Windows, MacOS, Linux%%%0%%%2015-08-19%%%1GB%%%0
+Homefront%%%Windows%%%14.99%%%2011-03-14%%%2GB%%%0
+Magicite%%%Windows, MacOS, Linux%%%7.19%%%2014-06-09%%%512MB%%%0
+Streets of Rogue%%%Windows, MacOS, Linux%%%10.99%%%2017-03-10%%%4GB%%%0
+Nidhogg%%%Windows, MacOS%%%6.99%%%2014-01-13%%%512MB%%%0
+Hatred%%%Windows, Linux%%%4.79%%%2015-06-01%%%4GB%%%18
+Warhammer 40,000: Eternal Crusade%%%Windows%%%0%%%2017-03-16%%%8GB%%%0
+FlatOut 2%%%Windows%%%5.99%%%2006-12-21%%%256MB%%%0
+Machinarium%%%Windows, MacOS%%%7.99%%%2009-10-16%%%1GB%%%0
+DLC Quest%%%Windows, MacOS%%%1.99%%%2013-03-18%%%512MB%%%0
+Prototype 2%%%Windows%%%19.99%%%2012-07-26%%%2GB%%%18
+Homeworld Remastered Collection%%%Windows, MacOS%%%26.99%%%2015-02-25%%%1GB%%%0
+Planetary Annihilation: TITANS%%%Windows, MacOS, Linux%%%30.99%%%2015-08-18%%%8GB%%%0
+Orcs Must Die!%%%Windows%%%7.99%%%2011-10-11%%%2GB%%%0
+The Elder Scrolls: Legends%%%Windows, MacOS%%%0%%%2017-05-31%%%2GB%%%0
+Blockstorm%%%Windows, MacOS, Linux%%%3.99%%%2015-05-21%%%2GB%%%0
+Overcooked! 2%%%Windows, MacOS, Linux%%%19.99%%%2018-08-07%%%4GB%%%0
+Serious Sam 2%%%Windows%%%6.99%%%2012-01-31%%%256MB%%%0
+F.E.A.R. 3%%%Windows%%%12.99%%%2011-06-21%%%512MB%%%18
+Lucy -The Eternity She Wished For-%%%Windows%%%6.99%%%2016-02-28%%%128MB%%%0
+Supreme Commander 2%%%Windows%%%8.99%%%2010-03-01%%%1GB%%%0
+SUNLESS SEA%%%Windows, MacOS, Linux%%%13.99%%%2015-02-06%%%1GB%%%0
+Jotun: Valhalla Edition%%%Windows, MacOS, Linux%%%11.39%%%2015-09-29%%%4GB%%%0
+FINAL FANTASY VIII%%%Windows%%%9.99%%%2013-12-05%%%1GB%%%16
+Broken Age%%%Windows, MacOS, Linux%%%11.39%%%2014-01-28%%%2GB%%%0
+Book of Demons%%%Windows, MacOS%%%19.99%%%2018-12-13%%%2GB%%%0
+Riders of Icarus%%%Windows%%%0%%%2016-07-06%%%4GB%%%0
+Tales of Zestiria%%%Windows%%%39.99%%%2015-10-19%%%2GB%%%0
+RUINER%%%Windows, Linux%%%14.99%%%2017-09-26%%%4GB%%%0
+Tower Unite%%%Windows%%%10.99%%%2016-04-08%%%4GB%%%0
+Zombie Panic! Source%%%Windows, Linux%%%0%%%2008-10-03%%%2GB%%%0
+Race The Sun%%%Windows, MacOS, Linux%%%6.99%%%2013-12-09%%%2GB%%%0
+RUNNING WITH RIFLES%%%Windows, MacOS, Linux%%%10.99%%%2015-04-02%%%1GB%%%0
+The Way of Life Free Edition%%%Windows, MacOS, Linux%%%0%%%2016-05-31%%%2GB%%%0
+Half-Life: Opposing Force%%%Windows, MacOS, Linux%%%3.99%%%1999-11-01%%%96MB%%%0
+Darksiders Warmastered Edition%%%Windows%%%19.99%%%2016-11-29%%%4GB%%%0
+Into the Breach%%%Windows, MacOS%%%11.39%%%2018-02-27%%%1GB%%%0
+Superflight%%%Windows%%%2.09%%%2017-11-08%%%2GB%%%0
+Stonehearth%%%Windows, MacOS%%%15.49%%%2018-07-25%%%4GB%%%0
+Hatoful Boyfriend%%%Windows, MacOS, Linux%%%6.99%%%2014-09-04%%%1GB%%%0
+METAL SLUG 3%%%Windows%%%5.99%%%2014-02-14%%%1GB%%%0
+Bit Blaster XL%%%Windows, MacOS, Linux%%%0.79%%%2016-01-22%%%2GB%%%0
+Saints Row: Gat out of Hell%%%Windows, Linux%%%10.99%%%2015-01-22%%%4GB%%%0
+Battle Brothers%%%Windows%%%22.99%%%2017-03-24%%%1024MB%%%0
+Never Alone (Kisima Ingitchuna)%%%Windows, MacOS, Linux%%%11.99%%%2014-11-18%%%2GB%%%0
+MapleStory 2%%%Windows%%%0%%%2018-10-04%%%4GB%%%0
+Timberman%%%Windows, MacOS, Linux%%%0.79%%%2015-09-18%%%2GB%%%0
+Rise of Nations: Extended Edition%%%Windows%%%14.99%%%2014-06-12%%%1GB%%%0
+Cave Story+%%%Windows, Linux%%%10.99%%%2011-11-22%%%128MB%%%0
+Kingdom Rush%%%Windows, MacOS, Linux%%%6.99%%%2014-01-06%%%1GB%%%0
+Rebel Galaxy%%%Windows, MacOS%%%14.99%%%2015-10-20%%%2GB%%%0
+Hammerwatch%%%Windows, MacOS, Linux%%%6.99%%%2013-08-12%%%1GB%%%0
+The Escapists 2%%%Windows, MacOS, Linux%%%19.99%%%2017-08-21%%%2GB%%%0
+Devil May Cry 4 Special Edition%%%Windows%%%19.99%%%2015-06-23%%%2GB%%%16
+Mutant Year Zero: Road to Eden%%%Windows%%%29.99%%%2018-12-04%%%6GB%%%0
+Pit People%%%Windows%%%15.49%%%2018-03-02%%%4GB%%%0
+Gauntlet Slayer Edition%%%Windows%%%14.99%%%2014-09-23%%%4GB%%%0
+The Incredible Adventures of Van Helsing%%%Windows%%%10.99%%%2013-05-22%%%2GB%%%0
+GRID Autosport%%%Windows, MacOS, Linux%%%24.99%%%2014-06-26%%%2GB%%%0
+Supreme Commander: Forged Alliance%%%Windows%%%8.99%%%2011-09-28%%%512MB%%%0
+Resident Evil Revelations / Biohazard Revelations%%%Windows%%%23.99%%%2013-05-23%%%2GB%%%16
+Killer is Dead - Nightmare Edition%%%Windows%%%14.99%%%2014-05-23%%%4GB%%%0
+Five Nights at Freddy's 3%%%Windows%%%5.79%%%2015-03-02%%%1GB%%%0
+Fran Bow%%%Windows, MacOS, Linux%%%10.99%%%2015-08-27%%%2GB%%%16
+Warhammer 40,000: Dawn of War - Soulstorm%%%Windows%%%9.99%%%2008-03-07%%%512MB%%%16
+Stronghold Kingdoms%%%Windows%%%0%%%2012-02-27%%%512MB%%%0
+Guacamelee! Gold Edition%%%Windows, MacOS, Linux%%%9.99%%%2013-08-08%%%512MB%%%0
+CS2D%%%Windows, MacOS, Linux%%%0%%%2017-11-15%%%256MB%%%0
+Magicka 2%%%Windows, MacOS, Linux%%%10.99%%%2015-05-26%%%2GB%%%0
+Art of War: Red Tides%%%Windows%%%0%%%2016-12-22%%%2GB%%%0
+Next Day: Survival%%%Windows%%%8.99%%%2018-05-21%%%6GB%%%0
+Dead Bits%%%Windows, MacOS%%%0.79%%%2014-06-07%%%2GB%%%0
+South Park: The Fractured But Whole%%%Windows%%%49.99%%%2017-10-16%%%6GB%%%18
+NBA 2K18%%%Windows%%%39.99%%%2017-09-14%%%4GB%%%0
+Genital Jousting%%%Windows, MacOS%%%5.19%%%2018-01-18%%%4GB%%%18
+The Ship: Murder Party%%%Windows%%%0%%%2006-07-11%%%512MB%%%0
+Dead Frontier 2%%%Windows%%%0%%%2018-09-05%%%3GB%%%0
+Rivals of Aether%%%Windows%%%10.99%%%2017-03-28%%%512MB%%%0
+Graveyard Keeper%%%Windows, MacOS, Linux%%%15.49%%%2018-08-15%%%4GB%%%0
+Red Crucible: Firestorm%%%Windows, MacOS%%%0%%%2015-12-22%%%4GB%%%0
+For The King%%%Windows, MacOS, Linux%%%15.49%%%2018-04-19%%%4GB%%%0
+Road Redemption%%%Windows, MacOS, Linux%%%14.99%%%2017-10-04%%%8GB%%%0
+Company of Heroes - Legacy Edition%%%Windows%%%0%%%2007-07-17%%%512MB%%%18
+TerraTech%%%Windows, MacOS, Linux%%%19.99%%%2018-08-10%%%4GB%%%0
+Five Nights at Freddy's: Sister Location%%%Windows%%%5.79%%%2016-10-07%%%1GB%%%0
+Paint the Town Red%%%Windows, MacOS, Linux%%%11.39%%%2015-10-13%%%2GB%%%0
+Life is Strange 2%%%Windows%%%6.49%%%2018-09-26%%%4GB%%%18
+Victoria II%%%Windows%%%14.99%%%2010-08-30%%%2GB%%%0
+Gorogoa%%%Windows, MacOS%%%11.39%%%2017-12-14%%%512MB%%%0
+Grand Theft Auto III%%%Windows%%%5.99%%%2008-01-04%%%96MB%%%18
+The Silent Age%%%Windows, MacOS%%%6.99%%%2015-05-29%%%2GB%%%0
+Party Hard%%%Windows, MacOS, Linux%%%7.19%%%2015-08-25%%%1024MB%%%18
+Faeria%%%Windows, MacOS, Linux%%%18.99%%%2017-03-08%%%4GB%%%0
+Danganronpa 2: Goodbye Despair%%%Windows, MacOS, Linux%%%14.99%%%2016-04-18%%%3GB%%%0
+Sonic Adventure 2%%%Windows%%%5.99%%%2012-11-19%%%1GB%%%0
+Heroes of Might & Magic III - HD Edition%%%Windows%%%12.49%%%2015-01-28%%%2GB%%%0
+DEAD OR ALIVE 5 Last Round: Core Fighters%%%Windows%%%0%%%2015-03-30%%%2GB%%%16
+Ballistic Overkill%%%Windows, MacOS, Linux%%%8.99%%%2017-03-28%%%2GB%%%0
+ACE COMBAT 7: SKIES UNKNOWN%%%Windows%%%49.99%%%2019-01-31%%%4GB%%%0
+Freeman: Guerrilla Warfare%%%Windows%%%11.39%%%2018-02-01%%%4GB%%%0
+Kingdom: New Lands%%%Windows, MacOS, Linux%%%10.99%%%2016-08-09%%%1GB%%%0
+Dark and Light%%%Windows%%%13.99%%%2017-07-20%%%8GB%%%0
+MANDAGON%%%Windows, MacOS%%%0%%%2016-08-03%%%4GB%%%0
+DYNASTY WARRIORS 8: Xtreme Legends Complete Edition /  with%%%Windows%%%39.99%%%2014-05-13%%%256MB%%%0
+Serena%%%Windows, MacOS, Linux%%%0%%%2014-01-30%%%1GB%%%0
+Gaokao.Love.100Days%%%Windows%%%6.99%%%2015-05-30%%%1GB%%%0
+Vampyr%%%Windows%%%44.99%%%2018-06-04%%%8GB%%%0
+Dragonia%%%Windows, MacOS%%%1.59%%%2017-05-29%%%1GB%%%0
+Line of Sight%%%Windows%%%0%%%2017-01-31%%%2GB%%%0
+Interstellar Marines%%%Windows, MacOS, Linux%%%6.95%%%2013-07-02%%%4GB%%%0
+Zup! 2%%%Windows%%%0.79%%%2016-12-05%%%256MB%%%0
+SimplePlanes%%%Windows, MacOS%%%9.99%%%2015-12-17%%%2GB%%%0
+Metin2%%%Windows%%%0%%%2017-05-08%%%512MB%%%0
+Styx: Master of Shadows%%%Windows%%%24.99%%%2014-10-07%%%3GB%%%0
+Clustertruck%%%Windows, MacOS, Linux%%%10.99%%%2016-09-27%%%4GB%%%0
+Democracy 3%%%Windows, MacOS, Linux%%%18.99%%%2013-10-14%%%1GB%%%0
+Downwell%%%Windows%%%1.99%%%2015-10-15%%%1GB%%%0
+Age of Wonders III%%%Windows, MacOS, Linux%%%22.99%%%2014-03-31%%%2GB%%%0
+CastleMiner Z%%%Windows%%%2.79%%%2014-02-03%%%1GB%%%0
+Slender: The Arrival%%%Windows, MacOS%%%6.99%%%2013-10-28%%%1GB%%%0
+Devil Daggers%%%Windows, MacOS, Linux%%%3.99%%%2016-02-18%%%1024MB%%%0
+One Piece Pirate Warriors 3%%%Windows%%%31.99%%%2015-08-27%%%2GB%%%0
+Primal Carnage%%%Windows%%%5.59%%%2012-10-29%%%3GB%%%0
+Argo%%%Windows%%%0%%%2017-06-22%%%4GB%%%0
+Evoland%%%Windows, MacOS%%%6.99%%%2013-04-04%%%1GB%%%0
+Pillars of Eternity II: Deadfire%%%Windows, MacOS, Linux%%%32.99%%%2018-05-08%%%4GB%%%0
+Tree of Life%%%Windows%%%14.99%%%2017-08-17%%%2GB%%%0
+Secret World Legends%%%Windows%%%0%%%2017-07-31%%%2GB%%%0
+Legend of Grimrock%%%Windows, MacOS, Linux%%%10.99%%%2012-04-11%%%2GB%%%0
+Transport Fever%%%Windows, MacOS, Linux%%%26.99%%%2016-11-08%%%4GB%%%0
+Binary Domain%%%Windows%%%9.99%%%2012-04-26%%%2GB%%%0
+WAKFU%%%Windows, MacOS, Linux%%%0%%%2014-09-18%%%1GB%%%0
+Football Manager 2018%%%Windows, MacOS, Linux%%%37.99%%%2017-11-09%%%2GB%%%0
+Command & Conquer: Red Alert 3%%%Windows%%%9.99%%%2009-01-08%%%1GB%%%0
+Dark Messiah of Might & Magic%%%Windows%%%4.29%%%2006-10-25%%%512MB%%%0
+Holdfast: Nations At War%%%Windows%%%14.99%%%2017-09-21%%%4GB%%%0
+NBA 2K17%%%Windows%%%39.99%%%2016-09-20%%%4GB%%%0
+Amnesia: A Machine for Pigs%%%Windows, MacOS, Linux%%%14.99%%%2013-09-10%%%2GB%%%0
+EARTH DEFENSE FORCE 4.1 The Shadow of New Despair%%%Windows%%%15.49%%%2016-07-18%%%4GB%%%12
+Creative Destruction%%%Windows%%%0%%%2018-08-02%%%2GB%%%0
+Pyre%%%Windows, MacOS, Linux%%%15.49%%%2017-07-25%%%4GB%%%0
+Assassins Creed Rogue%%%Windows%%%16.99%%%2015-03-09%%%2GB%%%0
+THE KING OF FIGHTERS XIII STEAM EDITION%%%Windows%%%14.99%%%2013-09-13%%%1GB%%%0
+Cossacks 3%%%Windows, Linux%%%14.99%%%2016-09-20%%%3GB%%%0
+Murder Miners%%%Windows, MacOS, Linux%%%0.79%%%2014-07-25%%%1GB%%%0
+OLDTV%%%Windows, MacOS%%%0%%%2017-07-15%%%2GB%%%0
+Stronghold Crusader 2%%%Windows%%%24.99%%%2014-09-22%%%2GB%%%0
+Motorsport Manager%%%Windows, MacOS, Linux%%%24.99%%%2016-11-09%%%4GB%%%0
+MechWarrior Online Solaris 7%%%Windows%%%0%%%2015-12-10%%%4GB%%%0
+Garfield Kart%%%Windows, MacOS%%%3.99%%%2015-10-16%%%1GB%%%0
+Domina%%%Windows, MacOS%%%6.99%%%2017-04-03%%%4GB%%%0
+Cook, Serve, Delicious!%%%Windows, MacOS, Linux%%%6.99%%%2013-10-08%%%2GB%%%0
+System Shock 2%%%Windows, MacOS%%%6.99%%%2013-05-10%%%2GB%%%0
+Furi%%%Windows%%%14.99%%%2016-07-05%%%4GB%%%0
+PRICE%%%Windows%%%0%%%2016-09-15%%%512MB%%%0
+Comedy Night%%%Windows, MacOS, Linux%%%3.99%%%2017-08-24%%%4GB%%%0
+Victor Vran ARPG%%%Windows, MacOS, Linux%%%15.99%%%2015-07-24%%%4GB%%%0
+Project CARS 2%%%Windows%%%44.99%%%2017-09-21%%%8GB%%%0
+Melody's Escape%%%Windows, MacOS, Linux%%%6.99%%%2016-05-20%%%1GB%%%0
+Planetbase%%%Windows, MacOS%%%15.49%%%2015-10-15%%%2GB%%%0
+NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution%%%Windows%%%19.99%%%2014-09-15%%%1GB%%%0
+Baldur's Gate: Enhanced Edition%%%Windows, MacOS, Linux%%%14.99%%%2013-01-16%%%512MB%%%0
+Jazzpunk: Director's Cut%%%Windows, MacOS, Linux%%%10.99%%%2014-02-07%%%2GB%%%0
+Grim Fandango Remastered%%%Windows, MacOS, Linux%%%10.99%%%2015-01-26%%%4GB%%%0
+Poly Bridge%%%Windows, MacOS, Linux%%%7.19%%%2016-07-12%%%2GB%%%0
+Subnautica: Below Zero%%%Windows, MacOS%%%15.49%%%2019-01-30%%%8GB%%%0
+SteamWorld Dig%%%Windows, MacOS, Linux%%%6.99%%%2013-12-05%%%512MB%%%0
+I am Bread%%%Windows, MacOS%%%9.99%%%2015-04-09%%%2GB%%%0
+Stronghold Crusader HD%%%Windows%%%7.49%%%2013-10-21%%%512MB%%%0
+Enclave%%%Windows, MacOS, Linux%%%3.99%%%2013-10-04%%%1GB%%%0
+EVERSPACE%%%Windows, MacOS, Linux%%%22.99%%%2017-05-25%%%4GB%%%0
+Late Shift%%%Windows, MacOS%%%9.99%%%2017-04-18%%%2GB%%%0
+Valley%%%Windows, MacOS, Linux%%%14.99%%%2016-08-24%%%8GB%%%0
+Fable Anniversary%%%Windows%%%26.99%%%2014-09-12%%%3GB%%%0
+The Crew 2%%%Windows%%%49.99%%%2018-06-28%%%8GB%%%0
+Contrast%%%Windows%%%8.49%%%2013-11-15%%%2GB%%%0
+Farm Together%%%Windows, MacOS, Linux%%%15.49%%%2018-10-11%%%2GB%%%0
+Atlas Reactor%%%Windows%%%0%%%2016-10-04%%%4GB%%%0
+Wizard of Legend%%%Windows, MacOS, Linux%%%12.39%%%2018-05-15%%%4GB%%%0
+Distance%%%Windows, MacOS, Linux%%%19.49%%%2018-09-18%%%4GB%%%0
+From the Depths%%%Windows, MacOS, Linux%%%11.39%%%2014-08-07%%%4GB%%%0
+Farming Simulator 2013 Titanium Edition%%%Windows, MacOS%%%11.39%%%2013-10-09%%%1024MB%%%0
+Bless Online%%%Windows%%%0%%%2018-10-23%%%8GB%%%0
+Return of the Obra Dinn%%%Windows, MacOS%%%15.49%%%2018-10-18%%%4GB%%%0
+Doom 3: BFG Edition%%%Windows%%%14.99%%%2012-10-18%%%3GB%%%18
+War for the Overworld%%%Windows, MacOS, Linux%%%22.99%%%2015-04-02%%%4GB%%%0
+Surviving Mars%%%Windows, MacOS, Linux%%%26.99%%%2018-03-15%%%4GB%%%0
+Polarity%%%Windows%%%10.29%%%2016-07-15%%%1GB%%%0
+SURVIVAL%%%Windows%%%5.79%%%2015-04-16%%%1GB%%%0
+Max Payne%%%Windows%%%5.99%%%2008-01-04%%%96MB%%%18
+Worms Revolution%%%Windows%%%10.99%%%2012-10-10%%%2GB%%%0
+Among the Sleep - Enhanced Edition%%%Windows, MacOS, Linux%%%13.49%%%2014-05-29%%%2GB%%%0
+State of Decay: YOSE%%%Windows%%%22.99%%%2015-04-27%%%4GB%%%18
+FINAL FANTASY IX%%%Windows%%%15.99%%%2016-04-14%%%2GB%%%12
+BATTALION 1944%%%Windows%%%15.99%%%2018-02-01%%%8GB%%%0
+TOXIKK%%%Windows%%%0%%%2016-09-10%%%4GB%%%0
+Darkwood%%%Windows, MacOS, Linux%%%11.99%%%2017-08-17%%%4GB%%%0
+Grow Home%%%Windows, Linux%%%6.69%%%2015-02-04%%%2GB%%%0
+Time Clickers%%%Windows, MacOS, Linux%%%0%%%2015-07-23%%%512MB%%%0
+Risen%%%Windows%%%7.99%%%2009-10-02%%%1GB%%%0
+Planet Explorers%%%Windows, MacOS, Linux%%%7.19%%%2016-11-08%%%6GB%%%0
+Morphopolis%%%Windows%%%2.89%%%2014-08-14%%%2GB%%%0
+FaceRig%%%Windows%%%12.99%%%2015-07-07%%%2GB%%%0
+Pirates, Vikings, and Knights II%%%Windows, MacOS, Linux%%%0%%%2010-02-12%%%512MB%%%0
+Another Adventure%%%Windows, MacOS%%%1.59%%%2017-03-10%%%1GB%%%0
+F1 2015%%%Windows, Linux%%%29.99%%%2015-07-09%%%4GB%%%0
+Castlevania: Lords of Shadow  Ultimate Edition%%%Windows%%%19.99%%%2013-08-27%%%1GB%%%16
+Half-Life: Blue Shift%%%Windows, MacOS, Linux%%%3.99%%%2001-06-01%%%96MB%%%0
+Meadow%%%Windows, MacOS, Linux%%%3.99%%%2016-10-26%%%4GB%%%0
+Aragami%%%Windows, MacOS, Linux%%%14.99%%%2016-10-04%%%8GB%%%0
+Bomber Crew%%%Windows, MacOS, Linux%%%14.99%%%2017-10-19%%%2GB%%%0
+Gothic II: Gold Edition%%%Windows%%%8.99%%%2010-01-13%%%256MB%%%0
+Bloons TD 5%%%Windows, MacOS%%%6.99%%%2014-11-19%%%512MB%%%0
+Turbo Dismount%%%Windows, MacOS%%%6.99%%%2014-05-21%%%1GB%%%0
+Lost Lands: A Hidden Object Adventure%%%Windows, MacOS%%%0%%%2015-09-24%%%512MB%%%0
+Audiosurf 2%%%Windows, MacOS, Linux%%%10.99%%%2015-05-26%%%2GB%%%0
+DiRT 4%%%Windows, MacOS, Linux%%%44.99%%%2017-06-08%%%4GB%%%0
+Tropico 6%%%Windows, Linux%%%39.99%%%2019-03-29%%%8GB%%%16
+Euro Truck Simulator%%%Windows, MacOS%%%3.99%%%2013-03-08%%%1GB%%%0
+Lost Lands: Mahjong%%%Windows, MacOS%%%0%%%2016-03-14%%%512MB%%%0
+Half-Life: Source%%%Windows, MacOS, Linux%%%0%%%2004-06-01%%%256MB%%%0
+Marie's Room%%%Windows%%%0%%%2018-04-13%%%4GB%%%0
+Crawl%%%Windows, MacOS, Linux%%%10.99%%%2017-04-11%%%2GB%%%0
+Only If%%%Windows, MacOS, Linux%%%0%%%2014-07-25%%%2GB%%%18
+Jalopy - The Road Trip Driving Indie Car Game ()%%%Windows%%%10.99%%%2018-03-28%%%4GB%%%0
+Blockland%%%Windows, MacOS%%%7.19%%%2013-12-16%%%512MB%%%0
+Knight Online%%%Windows%%%0%%%2016-01-25%%%512MB%%%0
+Prototype%%%Windows%%%14.99%%%2009-06-12%%%2GB%%%0
+SpaceChem%%%Windows, MacOS, Linux%%%6.99%%%2011-03-02%%%1GB%%%0
+Strife%%%Windows, MacOS, Linux%%%0%%%2015-05-22%%%4GB%%%0
+Injustice 2%%%Windows%%%39.99%%%2017-11-30%%%4GB%%%0
+DRAGON QUEST XI: Echoes of an Elusive Age - Digital Edition of Light%%%Windows%%%39.99%%%2018-09-04%%%8GB%%%12
+Vindictus%%%Windows%%%0%%%2012-06-22%%%4GB%%%0
+Secrets of Grindea%%%Windows%%%10.99%%%2015-07-13%%%1GB%%%0
+MapleStory%%%Windows%%%0%%%2012-08-09%%%2GB%%%0
+Soda Dungeon%%%Windows%%%0%%%2017-02-06%%%512MB%%%0
+Trine 3: The Artifacts of Power%%%Windows, MacOS, Linux%%%15.99%%%2015-08-20%%%4GB%%%0
+Magic 2014  Duels of the Planeswalkers%%%Windows%%%6.99%%%2013-06-26%%%1GB%%%0
+Boring Man - Online Tactical Stickman Combat%%%Windows%%%0%%%2015-02-20%%%2GB%%%0
+The Flame in the Flood%%%Windows, MacOS%%%14.99%%%2016-02-24%%%4GB%%%0
+Epistory - Typing Chronicles%%%Windows, MacOS, Linux%%%10.99%%%2016-03-30%%%4GB%%%0
+DUSK%%%Windows, MacOS, Linux%%%15%%%2018-12-10%%%2GB%%%0
+Alan Wake's American Nightmare%%%Windows%%%6.19%%%2012-05-22%%%2GB%%%0
+Mordheim: City of the Damned%%%Windows%%%29.99%%%2015-11-19%%%4GB%%%0
+Reus%%%Windows, MacOS, Linux%%%6.99%%%2013-05-16%%%2GB%%%0
+Islands of Nyne: Battle Royale%%%Windows%%%0%%%2018-07-12%%%12GB%%%0
+Sword With Sauce%%%Windows%%%2.09%%%2018-03-20%%%2GB%%%0
+Invisible, Inc.%%%Windows, MacOS, Linux%%%14.99%%%2015-05-12%%%2GB%%%0
+klocki%%%Windows, MacOS, Linux%%%0.79%%%2016-07-13%%%2GB%%%0
+X4: Foundations%%%Windows%%%39.99%%%2018-11-30%%%8GB%%%0
+Titan Souls%%%Windows, MacOS%%%10.99%%%2015-04-14%%%4GB%%%0
+Crash Bandicoot N. Sane Trilogy%%%Windows%%%34.99%%%2018-06-29%%%8GB%%%0
+Worm.is: The Game%%%Windows, MacOS%%%0%%%2016-05-04%%%512MB%%%0
+Freedom Planet%%%Windows, MacOS, Linux%%%10.99%%%2014-07-21%%%1GB%%%0
+Owlboy%%%Windows, MacOS, Linux%%%18.99%%%2016-11-01%%%1GB%%%0
+Botanicula%%%Windows, MacOS%%%7.99%%%2012-05-07%%%1GB%%%0
+Home Behind%%%Windows, MacOS, Linux%%%4.79%%%2016-06-02%%%2GB%%%0
+Worms Armageddon%%%Windows%%%10.99%%%2013-03-19%%%2GB%%%0
+Dead Island Definitive Edition%%%Windows, Linux%%%11.99%%%2016-05-31%%%4GB%%%18
+BRINK%%%Windows%%%0%%%2011-05-09%%%2GB%%%0
+Shadowrun: Dragonfall - Director's Cut%%%Windows, MacOS, Linux%%%10.99%%%2014-09-18%%%2GB%%%0
+Zup! 3%%%Windows%%%0.79%%%2017-01-12%%%256MB%%%0
+Warhammer 40,000: Dawn of War - Game of the Year Edition%%%Windows%%%9.99%%%2007-08-07%%%256MB%%%16
+GRAV%%%Windows%%%14.99%%%2015-01-08%%%8GB%%%0
+Tiny and Big: Grandpa's Leftovers%%%Windows, MacOS, Linux%%%6.99%%%2012-06-19%%%2GB%%%0
+Tactical Monsters Rumble Arena%%%Windows, MacOS%%%0%%%2018-01-31%%%1024MB%%%0
+Duelyst%%%Windows, MacOS%%%0%%%2016-08-23%%%4GB%%%0
+Eternal Card Game%%%Windows, MacOS%%%0%%%2018-11-15%%%2GB%%%0
+Tricky Towers%%%Windows, MacOS, Linux%%%11.99%%%2016-08-02%%%1GB%%%0
+The Cat Lady%%%Windows%%%7.19%%%2013-12-04%%%512MB%%%18
+Overlord%%%Windows, MacOS, Linux%%%3.49%%%2009-11-12%%%512MB%%%0
+Rec Room%%%Windows%%%0%%%2016-06-28%%%8GB%%%0
+Lobotomy Corporation | Monster Management Simulation%%%Windows%%%19.49%%%2018-04-09%%%8GB%%%0
+Resident Evil 7 / Biohazard 7 Teaser: Beginning Hour%%%Windows%%%0%%%2016-12-18%%%8GB%%%18
+Endless Sky%%%Windows, MacOS, Linux%%%0%%%2015-10-30%%%350MB%%%0
+Day of Defeat%%%Windows, MacOS, Linux%%%3.99%%%2003-05-01%%%96MB%%%0
+The Legend of Heroes: Trails in the Sky%%%Windows%%%12.99%%%2014-07-29%%%512MB%%%0
+Jet Set Radio%%%Windows%%%5.59%%%2012-09-19%%%1GB%%%0
+Gothic 1%%%Windows%%%0%%%2001-03-15%%%256MB%%%0
+Total War Saga: THRONES OF BRITANNIA%%%Windows, MacOS, Linux%%%29.99%%%2018-05-02%%%5GB%%%0
+The Final Station%%%Windows, MacOS, Linux%%%10.99%%%2016-08-30%%%1GB%%%0
+F1 2017%%%Windows, MacOS, Linux%%%44.99%%%2017-08-24%%%8GB%%%0
+RPG Maker VX Ace%%%Windows%%%52.99%%%2012-12-10%%%512MB%%%0
+Warhammer 40,000: Inquisitor - Martyr%%%Windows%%%33.99%%%2018-06-05%%%4GB%%%0
+FAR: Lone Sails%%%Windows, MacOS%%%11.39%%%2018-05-17%%%4GB%%%0
+Confess My Love%%%Windows%%%0%%%2017-05-27%%%1GB%%%0
+GORN%%%Windows%%%14.99%%%2017-07-10%%%8GB%%%0
+One Way Heroics%%%Windows%%%2.29%%%2014-02-28%%%256MB%%%0
+WILL: A Wonderful World / WILL%%%Windows, MacOS%%%10.99%%%2017-06-06%%%4GB%%%0
+House Party%%%Windows%%%10.99%%%2017-06-30%%%4GB%%%18
+Team Fortress Classic%%%Windows, MacOS, Linux%%%3.99%%%1999-04-01%%%96MB%%%0
+Space Rangers HD: A War Apart%%%Windows%%%11.99%%%2013-10-17%%%1GB%%%0
+Defense Grid: The Awakening%%%Windows%%%6.99%%%2008-12-08%%%512MB%%%0
+Death Road to Canada%%%Windows, MacOS, Linux%%%10.99%%%2016-07-21%%%128MB%%%0
+Darksiders III%%%Windows%%%44.99%%%2018-11-27%%%8GB%%%0
+Anomaly: Warzone Earth%%%Windows, MacOS, Linux%%%7.99%%%2011-04-08%%%1GB%%%0
+Wargame: Airland Battle%%%Windows, MacOS, Linux%%%14.99%%%2013-05-29%%%2GB%%%0
+There's Poop In My Soup%%%Windows, MacOS%%%0.79%%%2016-03-14%%%1024MB%%%0
+Heat Signature%%%Windows%%%10.99%%%2017-09-21%%%8GB%%%0
+Danganronpa V3: Killing Harmony%%%Windows%%%30.99%%%2017-09-25%%%4GB%%%0
+F1 2016%%%Windows, MacOS%%%39.99%%%2016-08-18%%%8GB%%%0
+Medieval Engineers%%%Windows%%%12.99%%%2015-02-19%%%8GB%%%0
+Gremlins, Inc.%%%Windows, MacOS, Linux%%%14.99%%%2016-03-10%%%2GB%%%0
+Ni no Kuni II: Revenant Kingdom%%%Windows%%%49.99%%%2018-03-23%%%4GB%%%0
+The Surge%%%Windows%%%24.99%%%2017-05-15%%%8GB%%%0
+Golf It!%%%Windows%%%5.99%%%2017-02-17%%%4GB%%%0
+HunieCam Studio%%%Windows, MacOS, Linux%%%4.99%%%2016-04-04%%%2GB%%%18
+Mad Games Tycoon%%%Windows, MacOS%%%10.99%%%2016-09-13%%%4GB%%%0
+Brick Rigs%%%Windows%%%10.99%%%2016-11-07%%%4GB%%%0
+sZone-Online%%%Windows%%%0%%%2015-12-29%%%4GB%%%0
+Overgrowth%%%Windows, MacOS, Linux%%%22.99%%%2017-10-16%%%2GB%%%0
+Touhou Luna Nights%%%Windows%%%13.99%%%2019-02-25%%%2GB%%%0
+DuckTales: Remastered%%%Windows%%%11.99%%%2013-08-13%%%1GB%%%0
+Gems of War - Puzzle RPG%%%Windows%%%0%%%2014-11-20%%%1GB%%%0
+Savage Lands%%%Windows, MacOS, Linux%%%7.19%%%2015-03-05%%%8GB%%%0
+ARMA: Cold War Assault%%%Windows%%%3.49%%%2011-08-08%%%128MB%%%16
+ArcheAge%%%Windows%%%0%%%2015-03-26%%%2GB%%%16
+Avorion%%%Windows, Linux%%%13.59%%%2017-01-23%%%4GB%%%0
+LUFTRAUSERS%%%Windows, MacOS, Linux%%%6.99%%%2014-03-18%%%1024MB%%%0
+Gold Rush: The Game%%%Windows%%%15.49%%%2017-10-13%%%8GB%%%0
+Arizona Sunshine%%%Windows%%%29.99%%%2016-12-06%%%8GB%%%18
+Robot Roller-Derby Disco Dodgeball%%%Windows, MacOS, Linux%%%6.99%%%2015-02-19%%%2GB%%%0
+Turmoil%%%Windows, MacOS, Linux%%%6.99%%%2016-06-02%%%2GB%%%0
+We Happy Few%%%Windows%%%44.99%%%2018-08-10%%%8GB%%%0
+Blade Symphony%%%Windows, MacOS, Linux%%%0%%%2014-05-07%%%2GB%%%0
+King Arthur's Gold%%%Windows, MacOS, Linux%%%0%%%2013-11-05%%%1GB%%%0
+ibb & obb%%%Windows, MacOS, Linux%%%8.99%%%2014-05-26%%%512MB%%%0
+Cortex Command%%%Windows, MacOS%%%14.99%%%2012-09-28%%%1GB%%%0
+Naval Action%%%Windows%%%29.99%%%2016-01-21%%%4GB%%%0
+Alpha Protocol%%%Windows%%%9.99%%%2010-05-27%%%1GB%%%16
+Totally Accurate Battle Simulator%%%Windows, MacOS%%%11.39%%%2019-04-01%%%8GB%%%0
+Teeworlds%%%Windows, MacOS, Linux%%%0%%%2015-08-24%%%512MB%%%0
+Axiom Verge%%%Windows, MacOS, Linux%%%14.99%%%2015-05-14%%%500MB%%%0
+Return to Castle Wolfenstein%%%Windows%%%3.99%%%2007-08-03%%%128MB%%%0
+Plug & Play%%%Windows, MacOS, Linux%%%1.99%%%2015-03-05%%%1GB%%%0
+Steel Division: Normandy 44%%%Windows%%%34.99%%%2017-05-23%%%3GB%%%0
+Dead Realm%%%Windows, MacOS%%%10.99%%%2017-05-23%%%4GB%%%0
+Two Worlds II HD%%%Windows, MacOS%%%14.99%%%2011-02-03%%%512MB%%%0
+Hot Dogs, Horseshoes & Hand Grenades%%%Windows%%%14.99%%%2016-04-05%%%12GB%%%0
+RollerCoaster Tycoon: Deluxe%%%Windows%%%4.79%%%2014-05-21%%%512MB%%%0
+Dream Daddy: A Dad Dating Simulator%%%Windows, MacOS, Linux%%%10.99%%%2017-07-20%%%4GB%%%0
+CarX Drift Racing Online%%%Windows%%%9.9%%%2017-11-17%%%4GB%%%0
+Battlefleet Gothic: Armada%%%Windows%%%24.99%%%2016-04-21%%%4GB%%%0
+Dungeons 2%%%Windows, MacOS, Linux%%%14.99%%%2015-04-24%%%3GB%%%0
+West of Loathing%%%Windows, MacOS, Linux%%%8.29%%%2017-08-10%%%2GB%%%0
+Emily is Away Too%%%Windows, MacOS, Linux%%%3.99%%%2017-05-26%%%512MB%%%0
+Moonlighter%%%Windows, MacOS, Linux%%%15.49%%%2018-05-29%%%4GB%%%0
+Electronic Super Joy%%%Windows, MacOS, Linux%%%5.49%%%2013-08-23%%%1GB%%%0
+Tannenberg%%%Windows, MacOS, Linux%%%15.49%%%2017-11-16%%%4GB%%%0
+The Turing Test%%%Windows%%%14.99%%%2016-08-30%%%4GB%%%0
+McPixel%%%Windows, MacOS%%%2.99%%%2012-09-25%%%512MB%%%0
+Sheltered%%%Windows, MacOS, Linux%%%9.99%%%2016-03-15%%%1GB%%%0
+Squishy the Suicidal Pig%%%Windows, MacOS%%%4.79%%%2014-10-23%%%1MB%%%0
+Railway Empire%%%Windows, Linux%%%39.99%%%2018-01-26%%%4GB%%%0
+Stronghold HD%%%Windows%%%3.49%%%2013-10-21%%%512MB%%%0
+SOULCALIBUR VI%%%Windows%%%49.99%%%2018-10-18%%%6GB%%%0
+SENRAN KAGURA SHINOVI VERSUS%%%Windows%%%14.99%%%2016-06-01%%%6GB%%%0
+Panzar%%%Windows%%%0%%%2013-11-25%%%2GB%%%0
+Battle Chasers: Nightwar%%%Windows, MacOS, Linux%%%24.99%%%2017-10-03%%%4GB%%%0
+Cubic Castles%%%Windows%%%0%%%2014-08-13%%%4GB%%%0
+Talisman: Digital Edition%%%Windows, MacOS%%%5.19%%%2014-02-25%%%512MB%%%0
+Sniper Ghost Warrior 3%%%Windows%%%23.79%%%2017-04-24%%%8GB%%%0
+When the Darkness comes%%%Windows%%%0%%%2019-03-01%%%2GB%%%0
+Football Manager 2019%%%Windows, MacOS%%%37.99%%%2018-11-02%%%2GB%%%0
+Gothic 3%%%Windows%%%8.99%%%2009-12-02%%%1024MB%%%0
+Master of Orion%%%Windows, MacOS, Linux%%%22.99%%%2016-08-25%%%2GB%%%0
+Super Star%%%Windows, MacOS%%%1.59%%%2016-08-11%%%512MB%%%0
+Cyberdimension Neptunia: 4 Goddesses Online |  CYBER DIMENSION NEPTUNE | ONLINE%%%Windows%%%30.99%%%2018-02-27%%%8GB%%%0
+Pavlov VR%%%Windows%%%6.99%%%2017-02-27%%%4GB%%%0
+The Bridge%%%Windows, MacOS, Linux%%%6.99%%%2013-02-22%%%512MB%%%0
+NEO Scavenger%%%Windows, MacOS, Linux%%%11.39%%%2014-12-15%%%1GB%%%0
+Hero of the Kingdom%%%Windows, MacOS, Linux%%%4.79%%%2013-11-14%%%1GB%%%0
+Haydee%%%Windows%%%10.99%%%2016-09-26%%%2GB%%%0
+The Lab%%%Windows%%%0%%%2016-04-05%%%4GB%%%0
+UNO%%%Windows%%%8.59%%%2017-01-03%%%4GB%%%0
+Trick and Treat - Visual Novel%%%Windows, MacOS, Linux%%%0%%%2016-12-30%%%1GB%%%0
+Friday the 13th: Killer Puzzle%%%Windows, MacOS%%%0%%%2018-04-12%%%2GB%%%0
+TrackMania Stadium%%%Windows%%%8.59%%%2013-06-20%%%2GB%%%0
+HIVESWAP: Act 1%%%Windows, MacOS, Linux%%%5.59%%%2017-09-14%%%4GB%%%0
+Primal Carnage: Extinction%%%Windows%%%9.99%%%2015-04-03%%%5GB%%%0
+Dead Age%%%Windows, MacOS, Linux%%%10.99%%%2016-11-04%%%3GB%%%0
+Post Scriptum%%%Windows%%%24.5%%%2018-08-09%%%8GB%%%0
+Evoland 2%%%Windows, MacOS%%%14.99%%%2015-08-25%%%4GB%%%0
+Idle Champions of the Forgotten Realms%%%Windows, MacOS%%%0%%%2017-09-07%%%512MB%%%0
+Breathedge%%%Windows%%%12.39%%%2018-09-13%%%4GB%%%0
+Dishonored: Death of the Outsider%%%Windows%%%19.99%%%2017-09-14%%%8GB%%%18
+Sword Art Online: Hollow Realization Deluxe Edition%%%Windows%%%39.99%%%2017-10-27%%%8GB%%%0
+Narcissu 1st & 2nd%%%Windows, MacOS, Linux%%%0%%%2015-04-24%%%1GB%%%0
+OKAMI HD /%%%Windows%%%15.99%%%2017-12-12%%%2GB%%%0
+Rise to Ruins%%%Windows, MacOS, Linux%%%6.99%%%2014-10-27%%%4GB%%%0
+Warhammer 40,000: Dawn of War - Dark Crusade%%%Windows%%%9.99%%%2007-08-07%%%512MB%%%16
+b%%%Windows%%%0%%%2017-06-26%%%1024MB%%%0
+Steel Ocean%%%Windows%%%0%%%2015-11-12%%%2GB%%%0
+Battlerite Royale%%%Windows%%%0%%%2019-02-19%%%4GB%%%0
+SENRAN KAGURA ESTIVAL VERSUS%%%Windows%%%24.99%%%2017-03-17%%%6GB%%%0
+Digimon Masters Online%%%Windows%%%0%%%2016-11-03%%%2GB%%%0
+Fate/EXTELLA%%%Windows%%%29.99%%%2017-07-25%%%4GB%%%0
+X Rebirth%%%Windows, MacOS, Linux%%%24.99%%%2013-11-15%%%4GB%%%0
+Dreamfall Chapters%%%Windows, MacOS, Linux%%%18.99%%%2017-07-21%%%3GB%%%0
+Ultimate Epic Battle Simulator%%%Windows%%%11.39%%%2017-06-01%%%8GB%%%0
+Offworld Trading Company - Free Multiplayer%%%Windows, MacOS%%%0%%%2016-04-28%%%2GB%%%0
+Exanima%%%Windows%%%10.99%%%2015-04-29%%%2GB%%%0
+Halo: Spartan Assault%%%Windows%%%1.99%%%2014-04-04%%%1GB%%%0
+BioShock 2 Remastered%%%Windows%%%13.99%%%2016-09-15%%%4GB%%%18
+Onward%%%Windows%%%18.99%%%2016-08-29%%%8GB%%%0
+The Old Tree%%%Windows, MacOS%%%0%%%2015-01-26%%%1GB%%%0
+Wolcen: Lords of Mayhem%%%Windows%%%27.99%%%2016-03-24%%%4GB%%%0
+The Fall%%%Windows, MacOS, Linux%%%6.99%%%2014-05-30%%%3GB%%%0
+If My Heart Had Wings%%%Windows%%%10.99%%%2014-11-24%%%1GB%%%0
+Dig or Die%%%Windows%%%9.29%%%2018-07-10%%%1GB%%%0
+The Vagrant%%%Windows%%%2.89%%%2018-07-13%%%4GB%%%0
+My Lands: Black Gem Hunting%%%Windows%%%0%%%2014-09-16%%%1GB%%%0
+Hell Girls%%%Windows, MacOS%%%1.59%%%2017-01-12%%%1GB%%%0
+Green Hell%%%Windows%%%15.49%%%2018-08-29%%%4GB%%%0
+Singularity%%%Windows%%%14.99%%%2010-06-30%%%256MB%%%18
+Sir, You Are Being Hunted%%%Windows, MacOS, Linux%%%14.99%%%2014-05-02%%%2GB%%%0
+Ricochet%%%Windows, MacOS, Linux%%%3.99%%%2000-11-01%%%96MB%%%0
+The Wild Eight%%%Windows%%%14.99%%%2017-02-08%%%4GB%%%0
+Dawn of Man%%%Windows, MacOS%%%19.49%%%2019-03-01%%%4GB%%%0
+Risen 3 - Titan Lords%%%Windows%%%10.99%%%2014-08-13%%%2GB%%%16
+Far Cry New Dawn%%%Windows%%%37.99%%%2019-02-15%%%8GB%%%0
+Tales of Maj'Eyal%%%Windows, MacOS, Linux%%%4.99%%%2013-12-12%%%512MB%%%0
+Homeworld: Deserts of Kharak%%%Windows, MacOS%%%29.99%%%2016-01-20%%%3GB%%%0
+Blood Bowl 2%%%Windows, MacOS%%%14.99%%%2015-09-22%%%3GB%%%0
+OMSI 2: Steam Edition%%%Windows%%%27.11%%%2013-12-11%%%2GB%%%0
+Blitzkrieg 3%%%Windows, MacOS%%%7.19%%%2017-06-02%%%2GB%%%0
+Dead Rising 2%%%Windows%%%14.99%%%2010-09-27%%%2GB%%%18
+Hell Yeah! Wrath of the Dead Rabbit%%%Windows%%%9.99%%%2012-10-03%%%1GB%%%12
+Age of Civilizations II%%%Windows%%%4.49%%%2018-11-21%%%1GB%%%0
+BLOCKPOST%%%Windows%%%0%%%2019-04-25%%%2GB%%%0
+AdventureQuest 3D%%%Windows, MacOS%%%0%%%2016-10-19%%%1GB%%%0
+The Red Strings Club%%%Windows, MacOS, Linux%%%11.39%%%2018-01-22%%%1GB%%%0
+Defender's Quest: Valley of the Forgotten (DX edition)%%%Windows, MacOS, Linux%%%10.99%%%2012-10-30%%%1GB%%%0
+Thronebreaker: The Witcher Tales%%%Windows%%%23.39%%%2018-11-09%%%4GB%%%0
+Subsistence%%%Windows%%%10.59%%%2016-10-25%%%2GB%%%0
+Ziggurat%%%Windows, MacOS, Linux%%%10.99%%%2014-10-23%%%2GB%%%0
+Mist Survival%%%Windows%%%8.29%%%2018-08-14%%%4GB%%%0
+SteamWorld Heist%%%Windows, MacOS, Linux%%%10.99%%%2016-06-07%%%1024MB%%%0
+Fallout 4 VR%%%Windows%%%39.99%%%2017-12-11%%%8GB%%%18
+Outward%%%Windows%%%34.99%%%2019-03-26%%%4GB%%%0
+Gloria Victis%%%Windows%%%14.99%%%2016-06-09%%%4GB%%%0
+Sid Meier's Pirates!%%%Windows%%%5.99%%%2005-07-11%%%256MB%%%0
+LiEat%%%Windows%%%1.99%%%2016-02-25%%%1GB%%%0
+Witch It%%%Windows%%%10.99%%%2017-05-31%%%4GB%%%0
+Costume Quest%%%Windows, MacOS, Linux%%%6.99%%%2011-10-14%%%1GB%%%0
+DOOM 3%%%Windows%%%0%%%2007-08-03%%%384MB%%%0
+Receiver%%%Windows, MacOS, Linux%%%3.99%%%2013-04-29%%%1GB%%%0
+Worlds Adrift%%%Windows%%%19.49%%%2017-05-24%%%8GB%%%0
+Infinity Wars: Animated Trading Card Game%%%Windows, MacOS%%%0%%%2014-09-05%%%2GB%%%0
+Shelter 2%%%Windows, MacOS, Linux%%%10.99%%%2015-03-09%%%2GB%%%0
+Satellite Reign%%%Windows, MacOS, Linux%%%22.99%%%2015-08-27%%%3GB%%%0
+Starpoint Gemini 2%%%Windows%%%26.99%%%2014-09-26%%%2GB%%%0
+Betrayer%%%Windows%%%3.99%%%2014-03-24%%%3GB%%%0
+Baldur's Gate II: Enhanced Edition%%%Windows, MacOS, Linux%%%14.99%%%2013-11-15%%%512MB%%%0
+Aim Hero%%%Windows%%%3.99%%%2016-09-05%%%2GB%%%0
+Kholat%%%Windows%%%14.99%%%2015-06-09%%%4GB%%%0
+Hyperdimension Neptunia ReBirth3 V Generation /  ReBirth3 V CENTURY /   3%%%Windows%%%19.49%%%2015-10-30%%%4GB%%%0
+Sudden Strike 4%%%Windows, MacOS, Linux%%%39.99%%%2017-08-11%%%6GB%%%0
+Software Inc.%%%Windows, MacOS, Linux%%%10.59%%%2015-05-01%%%2GB%%%0
+Sid Meier's Civilization III Complete%%%Windows%%%2.99%%%2006-10-25%%%128MB%%%0
+GOD EATER 2 Rage Burst%%%Windows%%%39.99%%%2016-08-29%%%3GB%%%0
+FarSky%%%Windows, MacOS, Linux%%%3.99%%%2014-04-25%%%2GB%%%0
+Battle Islands%%%Windows%%%0%%%2014-08-06%%%512MB%%%0
+DESOLATE%%%Windows%%%19.99%%%2019-01-17%%%8GB%%%0
+Mother Russia Bleeds%%%Windows, MacOS, Linux%%%10.99%%%2016-09-05%%%2GB%%%0
+LEGO Jurassic World%%%Windows, MacOS%%%15.99%%%2015-06-11%%%2GB%%%0
+Rising World%%%Windows, MacOS, Linux%%%10.99%%%2014-12-03%%%4GB%%%0
+Deponia: The Complete Journey%%%Windows, MacOS, Linux%%%25.99%%%2014-07-08%%%2GB%%%0
+Sanctum%%%Windows, MacOS%%%7.19%%%2011-04-15%%%2GB%%%0
+Redout: Enhanced Edition%%%Windows%%%29.99%%%2016-09-02%%%4GB%%%0
+Damned%%%Windows%%%15.49%%%2014-10-06%%%3GB%%%0
+TIS-100%%%Windows, MacOS, Linux%%%4.99%%%2015-07-20%%%2GB%%%0
+Thea: The Awakening%%%Windows%%%14.99%%%2015-11-20%%%4GB%%%0
+Company of Heroes%%%Windows%%%0%%%2006-09-11%%%512MB%%%0
+Construction Simulator 2015%%%Windows, MacOS, Linux%%%10.99%%%2014-11-18%%%4GB%%%0
+NECROPOLIS: BRUTAL EDITION%%%Windows, MacOS%%%22.99%%%2016-07-01%%%4GB%%%0
+Oh...Sir!! The Insult Simulator%%%Windows, MacOS, Linux%%%1.59%%%2016-10-25%%%1GB%%%0
+NotTheNameWeWanted%%%Windows, MacOS, Linux%%%1.99%%%2015-07-02%%%1GB%%%0
+Gas Guzzlers Extreme%%%Windows%%%18.99%%%2013-10-08%%%3GB%%%0
+Gnomoria%%%Windows, MacOS, Linux%%%10.99%%%2016-02-23%%%1GB%%%0
+PixARK%%%Windows%%%19.49%%%2018-03-27%%%4GB%%%0
+Lara Croft and the Guardian of Light%%%Windows%%%7.99%%%2010-09-28%%%1GB%%%0
+Max Payne 2: The Fall of Max Payne%%%Windows%%%5.99%%%2008-01-04%%%256MB%%%18
+Attack on Titan / A.O.T. Wings of Freedom%%%Windows%%%49.99%%%2016-08-26%%%4GB%%%18
+Xenonauts%%%Windows, MacOS, Linux%%%18.99%%%2014-06-16%%%1GB%%%0
+Please, Dont Touch Anything%%%Windows, MacOS, Linux%%%3.99%%%2015-03-26%%%512MB%%%0
+AdVenture Communist%%%Windows, MacOS%%%0%%%2016-08-23%%%512MB%%%0
+F1 2018%%%Windows%%%44.99%%%2018-08-23%%%8GB%%%0
+Bloody Trapland%%%Windows%%%6.99%%%2013-11-18%%%1GB%%%0
+Fox Hime%%%Windows, MacOS%%%1.69%%%2017-11-02%%%1GB%%%0
+Roguelands%%%Windows, MacOS, Linux%%%7.19%%%2016-06-13%%%512MB%%%0
+Halo Wars: Definitive Edition%%%Windows%%%15.99%%%2017-04-20%%%4GB%%%0
+Ultimate General: Civil War%%%Windows, MacOS%%%22.99%%%2017-07-14%%%2GB%%%0
+MOBIUS FINAL FANTASY%%%Windows%%%0%%%2017-02-05%%%2GB%%%12
+Rake%%%Windows%%%3.99%%%2015-07-13%%%2GB%%%0
+Mitsurugi Kamui Hikae%%%Windows%%%6.99%%%2014-03-10%%%2GB%%%0
+Hand of Fate 2%%%Windows, MacOS, Linux%%%23.79%%%2017-11-07%%%4GB%%%0
+fault - milestone one%%%Windows, MacOS, Linux%%%10.99%%%2014-12-15%%%2GB%%%0
+Call of Duty 2%%%Windows, MacOS%%%14.99%%%2006-10-13%%%256MB%%%0
+Yooka-Laylee%%%Windows, MacOS, Linux%%%34.99%%%2017-04-11%%%8GB%%%0
+Of Guards And Thieves%%%Windows%%%0%%%2014-07-16%%%2GB%%%0
+DreadOut%%%Windows, Linux%%%10.99%%%2014-05-15%%%4GB%%%0
+Missing Translation%%%Windows, MacOS%%%0%%%2015-09-24%%%2GB%%%0
+Dragons and Titans%%%Windows, MacOS, Linux%%%0%%%2014-03-12%%%1GB%%%0
+Sunset Overdrive%%%Windows%%%14.99%%%2018-11-16%%%8GB%%%16
+Dark Elf%%%Windows%%%2.79%%%2017-08-03%%%2GB%%%0
+Angry Video Game Nerd Adventures%%%Windows%%%3.99%%%2013-09-20%%%256MB%%%0
+Unreal Tournament 3 Black%%%Windows%%%13.99%%%2009-03-05%%%512MB%%%0
+Glass Masquerade%%%Windows, MacOS%%%3.99%%%2016-11-18%%%1GB%%%0
+Papo & Yo%%%Windows, MacOS, Linux%%%10.99%%%2013-04-18%%%1GB%%%0
+Day of the Tentacle Remastered%%%Windows, MacOS, Linux%%%10.99%%%2016-03-21%%%2GB%%%0
+The Culling Of The Cows%%%Windows%%%7.19%%%2014-05-09%%%1GB%%%0
+Cat Quest%%%Windows, MacOS%%%9.99%%%2017-08-08%%%4GB%%%0
+Hyperdimension Neptunia U: Action Unleashed%%%Windows%%%19.49%%%2016-03-21%%%4GB%%%0
+Castlevania: Lords of Shadow 2%%%Windows%%%24.99%%%2014-02-25%%%2GB%%%16
+Hob%%%Windows%%%14.99%%%2017-09-26%%%4GB%%%0
+DEADBOLT%%%Windows, MacOS, Linux%%%6.99%%%2016-03-14%%%1GB%%%0
+Sunrider: Mask of Arcadius%%%Windows, MacOS, Linux%%%0%%%2014-07-09%%%3GB%%%0
+Replica%%%Windows, MacOS%%%1.99%%%2016-07-11%%%2GB%%%0
+Vanquish%%%Windows%%%14.99%%%2017-05-25%%%4GB%%%18
+Megadimension Neptunia VII%%%Windows%%%23.79%%%2016-07-05%%%6GB%%%0
+The Elder Scrolls V: Skyrim VR%%%Windows%%%39.99%%%2018-04-02%%%8GB%%%18
+Need for Speed Undercover%%%Windows%%%9.99%%%2008-12-19%%%512MB%%%0
+Creeper World 3: Arc Eternal%%%Windows, MacOS, Linux%%%11.39%%%2014-03-27%%%1GB%%%0
+RPG Maker MV%%%Windows, MacOS, Linux%%%60.99%%%2015-10-23%%%4GB%%%0
+Grey Goo%%%Windows%%%22.99%%%2015-01-23%%%4GB%%%0
+Knights and Merchants%%%Windows, MacOS, Linux%%%4.99%%%2013-10-14%%%512MB%%%0
+MARVEL Puzzle Quest%%%Windows%%%0%%%2013-12-05%%%1GB%%%0
+BrainBread 2%%%Windows, MacOS, Linux%%%0%%%2016-07-20%%%1GB%%%0
+Zenge%%%Windows, MacOS, Linux%%%0.79%%%2016-04-12%%%1024MB%%%0
+Hyperdimension Neptunia ReBirth2: Sisters Generation /  ReBirth2 /   2%%%Windows%%%19.49%%%2015-05-29%%%4GB%%%0
+Go! Go! Nippon! ~My First Trip to Japan~%%%Windows%%%6.99%%%2014-02-21%%%256MB%%%16
+POSTAL%%%Windows, MacOS, Linux%%%1.49%%%2013-03-21%%%16MB%%%18
+Princess Remedy in a World of Hurt%%%Windows%%%0%%%2016-01-01%%%50MB%%%0
+Rampage Knights%%%Windows, MacOS%%%8.99%%%2015-09-04%%%1GB%%%0
+Sherlock Holmes: The Devil's Daughter%%%Windows%%%29.99%%%2016-06-10%%%6GB%%%0
+Pool Nation%%%Windows%%%5.19%%%2013-10-18%%%2GB%%%0
+Command & Conquer 3: Tiberium Wars%%%Windows%%%9.99%%%2009-11-13%%%512MB%%%0
+The Typing of The Dead: Overkill%%%Windows%%%14.99%%%2013-10-29%%%2GB%%%18
+Meteor 60 Seconds!%%%Windows, MacOS%%%0%%%2018-02-26%%%1GB%%%12
+LEGO Batman 3: Beyond Gotham%%%Windows%%%19.99%%%2014-11-11%%%2GB%%%0
+Knights of Pen and Paper +1 Edition%%%Windows, MacOS, Linux%%%7.99%%%2013-06-18%%%512MB%%%0
+Nihilumbra%%%Windows, MacOS, Linux%%%4.99%%%2013-10-25%%%2GB%%%0
+Realm Grinder%%%Windows, MacOS%%%0%%%2017-06-15%%%1GB%%%0
+Reassembly%%%Windows, MacOS, Linux%%%11.39%%%2015-02-19%%%2GB%%%0
+The Pirate: Caribbean Hunt%%%Windows, MacOS, Linux%%%0%%%2016-08-24%%%512MB%%%0
+Citadel: Forged with Fire%%%Windows%%%19.49%%%2017-07-26%%%8GB%%%0
+Painkiller Hell & Damnation%%%Windows, MacOS, Linux%%%17.99%%%2012-10-31%%%2GB%%%0
+Apotheon%%%Windows, MacOS, Linux%%%10.99%%%2015-02-03%%%1GB%%%0
+Shadowrun: Hong Kong - Extended Edition%%%Windows, MacOS, Linux%%%14.99%%%2015-08-20%%%2GB%%%0
+Phantom Breaker: Battle Grounds%%%Windows%%%8.99%%%2015-01-23%%%3GB%%%0
+METAL GEAR SURVIVE%%%Windows%%%34.99%%%2018-02-21%%%4GB%%%16
+Enemy Front%%%Windows%%%15.99%%%2014-06-10%%%3GB%%%0
+Unreal Tournament 2004: Editor's Choice Edition%%%Windows%%%8.99%%%2004-03-17%%%128MB%%%0
+Disgaea PC /  PC%%%Windows%%%10.99%%%2016-02-24%%%1GB%%%0
+Depression Quest%%%Windows, MacOS, Linux%%%0%%%2014-08-11%%%512MB%%%0
+What's under your blanket !?%%%Windows%%%0.79%%%2016-01-05%%%512MB%%%18
+Batman: The Enemy Within - The Telltale Series%%%Windows, MacOS%%%11.99%%%2017-08-08%%%3GB%%%0
+Windward%%%Windows, MacOS, Linux%%%6.99%%%2015-05-12%%%2GB%%%0
+Human Resource Machine%%%Windows, MacOS, Linux%%%6.99%%%2015-10-15%%%1GB%%%0
+Resident Evil 0 / biohazard 0 HD REMASTER%%%Windows%%%15.99%%%2016-01-19%%%2GB%%%18
+Stories Untold%%%Windows, MacOS%%%6.99%%%2017-02-27%%%2GB%%%0
+Rakuen%%%Windows, MacOS, Linux%%%6.99%%%2017-05-10%%%512MB%%%0
+Radiator 2: Anniversary Edition%%%Windows, MacOS, Linux%%%0%%%2016-06-16%%%2GB%%%0
+ROMANCE OF THE THREE KINGDOMS XIII / 13%%%Windows%%%49.99%%%2016-01-27%%%1GB%%%0
+Awkward Dimensions Redux%%%Windows, MacOS, Linux%%%0%%%2016-10-21%%%4GB%%%0
+Organ Trail: Director's Cut%%%Windows, MacOS, Linux%%%3.99%%%2013-03-19%%%512MB%%%0
+Epic Battle Fantasy 4%%%Windows%%%8.99%%%2014-02-25%%%2GB%%%0
+GemCraft - Chasing Shadows%%%Windows%%%6.99%%%2015-04-30%%%2GB%%%0
+Dead Effect%%%Windows, MacOS%%%3.99%%%2014-12-17%%%2GB%%%0
+Pinball Arcade%%%Windows, MacOS%%%0%%%2013-11-04%%%2GB%%%0
+Rocketbirds: Hardboiled Chicken%%%Windows, MacOS, Linux%%%3.99%%%2012-10-15%%%1GB%%%0
+Half Dead%%%Windows%%%1.59%%%2016-08-01%%%2GB%%%0
+X-COM: UFO Defense%%%Windows%%%2.99%%%2008-09-04%%%4MB%%%0
+Governor of Poker 3%%%Windows, MacOS%%%0%%%2016-02-19%%%1GB%%%0
+GUILTY GEAR Xrd -REVELATOR-%%%Windows%%%22.99%%%2016-12-14%%%2GB%%%0
+Teleglitch: Die More Edition%%%Windows, MacOS, Linux%%%8.99%%%2013-07-24%%%1024MB%%%0
+The Secret of Monkey Island: Special Edition%%%Windows%%%7.19%%%2009-07-15%%%256MB%%%0
+Sonic Forces%%%Windows%%%34.99%%%2017-11-07%%%4GB%%%0
+Nomad%%%Windows%%%0%%%2015-06-26%%%4GB%%%0
+Press X to Not Die%%%Windows, MacOS, Linux%%%1.99%%%2017-10-06%%%512MB%%%0
+Sniper: Ghost Warrior%%%Windows%%%5.99%%%2010-06-24%%%256MB%%%0
+Anno 2205%%%Windows%%%33.99%%%2015-11-02%%%4GB%%%0
+Ratz Instagib%%%Windows, MacOS%%%6.99%%%2016-07-27%%%2GB%%%0
+Takedown: Red Sabre%%%Windows%%%3.99%%%2014-02-10%%%2GB%%%0
+BlazBlue Centralfiction%%%Windows%%%29.99%%%2017-04-25%%%4GB%%%0
+LIGHTNING RETURNS: FINAL FANTASY XIII%%%Windows%%%12.99%%%2015-12-10%%%1GB%%%16
+King Exit%%%Windows%%%1.59%%%2017-10-19%%%1GB%%%0
+Worms W.M.D%%%Windows, MacOS, Linux%%%19.99%%%2016-08-23%%%2GB%%%0
+Lifeless Planet Premier Edition%%%Windows, MacOS, Linux%%%14.99%%%2014-06-06%%%1GB%%%0
+Cinderella Phenomenon - Otome/Visual Novel%%%Windows, MacOS, Linux%%%0%%%2017-04-05%%%1GB%%%0
+STRIDER /%%%Windows%%%11.99%%%2014-02-19%%%4GB%%%0
+Super Blue Boy Planet%%%Windows%%%0%%%2016-12-16%%%512MB%%%0
+Ghost of a Tale%%%Windows%%%19.49%%%2018-03-13%%%3GB%%%0
+Hard West%%%Windows, MacOS, Linux%%%14.99%%%2015-11-18%%%4GB%%%0
+AKIBA'S TRIP: Undead  Undressed%%%Windows%%%14.99%%%2015-05-26%%%6GB%%%0
+Dungreed%%%Windows, MacOS%%%7.19%%%2018-02-14%%%1GB%%%0
+Russian Fishing 4%%%Windows%%%0%%%2018-06-15%%%4GB%%%0
+Orbt XL%%%Windows, MacOS, Linux%%%0.79%%%2017-04-21%%%2GB%%%0
+Ball 3D: Soccer Online%%%Windows, MacOS%%%0%%%2017-03-31%%%1GB%%%0
+Nation Red%%%Windows, MacOS, Linux%%%1.79%%%2009-09-03%%%256MB%%%0
+Lovely Planet%%%Windows, MacOS, Linux%%%4.79%%%2014-07-31%%%512MB%%%0
+Torment: Tides of Numenera%%%Windows, MacOS, Linux%%%34.99%%%2017-02-27%%%4GB%%%0
+Soul Gambler%%%Windows%%%1.99%%%2014-07-10%%%1GB%%%0
+Bloodbath Kavkaz%%%Windows, MacOS, Linux%%%3.19%%%2015-04-20%%%2GB%%%18
+RollerCoaster Tycoon 2: Triple Thrill Pack%%%Windows%%%6.99%%%2014-05-21%%%512MB%%%0
+SAS: Zombie Assault 4%%%Windows, MacOS%%%0%%%2017-10-16%%%1024MB%%%0
+Forge of Gods (RPG)%%%Windows, Linux%%%0%%%2016-05-06%%%2GB%%%0
+Champions Online%%%Windows%%%0%%%2011-06-14%%%1GB%%%0
+Guardians of Orion (Phase 1)%%%Windows%%%0.79%%%2016-12-21%%%4GB%%%0
+Audioshield%%%Windows%%%14.99%%%2016-04-05%%%4GB%%%0
+Kindergarten%%%Windows, MacOS, Linux%%%3.99%%%2017-06-15%%%1GB%%%0
+Just Cause 4%%%Windows%%%44.99%%%2018-12-04%%%8GB%%%18
+Legend of Grimrock 2%%%Windows, MacOS%%%17.99%%%2014-10-15%%%2GB%%%0
+Forts%%%Windows%%%10.99%%%2017-04-19%%%4GB%%%0
+The Descendant%%%Windows, MacOS%%%0%%%2016-03-24%%%4GB%%%0
+Airships: Conquer the Skies%%%Windows, MacOS, Linux%%%11.39%%%2018-08-16%%%256MB%%%0
+Closers%%%Windows%%%0%%%2018-02-06%%%2GB%%%0
+DEFCON%%%Windows, MacOS, Linux%%%7.19%%%2006-09-29%%%128MB%%%0
+The Four Kings Casino and Slots%%%Windows, MacOS%%%0%%%2015-06-01%%%4GB%%%0
+Accounting (Legacy)%%%Windows%%%0%%%2016-10-18%%%4GB%%%0
+Life is Feudal: Forest Village%%%Windows%%%18.99%%%2017-05-26%%%2GB%%%0
+Tacoma%%%Windows, MacOS, Linux%%%14.99%%%2017-08-01%%%4GB%%%0
+Deadly Premonition: The Director's Cut%%%Windows%%%19.99%%%2013-10-29%%%2GB%%%18
+X-Plane 11%%%Windows, MacOS, Linux%%%54.99%%%2017-03-30%%%8GB%%%0
+DOKA 2 KISHKI EDITION%%%Windows%%%0.79%%%2018-11-05%%%512MB%%%0
+The Legend of Heroes: Trails of Cold Steel%%%Windows%%%29.99%%%2017-08-02%%%4GB%%%0
+Brief Karate Foolish%%%Windows%%%0%%%2016-11-18%%%256MB%%%0
+SpellForce 3%%%Windows%%%39.99%%%2017-12-07%%%6GB%%%0
+Oddworld: New 'n' Tasty%%%Windows, MacOS, Linux%%%14.99%%%2015-02-25%%%4GB%%%0
+Sakura Swim Club%%%Windows, MacOS, Linux%%%6.99%%%2015-09-11%%%1GB%%%0
+BlazBlue: Chronophantasma Extend%%%Windows%%%22.99%%%2016-03-02%%%2GB%%%0
+Renowned Explorers: International Society%%%Windows, MacOS, Linux%%%14.99%%%2015-09-02%%%4GB%%%0
+Modern Combat Versus%%%Windows%%%0%%%2017-12-19%%%4GB%%%0
+High Octane Drift%%%Windows%%%0%%%2016-10-14%%%2GB%%%0
+ATOM RPG: Post-apocalyptic indie game%%%Windows, MacOS, Linux%%%10.99%%%2018-12-19%%%2GB%%%0
+SUPERHOT VR%%%Windows%%%18.99%%%2017-05-25%%%8GB%%%0
+Airscape - The Fall of Gravity%%%Windows, MacOS, Linux%%%1.59%%%2015-08-11%%%2GB%%%0
+Dead Pixels%%%Windows%%%1.99%%%2012-12-07%%%512MB%%%0
+Retro City Rampage DX%%%Windows, MacOS, Linux%%%10.99%%%2014-11-11%%%256MB%%%0
+Divinity II: Developer's Cut%%%Windows%%%14.99%%%2012-10-29%%%1GB%%%0
+Fairy Fencer F%%%Windows%%%15.49%%%2015-08-04%%%4GB%%%0
+Kung Fury: Street Rage%%%Windows, MacOS%%%1.99%%%2015-05-28%%%1GB%%%0
+Rusty Lake: Roots%%%Windows, MacOS%%%1.99%%%2016-10-20%%%1GB%%%0
+Easy eSports%%%Windows%%%0%%%2015-09-10%%%96MB%%%0
+Niche - a genetics survival game%%%Windows, MacOS, Linux%%%13.59%%%2017-09-21%%%4GB%%%0
+PULSAR: Lost Colony%%%Windows, MacOS, Linux%%%19.49%%%2015-09-15%%%4GB%%%0
+Sherlock Holmes: Crimes and Punishments%%%Windows%%%19.99%%%2014-09-29%%%2GB%%%0
+Zeno Clash%%%Windows%%%6.99%%%2009-04-21%%%1GB%%%0
+Just Shapes & Beats%%%Windows, MacOS, Linux%%%15.49%%%2018-05-31%%%4GB%%%0
+Opus Magnum%%%Windows, MacOS, Linux%%%15.49%%%2017-12-07%%%4GB%%%0
+Shop Heroes%%%Windows%%%0%%%2016-08-15%%%512MB%%%0
+FlatOut%%%Windows%%%4.99%%%2007-02-02%%%256MB%%%0
+Vanguard Princess%%%Windows, MacOS, Linux%%%3.99%%%2014-03-03%%%128MB%%%0
+eden*%%%Windows%%%14.99%%%2015-01-30%%%256MB%%%0
+Death Coming%%%Windows%%%4.99%%%2017-11-06%%%4GB%%%16
+They Bleed Pixels%%%Windows, MacOS, Linux%%%6.99%%%2012-08-29%%%512MB%%%0
+Tomb Raider: Anniversary%%%Windows%%%6.99%%%2007-06-05%%%512MB%%%16
+Jamestown%%%Windows, MacOS%%%6.99%%%2011-06-08%%%512MB%%%0
+Infested Planet%%%Windows, MacOS%%%11.39%%%2014-03-06%%%1GB%%%0
+Prime World%%%Windows%%%0%%%2014-03-31%%%2GB%%%0
+JUMP FORCE%%%Windows%%%49.99%%%2019-02-14%%%4GB%%%0
+Thumper%%%Windows%%%15.99%%%2016-10-10%%%4GB%%%0
+Thimbleweed Park%%%Windows, MacOS, Linux%%%14.99%%%2017-03-30%%%4GB%%%0
+Dinosaur Hunt%%%Windows, MacOS, Linux%%%0.79%%%2015-09-17%%%2GB%%%0
+Train Fever%%%Windows, MacOS, Linux%%%14.99%%%2014-09-04%%%2GB%%%0
+Hexcells Infinite%%%Windows, MacOS, Linux%%%3.99%%%2014-09-01%%%2GB%%%0
+The Sexy Brutale%%%Windows%%%14.99%%%2017-04-11%%%8GB%%%0
+The Guild II Renaissance%%%Windows%%%8.99%%%2010-07-28%%%512MB%%%0
+SPORE Galactic Adventures%%%Windows%%%9.99%%%2009-06-26%%%768MB%%%0
+NARUTO TO BORUTO: SHINOBI STRIKER%%%Windows%%%39.99%%%2018-08-30%%%4GB%%%0
+Angels of Death%%%Windows%%%6.99%%%2016-12-19%%%2GB%%%0
+Valdis Story: Abyssal City%%%Windows, MacOS%%%10.99%%%2013-10-30%%%1024MB%%%0
+OutDrive%%%Windows%%%1.99%%%2016-02-22%%%1GB%%%0
+Otaku's Fantasy%%%Windows%%%1.59%%%2017-10-11%%%1GB%%%0
+Runestone Keeper%%%Windows, MacOS%%%6.99%%%2015-03-02%%%2GB%%%0
+Learn to Fly 3%%%Windows%%%0%%%2017-05-12%%%1GB%%%0
+Tales of Symphonia%%%Windows%%%14.99%%%2016-02-01%%%1GB%%%0
+Space Pirate Trainer%%%Windows%%%10.99%%%2017-10-12%%%8GB%%%0
+TowerFall Ascension%%%Windows, MacOS, Linux%%%10.99%%%2014-03-11%%%2GB%%%0
+CLANNAD%%%Windows%%%29.99%%%2015-11-23%%%1GB%%%0
+GUILTY GEAR Xrd -SIGN-%%%Windows%%%22.99%%%2015-12-09%%%2GB%%%0
+Ylands%%%Windows%%%13%%%2017-12-06%%%4GB%%%0
+Drift Streets Japan%%%Windows%%%1.69%%%2015-12-21%%%1024MB%%%0
+Istrolid%%%Windows, MacOS, Linux%%%0%%%2016-05-06%%%1GB%%%0
+LEGO MARVEL's Avengers%%%Windows, MacOS%%%24.99%%%2016-01-26%%%4GB%%%0
+Dead Maze%%%Windows, MacOS, Linux%%%0%%%2018-02-13%%%1GB%%%0
+Ultimate General: Gettysburg%%%Windows, MacOS, Linux%%%10.99%%%2014-10-16%%%2GB%%%0
+Samorost 3%%%Windows, MacOS%%%16.99%%%2016-03-24%%%1GB%%%0
+fault - milestone two side:above%%%Windows, MacOS, Linux%%%10.99%%%2015-09-08%%%1GB%%%0
+Clone Drone in the Danger Zone%%%Windows, MacOS%%%10.99%%%2017-03-16%%%2GB%%%0
+GOD EATER 3%%%Windows%%%39.99%%%2019-02-07%%%4GB%%%0
+Nosferatu: The Wrath of Malachi%%%Windows%%%2.09%%%2014-03-06%%%128MB%%%0
+STAR WARS: The Force Unleashed II%%%Windows%%%15.49%%%2010-11-23%%%2GB%%%0
+This Is the Police 2%%%Windows, MacOS, Linux%%%13.99%%%2018-07-31%%%2GB%%%0
+Eco%%%Windows%%%23.79%%%2018-02-06%%%4GB%%%0
+Pixel Puzzles: Japan%%%Windows%%%4.99%%%2014-04-17%%%1GB%%%0
+Lovers in a Dangerous Spacetime%%%Windows, MacOS, Linux%%%10.99%%%2015-09-09%%%2GB%%%0
+Deponia Doomsday%%%Windows, MacOS, Linux%%%14.99%%%2016-03-01%%%2GB%%%0
+BIGFOOT%%%Windows%%%12.39%%%2017-01-01%%%2GB%%%0
+Yu-Gi-Oh! Legacy of the Duelist%%%Windows%%%14.99%%%2016-12-07%%%2GB%%%0
+Thief Simulator%%%Windows%%%15.49%%%2018-11-09%%%8GB%%%0
+StarMade%%%Windows, MacOS, Linux%%%10.99%%%2014-12-04%%%4GB%%%0
+School of Dragons%%%Windows, MacOS%%%0%%%2014-12-04%%%1GB%%%0
+Katana ZERO%%%Windows, MacOS%%%11.39%%%2019-04-18%%%1GB%%%0
+Proteus%%%Windows, MacOS, Linux%%%6.99%%%2013-01-30%%%3GB%%%0
+Train Sim World%%%Windows%%%44.8%%%2017-03-16%%%8GB%%%0
+Evil Genius%%%Windows%%%6.99%%%2009-06-22%%%128MB%%%0
+The Messenger%%%Windows%%%15.49%%%2018-08-30%%%2GB%%%0
+FINAL FANTASY XIII-2%%%Windows%%%12.99%%%2014-12-11%%%1GB%%%16
+Bound By Flame%%%Windows, Linux%%%14.99%%%2014-05-08%%%2GB%%%0
+BlazBlue: Calamity Trigger%%%Windows%%%6.99%%%2014-02-13%%%2GB%%%0
+Intralism%%%Windows, MacOS, Linux%%%1.99%%%2016-11-04%%%4GB%%%0
+Hide and Shriek%%%Windows%%%0%%%2017-10-19%%%4GB%%%0
+Sally Face%%%Windows, MacOS, Linux%%%1.99%%%2016-12-14%%%4GB%%%0
+Starpoint Gemini Warlords%%%Windows%%%26.99%%%2017-05-23%%%8GB%%%0
+LEGO STAR WARS: The Force Awakens%%%Windows, MacOS%%%24.99%%%2016-06-27%%%4GB%%%0
+Parkitect%%%Windows, MacOS, Linux%%%23.79%%%2018-11-29%%%4GB%%%0
+Heavy Metal Machines%%%Windows%%%0%%%2018-09-19%%%4GB%%%0
+Startup Company%%%Windows, MacOS, Linux%%%6.99%%%2017-08-11%%%2GB%%%0
+The LEGO Movie - Videogame%%%Windows%%%14.99%%%2014-02-27%%%2GB%%%0
+What Never Was%%%Windows, MacOS, Linux%%%0%%%2019-01-11%%%4GB%%%0
+Tormentum - Dark Sorrow%%%Windows, MacOS%%%9.29%%%2015-03-04%%%2GB%%%0
+Crusaders of the Lost Idols%%%Windows, MacOS%%%0%%%2015-10-13%%%512MB%%%0
+WARRIORS OROCHI 4 - OROCHI%%%Windows%%%54.99%%%2018-10-15%%%6GB%%%0
+Warhammer 40,000: Mechanicus%%%Windows, MacOS, Linux%%%22.99%%%2018-11-15%%%12GB%%%0
+Warlock - Master of the Arcane%%%Windows%%%18.99%%%2012-05-08%%%2GB%%%0
+Ys Origin%%%Windows%%%12.99%%%2012-05-31%%%1GB%%%0
+My Name is Mayo%%%Windows%%%0.79%%%2016-02-15%%%512MB%%%0
+Agents of Mayhem%%%Windows%%%26.99%%%2017-08-15%%%8GB%%%0
+FORCED: Slightly Better Edition%%%Windows, MacOS, Linux%%%10.99%%%2013-10-24%%%2GB%%%0
+Amnesia: Memories%%%Windows%%%15.49%%%2015-08-25%%%1GB%%%0
+Circuits%%%Windows, MacOS, Linux%%%3.99%%%2014-04-17%%%2GB%%%0
+Albion Online%%%Windows, MacOS, Linux%%%0%%%2018-05-16%%%4GB%%%0
+Call of Cthulhu%%%Windows%%%39.99%%%2018-10-29%%%8GB%%%0
+White Noise 2%%%Windows, MacOS, Linux%%%6.99%%%2017-04-07%%%2GB%%%0
+Shadow Warrior Classic Redux%%%Windows, MacOS, Linux%%%6.99%%%2013-07-08%%%512MB%%%0
+Google Earth VR%%%Windows%%%0%%%2016-11-16%%%8GB%%%0
+Zup! 4%%%Windows%%%0.79%%%2017-02-20%%%256MB%%%0
+Colony Survival%%%Windows, MacOS, Linux%%%15.49%%%2017-06-16%%%2GB%%%0
+SENRAN KAGURA Peach Beach Splash%%%Windows%%%24.99%%%2018-03-07%%%6GB%%%0
+Yume Nikki%%%Windows%%%0%%%2018-01-09%%%32MB%%%0
+Without Within%%%Windows, MacOS, Linux%%%0%%%2015-01-22%%%2GB%%%0
+The Solus Project%%%Windows%%%14.99%%%2016-06-07%%%4GB%%%0
+FortressCraft Evolved!%%%Windows, MacOS, Linux%%%9.99%%%2015-11-09%%%4GB%%%0
+Football, Tactics & Glory%%%Windows%%%15.49%%%2018-06-01%%%1GB%%%0
+Syrian Warfare%%%Windows%%%10.99%%%2017-02-21%%%4GB%%%0
+Magic 2015 - Duels of the Planeswalkers%%%Windows%%%6.99%%%2014-07-16%%%1GB%%%0
+Superbrothers: Sword & Sworcery EP%%%Windows, MacOS, Linux%%%4.99%%%2012-04-16%%%1GB%%%0
+UBERMOSH%%%Windows, Linux%%%0.79%%%2015-08-13%%%2GB%%%0
+Sakura Angels%%%Windows, MacOS, Linux%%%6.99%%%2015-01-16%%%1GB%%%0
+Last Day of June%%%Windows%%%14.99%%%2017-08-31%%%4GB%%%0
+Cultist Simulator%%%Windows, MacOS, Linux%%%14.99%%%2018-05-31%%%1GB%%%0
+Lethal League Blaze%%%Windows%%%17.99%%%2018-10-24%%%4GB%%%0
+Assetto Corsa Competizione%%%Windows%%%34.99%%%2018-09-12%%%4GB%%%0
+Mr.President!%%%Windows%%%7.19%%%2016-10-10%%%512MB%%%18
+I, Zombie%%%Windows%%%1.59%%%2014-12-08%%%1024MB%%%0
+Dragon Knight%%%Windows, MacOS%%%2.79%%%2018-02-09%%%2GB%%%0
+Worms Clan Wars%%%Windows, MacOS, Linux%%%18.99%%%2013-08-15%%%2GB%%%0
+Arma 2%%%Windows%%%7.99%%%2009-06-29%%%1GB%%%0
+Mafia%%%Windows%%%7.99%%%2002-08-28%%%2GB%%%0
+WWE 2K16%%%Windows%%%34.99%%%2016-03-10%%%4GB%%%16
+Project Highrise%%%Windows, MacOS%%%14.99%%%2016-09-08%%%2GB%%%0
+Passpartout: The Starving Artist%%%Windows, MacOS, Linux%%%6.99%%%2017-06-06%%%1GB%%%0
+RPG MO%%%Windows, MacOS, Linux%%%0%%%2015-08-18%%%2GB%%%0
+Wet Girl%%%Windows%%%0.79%%%2019-01-30%%%1GB%%%0
+The Age of Decadence%%%Windows%%%11.39%%%2015-10-14%%%3GB%%%0
+Dungeons & Dragons Online%%%Windows, MacOS%%%0%%%2012-06-25%%%1GB%%%0
+Everything%%%Windows, MacOS, Linux%%%10.99%%%2017-04-21%%%8GB%%%0
+Wuppo%%%Windows%%%10.99%%%2016-09-29%%%2GB%%%0
+Curious Expedition%%%Windows, MacOS, Linux%%%10.99%%%2016-09-02%%%1GB%%%0
+EDGE%%%Windows, MacOS, Linux%%%4.99%%%2011-08-11%%%512MB%%%0
+Crashlands%%%Windows, MacOS, Linux%%%11.39%%%2016-01-21%%%5GB%%%0
+Bloodstained: Curse of the Moon%%%Windows%%%8.99%%%2018-05-24%%%2GB%%%0
+Supraball%%%Windows%%%0%%%2019-02-08%%%2GB%%%0
+The SKIES%%%Windows%%%0%%%2016-04-16%%%8GB%%%0
+Dungeon Fighter Online%%%Windows%%%0%%%2016-08-09%%%2GB%%%0
+FINAL FANTASY XII THE ZODIAC AGE%%%Windows%%%34.99%%%2018-02-01%%%4GB%%%16
+Hentai Girl Betty%%%Windows, MacOS%%%0.79%%%2018-11-06%%%1GB%%%0
+Shantae: Half-Genie Hero%%%Windows%%%14.99%%%2016-12-20%%%2GB%%%0
+BARRIER X%%%Windows%%%1.99%%%2016-05-27%%%256MB%%%0
+The Cave%%%Windows, MacOS, Linux%%%9.99%%%2013-01-23%%%1GB%%%0
+Brick-Force%%%Windows%%%0%%%2014-12-11%%%1GB%%%0
+Bridge Constructor Portal%%%Windows, MacOS, Linux%%%7.19%%%2017-12-20%%%2GB%%%0
+Tomb Raider I%%%Windows%%%4.99%%%2012-11-28%%%512MB%%%12
+The Night of the Rabbit%%%Windows, MacOS%%%16.99%%%2013-05-28%%%2GB%%%0
+Volgarr the Viking%%%Windows, MacOS, Linux%%%6.99%%%2013-09-13%%%1GB%%%0
+Total War Battles: KINGDOM%%%Windows, MacOS%%%0%%%2015-04-09%%%2GB%%%0
+Super Amazing Wagon Adventure%%%Windows%%%2.09%%%2013-10-17%%%1GB%%%0
+Dreaming Sarah%%%Windows%%%4.79%%%2015-03-12%%%1GB%%%0
+Marlow Briggs and the Mask of Death%%%Windows%%%3.99%%%2013-09-20%%%2GB%%%0
+Always Sometimes Monsters%%%Windows, MacOS, Linux%%%6.99%%%2014-05-21%%%512MB%%%0
+Batla%%%Windows%%%0%%%2015-05-14%%%1GB%%%0
+RACE 07%%%Windows%%%2.49%%%2007-10-15%%%512MB%%%0
+The Park%%%Windows%%%9.99%%%2015-10-27%%%4GB%%%0
+TY the Tasmanian Tiger%%%Windows%%%10.99%%%2016-12-12%%%4GB%%%0
+Edna & Harvey: Harvey's New Eyes%%%Windows, MacOS, Linux%%%15.99%%%2012-10-16%%%2GB%%%0
+Absolute Drift%%%Windows, MacOS, Linux%%%8.99%%%2015-07-29%%%2GB%%%0
+LEGO Harry Potter: Years 1-4%%%Windows%%%9.99%%%2010-06-25%%%256MB%%%0
+Yonder: The Cloud Catcher Chronicles%%%Windows%%%18.99%%%2017-07-17%%%6GB%%%0
+The Banner Saga 2%%%Windows, MacOS%%%18.74%%%2016-04-19%%%2GB%%%0
+Blackguards%%%Windows%%%26.99%%%2014-01-22%%%4GB%%%0
+Space Pirates And Zombies 2%%%Windows, MacOS, Linux%%%14.99%%%2017-11-07%%%2GB%%%0
+Forager%%%Windows, Linux%%%14.99%%%2019-04-18%%%1024MB%%%0
+Men of War%%%Windows%%%3.99%%%2009-05-06%%%1GB%%%0
+Vagante%%%Windows, MacOS, Linux%%%10.99%%%2018-02-21%%%1GB%%%0
+Toki Tori%%%Windows, MacOS, Linux%%%3.99%%%2010-01-28%%%1GB%%%0
+Force of Nature%%%Windows%%%5.79%%%2016-12-13%%%2GB%%%0
+Alien Rage - Unlimited%%%Windows%%%14.99%%%2013-09-24%%%2GB%%%0
+Tomb Raider: Legend%%%Windows%%%4.99%%%2007-03-29%%%256MB%%%16
+Long Live Santa!%%%Windows, MacOS%%%0%%%2017-12-19%%%2GB%%%0
+Hunger Dungeon%%%Windows, MacOS, Linux%%%0%%%2016-12-06%%%512MB%%%0
+Our End of the World%%%Windows, MacOS%%%7.19%%%2017-11-02%%%512MB%%%0
+Villagers and Heroes%%%Windows%%%0%%%2014-04-17%%%2GB%%%0
+Guns, Gore & Cannoli%%%Windows, MacOS%%%6.99%%%2015-04-30%%%4GB%%%0
+Thief Gold%%%Windows%%%4.99%%%2012-05-22%%%512MB%%%0
+Borderlands Game of the Year Enhanced%%%Windows%%%24.99%%%2019-04-03%%%4GB%%%18
+Warhammer 40,000: Dawn of War II Chaos Rising%%%Windows, MacOS, Linux%%%14.99%%%2010-03-11%%%1GB%%%16
+Contradiction - Spot The Liar!%%%Windows, MacOS%%%6.99%%%2015-07-10%%%4GB%%%12
+Neighbours from Hell Compilation%%%Windows%%%8.99%%%2013-11-07%%%128MB%%%0
+GUNS UP!%%%Windows%%%0%%%2018-02-05%%%2GB%%%0
+Red Trigger%%%Windows%%%0%%%2016-07-08%%%4GB%%%0
+Shan Gui ()%%%Windows, MacOS, Linux%%%0.79%%%2014-08-19%%%512MB%%%0
+Bleed%%%Windows, MacOS, Linux%%%3.99%%%2013-07-03%%%2GB%%%0
+X3: Terran Conflict%%%Windows, MacOS, Linux%%%15.99%%%2008-10-16%%%1GB%%%0
+Gods Will Be Watching%%%Windows, MacOS, Linux%%%6.99%%%2014-07-24%%%2GB%%%16
+Prominence Poker%%%Windows%%%0%%%2016-12-12%%%6GB%%%0
+Breach & Clear%%%Windows, MacOS, Linux%%%10.99%%%2014-03-21%%%2GB%%%0
+Escape the Game%%%Windows%%%0%%%2016-10-13%%%512MB%%%0
+PRO EVOLUTION SOCCER 2019%%%Windows%%%24.99%%%2018-08-29%%%4GB%%%0
+Train Valley%%%Windows, MacOS, Linux%%%6.99%%%2015-09-16%%%2GB%%%0
+Turok%%%Windows, MacOS, Linux%%%14.99%%%2015-12-17%%%1GB%%%0
+Puyo PuyoTetris%%%Windows%%%14.99%%%2018-02-27%%%4GB%%%0
+Expeditions: Viking%%%Windows%%%24.99%%%2017-04-27%%%4GB%%%0
+City Car Driving%%%Windows%%%20.51%%%2016-11-03%%%4GB%%%0
+Survivalist%%%Windows%%%3.99%%%2015-01-30%%%1GB%%%0
+The Howler%%%Windows%%%0%%%2014-07-03%%%2MB%%%0
+Jigoku Kisetsukan: Sense of the Seasons%%%Windows%%%0%%%2015-05-12%%%1GB%%%0
+N++ (NPLUSPLUS)%%%Windows, MacOS, Linux%%%10.99%%%2016-08-25%%%2GB%%%0
+bit Dungeon II%%%Windows, MacOS%%%2.79%%%2014-12-15%%%1GB%%%0
+LOST PLANET 3%%%Windows%%%19.99%%%2013-08-26%%%3GB%%%0
+Mega Man Legacy Collection /%%%Windows%%%11.99%%%2015-08-24%%%1024MB%%%0
+DEAD RISING%%%Windows%%%15.99%%%2016-09-12%%%2GB%%%0
+Raw Data%%%Windows%%%29.99%%%2017-10-05%%%8GB%%%0
+Wrecked%%%Windows, MacOS, Linux%%%0%%%2018-05-21%%%1GB%%%0
+Saint Seiya: Soldiers' Soul%%%Windows%%%39.99%%%2015-11-24%%%1GB%%%0
+Crimsonland%%%Windows, MacOS, Linux%%%10.59%%%2014-06-11%%%512MB%%%0
+Bus Simulator 18%%%Windows%%%26.99%%%2018-06-13%%%6GB%%%0
+Teslagrad%%%Windows, MacOS, Linux%%%6.99%%%2013-12-13%%%2GB%%%0
+Anarchy Arcade%%%Windows%%%0%%%2014-09-03%%%2GB%%%0
+Vikings - Wolves of Midgard%%%Windows, MacOS, Linux%%%22.99%%%2017-03-24%%%4GB%%%18
+Doom & Destiny%%%Windows, MacOS%%%6.99%%%2015-03-18%%%1000MB%%%0
+DG2: Defense Grid 2%%%Windows%%%10.99%%%2014-09-23%%%3GB%%%0
+The Lion's Song: Episode 1 - Silence%%%Windows, MacOS, Linux%%%0%%%2016-07-07%%%1GB%%%0
+Cube Escape: Paradox%%%Windows, MacOS%%%0%%%2018-09-20%%%1GB%%%0
+Slap City%%%Windows%%%7.19%%%2018-03-05%%%1GB%%%0
+IL-2 Sturmovik: Battle of Stalingrad%%%Windows%%%39.99%%%2014-10-22%%%4GB%%%0
+Might & Magic X - Legacy%%%Windows, MacOS%%%20.99%%%2014-01-23%%%4GB%%%0
+Overcast - Walden and the Werewolf%%%Windows%%%0.79%%%2014-04-18%%%2GB%%%0
+Throne of Lies The Online Game of Deceit%%%Windows, MacOS, Linux%%%6.99%%%2017-09-29%%%4GB%%%0
+HELLION%%%Windows%%%19.99%%%2017-02-24%%%6GB%%%0
+X-Blades%%%Windows, MacOS, Linux%%%6.99%%%2009-04-30%%%1GB%%%0
+Red Orchestra: Ostfront 41-45%%%Windows, MacOS, Linux%%%3.99%%%2006-03-14%%%512MB%%%0
+Commandos: Behind Enemy Lines%%%Windows%%%3.99%%%2007-03-15%%%64MB%%%0
+Strike Vector%%%Windows%%%8.99%%%2014-01-28%%%2GB%%%0
+Beat Cop%%%Windows, MacOS, Linux%%%11.49%%%2017-03-30%%%2GB%%%0
+Trick & Treat%%%Windows%%%0%%%2016-09-26%%%1GB%%%0
+Angels Fall First%%%Windows%%%13.37%%%2015-10-01%%%4GB%%%0
+Ashes of the Singularity: Escalation%%%Windows%%%23.79%%%2016-11-10%%%6GB%%%0
+No Time To Explain Remastered%%%Windows, MacOS, Linux%%%10.99%%%2015-07-17%%%512MB%%%0
+Assassins Creed Chronicles: China%%%Windows%%%8.59%%%2015-04-21%%%2GB%%%0
+METAL SLUG X%%%Windows%%%5.59%%%2014-10-02%%%1GB%%%0
+Solar 2%%%Windows, MacOS, Linux%%%6.99%%%2011-06-17%%%512MB%%%0
+The Universim%%%Windows, MacOS, Linux%%%22.99%%%2018-08-28%%%6GB%%%0
+Fairy Fencer F Advent Dark Force |   ADVENT DARK FORCE |  F ADVENT DARK FORCE%%%Windows%%%23.79%%%2017-02-14%%%6GB%%%0
+Indie Game: The Movie%%%Windows, MacOS%%%6.99%%%2012-06-12%%%512MB%%%0
+Fernbus Simulator%%%Windows%%%27.1%%%2016-08-25%%%6GB%%%0
+Styx: Shards of Darkness%%%Windows%%%34.99%%%2017-03-14%%%8GB%%%0
+THE KING OF FIGHTERS XIV STEAM EDITION%%%Windows%%%44.99%%%2017-06-15%%%4GB%%%0
+Hello Neighbor%%%Windows%%%23.79%%%2017-12-08%%%6GB%%%0
+Automation - The Car Company Tycoon Game%%%Windows%%%22.99%%%2015-03-12%%%3GB%%%0
+NOT A HERO%%%Windows, MacOS, Linux%%%9.99%%%2015-05-14%%%2GB%%%0
+NEKOPARA Extra%%%Windows%%%3.99%%%2018-07-26%%%1GB%%%0
+Life is Feudal: MMO%%%Windows%%%0%%%2018-01-12%%%8GB%%%0
+Double Dragon: Neon%%%Windows%%%6.99%%%2014-02-06%%%1GB%%%0
+Year Walk%%%Windows, MacOS%%%4.79%%%2014-03-06%%%1GB%%%0
+GRIP: Combat Racing%%%Windows%%%24.99%%%2018-11-06%%%4GB%%%0
+Braveland%%%Windows, MacOS, Linux%%%3.99%%%2014-03-17%%%2GB%%%0
+Mega Man 11 / 11 !!%%%Windows%%%24.99%%%2018-10-02%%%4GB%%%0
+Stoneshard: Prologue%%%Windows, Linux%%%0%%%2018-06-05%%%2GB%%%0
+America's Army 3%%%Windows%%%0%%%2009-06-17%%%1GB%%%0
+Amazing Frog?%%%Windows, MacOS, Linux%%%12.39%%%2014-11-21%%%4GB%%%0
+Antenna%%%Windows%%%0%%%2016-04-07%%%4GB%%%0
+Save Jesus%%%Windows%%%1.59%%%2016-08-04%%%1GB%%%0
+Shoppe Keep%%%Windows, MacOS, Linux%%%3.99%%%2016-05-20%%%4GB%%%0
+Out of Reach%%%Windows, MacOS, Linux%%%10.99%%%2018-07-13%%%6GB%%%0
+Zup! 5%%%Windows%%%0.79%%%2017-06-13%%%256MB%%%0
+Mercenary Kings: Reloaded Edition%%%Windows, MacOS, Linux%%%14.99%%%2014-03-25%%%2GB%%%16
+Infinifactory%%%Windows, MacOS, Linux%%%18.99%%%2015-06-30%%%2GB%%%0
+Kentucky Route Zero%%%Windows, MacOS, Linux%%%18.99%%%2013-02-22%%%512MB%%%0
+Neverending Nightmares%%%Windows, MacOS, Linux%%%10.99%%%2014-09-26%%%1GB%%%0
+One Piece Burning Blood%%%Windows%%%39.99%%%2016-09-01%%%4GB%%%0
+Wurm Unlimited%%%Windows, Linux%%%22.49%%%2015-10-21%%%4GB%%%0
+Caves of Qud%%%Windows, MacOS, Linux%%%11.39%%%2015-07-15%%%4GB%%%0
+Rain World%%%Windows%%%14.99%%%2017-03-28%%%2GB%%%0
+Back to Bed%%%Windows, MacOS, Linux%%%4.49%%%2014-08-06%%%2GB%%%0
+Scanner Sombre%%%Windows, MacOS%%%4.79%%%2017-04-26%%%4GB%%%0
+ISLANDERS%%%Windows%%%4.79%%%2019-04-04%%%2GB%%%0
+Sacred Gold%%%Windows%%%6.99%%%2008-07-09%%%256MB%%%0
+Orbital Gear%%%Windows, MacOS, Linux%%%5.99%%%2014-08-07%%%2GB%%%0
+The Testament of Sherlock Holmes%%%Windows%%%14.99%%%2012-09-20%%%2GB%%%0
+DYNASTY WARRIORS 9%%%Windows%%%0%%%2018-02-13%%%6GB%%%0
+Donut County%%%Windows, MacOS%%%10.29%%%2018-08-28%%%2GB%%%0
+UnderRail%%%Windows%%%9.99%%%2015-12-18%%%2GB%%%0
+Sang-Froid - Tales of Werewolves%%%Windows%%%0%%%2013-04-05%%%2GB%%%0
+Star Crusade CCG%%%Windows%%%0%%%2016-09-07%%%2GB%%%0
+Stormworks: Build and Rescue%%%Windows, MacOS%%%15.49%%%2018-02-28%%%8GB%%%0
+Shantae and the Pirate's Curse%%%Windows%%%14.99%%%2015-04-23%%%1GB%%%0
+Hentai Girl Linda%%%Windows, MacOS%%%0.79%%%2018-12-07%%%1GB%%%0
+Insanity Clicker%%%Windows, MacOS%%%0%%%2016-06-07%%%512MB%%%0
+Deadfall Adventures%%%Windows, Linux%%%17.99%%%2013-11-15%%%2GB%%%0
+Space Run%%%Windows, MacOS, Linux%%%10.99%%%2014-06-13%%%2GB%%%0
+AER Memories of Old%%%Windows, MacOS, Linux%%%13.49%%%2017-10-25%%%4GB%%%0
+VEGA Conflict%%%Windows, MacOS%%%0%%%2015-12-14%%%4GB%%%0
+Lead and Gold: Gangs of the Wild West%%%Windows%%%7.99%%%2010-04-08%%%5GB%%%16
+Broken Sword 5 - the Serpent's Curse%%%Windows, MacOS, Linux%%%18.99%%%2013-12-04%%%1GB%%%0
+DeadCore%%%Windows, MacOS, Linux%%%7.99%%%2014-10-17%%%3GB%%%0
+Devil May Cry 3 Special Edition%%%Windows%%%15.99%%%2007-06-12%%%256MB%%%0
+The Deer%%%Windows, MacOS, Linux%%%0.59%%%2016-03-28%%%1GB%%%0
+Outlaws of the Old West%%%Windows%%%15.49%%%2019-03-12%%%8GB%%%0
+Moon Hunters%%%Windows, MacOS, Linux%%%11.39%%%2016-03-10%%%2GB%%%0
+Simply Chess%%%Windows, MacOS, Linux%%%0%%%2015-09-11%%%512MB%%%0
+DEAD OR ALIVE 6%%%Windows%%%54.99%%%2019-02-28%%%8GB%%%0
+A Dance of Fire and Ice%%%Windows, MacOS%%%2.09%%%2019-01-24%%%2GB%%%0
+Monstrum%%%Windows, MacOS, Linux%%%11.99%%%2015-05-20%%%4GB%%%0
+Dragon Cliff%%%Windows, MacOS%%%7.19%%%2018-05-11%%%512MB%%%0
+Yakuza Kiwami%%%Windows%%%14.99%%%2019-02-19%%%4GB%%%0
+Command & Conquer: Red Alert 3 - Uprising%%%Windows%%%9.99%%%2009-10-06%%%1GB%%%0
+Deep Space Waifu: FLAT JUSTICE%%%Windows%%%1.69%%%2017-12-07%%%4GB%%%18
+F1 2012%%%Windows%%%14.99%%%2012-09-19%%%2GB%%%0
+La-Mulana%%%Windows, MacOS, Linux%%%10.99%%%2013-04-15%%%1GB%%%0
+FINAL FANTASY TYPE-0 HD%%%Windows%%%19.99%%%2015-08-18%%%4GB%%%16
+SteamWorld Dig 2%%%Windows, MacOS, Linux%%%14.99%%%2017-09-22%%%1024MB%%%0
+Angvik%%%Windows, MacOS%%%2.09%%%2014-02-24%%%2GB%%%0
+Rise of the Triad%%%Windows%%%10.99%%%2013-07-31%%%2GB%%%18
+Chaos on Deponia%%%Windows, MacOS, Linux%%%15.99%%%2012-11-06%%%2GB%%%0
+Divine Divinity%%%Windows%%%4.79%%%2012-07-05%%%256MB%%%0
+Really Big Sky%%%Windows%%%3.99%%%2012-02-24%%%512MB%%%0
+Forward to the Sky%%%Windows, MacOS, Linux%%%5.59%%%2015-01-29%%%4GB%%%0
+Marvel's Guardians of the Galaxy: The Telltale Series%%%Windows, MacOS%%%11.99%%%2017-04-18%%%3GB%%%0
+Legion TD 2%%%Windows, MacOS%%%15.49%%%2017-11-20%%%4GB%%%0
+Rock of Ages 2: Bigger & Boulder%%%Windows%%%10.99%%%2017-08-28%%%4GB%%%0
+Staxel%%%Windows%%%14.99%%%2019-04-11%%%8GB%%%0
+Dungeon Souls%%%Windows, MacOS, Linux%%%10.29%%%2016-12-02%%%2GB%%%0
+Divekick%%%Windows%%%3.99%%%2013-08-20%%%2GB%%%0
+Fox Hime Zero%%%Windows, MacOS%%%1.69%%%2018-05-23%%%1GB%%%0
+Bus Simulator 16%%%Windows, MacOS%%%13.49%%%2016-03-02%%%4GB%%%0
+The End Is Nigh%%%Windows, MacOS, Linux%%%10.99%%%2017-07-12%%%2GB%%%0
+BattleRush%%%Windows%%%0%%%2018-03-27%%%2GB%%%0
+Seasons after Fall%%%Windows%%%11.99%%%2016-09-02%%%4GB%%%0
+Hero of the Kingdom II%%%Windows, MacOS, Linux%%%5.59%%%2015-02-20%%%1GB%%%0
+Valkyria Chronicles 4%%%Windows%%%49.99%%%2018-09-25%%%4GB%%%0
+Dead State: Reanimated%%%Windows%%%14.99%%%2014-12-04%%%2GB%%%0
+A Raven Monologue%%%Windows, MacOS%%%0%%%2018-01-11%%%1GB%%%0
+Mars: War Logs%%%Windows%%%11.99%%%2013-04-26%%%2GB%%%0
+The Initial%%%Windows, MacOS%%%6.99%%%2017-07-17%%%2GB%%%0
+We Need To Go Deeper%%%Windows, MacOS, Linux%%%6.99%%%2017-02-08%%%4GB%%%0
+Heroes of Hammerwatch%%%Windows, Linux%%%9.29%%%2018-03-01%%%2GB%%%0
+Ikaruga%%%Windows%%%6.99%%%2014-02-18%%%1GB%%%0
+Feel The Snow%%%Windows%%%5.99%%%2016-10-14%%%2GB%%%0
+Tharsis%%%Windows, MacOS%%%10.99%%%2016-01-11%%%2GB%%%0
+Civilization IV: Beyond the Sword%%%Windows, MacOS%%%5.99%%%2007-07-24%%%256MB%%%0
+Nyan Cat: Lost In Space%%%Windows, Linux%%%3.99%%%2015-12-04%%%1024MB%%%0
+Sid Meier's Civilization IV%%%Windows, MacOS%%%9.99%%%2006-10-25%%%256MB%%%0
+Dev Guy%%%Windows%%%0%%%2015-05-20%%%440MB%%%0
+Caveblazers%%%Windows%%%6.99%%%2017-05-24%%%2GB%%%0
+Airport CEO%%%Windows, MacOS%%%11.99%%%2017-09-28%%%2GB%%%0
+Dead Rising 2: Off the Record%%%Windows%%%14.99%%%2011-10-11%%%2GB%%%18
+ULTIMATE MARVEL VS. CAPCOM 3%%%Windows%%%19.99%%%2017-03-06%%%2GB%%%0
+The Book of Unwritten Tales%%%Windows, MacOS, Linux%%%17.99%%%2012-07-31%%%2GB%%%0
+Old Man's Journey%%%Windows, MacOS%%%5.59%%%2017-05-17%%%1024MB%%%0
+Higurashi When They Cry Hou - Ch.1 Onikakushi%%%Windows, MacOS, Linux%%%4.79%%%2015-05-15%%%512MB%%%0
+Trials Evolution: Gold Edition%%%Windows%%%16.99%%%2013-03-21%%%2GB%%%0
+Zero Escape: Zero Time Dilemma%%%Windows%%%15.49%%%2016-06-29%%%4GB%%%0
+Heliborne%%%Windows, MacOS, Linux%%%15.49%%%2017-10-12%%%2GB%%%0
+Generation Zero%%%Windows%%%29.99%%%2019-03-26%%%8GB%%%0
+Revolution Ace%%%Windows%%%3.99%%%2014-03-19%%%1GB%%%0
+LET IT DIE%%%Windows%%%0%%%2018-09-26%%%8GB%%%18
+Sundered: Eldritch Edition%%%Windows, MacOS, Linux%%%15.49%%%2017-07-28%%%4GB%%%0
+Midas Gold Plus%%%Windows, MacOS%%%0%%%2017-02-01%%%512MB%%%0
+Stationeers%%%Windows%%%18.99%%%2017-12-12%%%2GB%%%0
+Workers & Resources: Soviet Republic%%%Windows%%%19.99%%%2019-03-15%%%8GB%%%0
+SimAirport%%%Windows, MacOS, Linux%%%18.99%%%2017-03-06%%%2GB%%%0
+Cook, Serve, Delicious! 2!!%%%Windows, MacOS, Linux%%%9.99%%%2017-09-13%%%4GB%%%0
+Pummel Party%%%Windows%%%11.39%%%2018-09-20%%%3GB%%%0
+Mighty No. 9%%%Windows, MacOS, Linux%%%15.99%%%2016-06-23%%%4GB%%%0
+Eador. Masters of the Broken World%%%Windows%%%14.99%%%2013-04-19%%%2GB%%%0
+Bloodline Champions%%%Windows%%%0%%%2011-10-28%%%1GB%%%0
+Virginia%%%Windows, MacOS%%%6.99%%%2016-09-22%%%2GB%%%0
+Crimson Imprint plus -Nonexistent Christmas-%%%Windows%%%1.69%%%2017-12-01%%%1GB%%%0
+Ghost 1.0%%%Windows%%%9.99%%%2016-06-06%%%2GB%%%0
+Blades of Time%%%Windows, MacOS%%%6.99%%%2012-04-20%%%2GB%%%16
+Dreadnought%%%Windows%%%0%%%2018-10-14%%%4GB%%%0
+Quake III Arena%%%Windows%%%12.99%%%2007-08-03%%%64MB%%%0
+Half-Life Deathmatch: Source%%%Windows, MacOS, Linux%%%0%%%2006-05-01%%%1024MB%%%0
+Mortal Online%%%Windows%%%0%%%2015-08-31%%%6GB%%%0
+Season of 12 Colors%%%Windows, MacOS, Linux%%%1.99%%%2016-03-14%%%512MB%%%0
+Ride 2%%%Windows%%%29.99%%%2016-10-07%%%4GB%%%0
+Welcome to the Game%%%Windows, MacOS%%%3.99%%%2016-06-15%%%2GB%%%18
+Production Line : Car factory simulation%%%Windows%%%19.49%%%2019-03-07%%%4GB%%%0
+Memoria%%%Windows, MacOS%%%26.99%%%2013-08-29%%%2GB%%%0
+Bulletstorm: Full Clip Edition%%%Windows%%%29.99%%%2017-04-07%%%6GB%%%18
+Cold Waters%%%Windows, MacOS%%%29.99%%%2017-06-05%%%2GB%%%0
+Particula%%%Windows, MacOS%%%0.79%%%2015-02-02%%%2GB%%%0
+Murderous Pursuits%%%Windows%%%7.99%%%2018-04-26%%%4GB%%%0
+Feed and Grow: Fish%%%Windows%%%10.99%%%2016-01-08%%%4GB%%%0
+Kona%%%Windows, MacOS, Linux%%%13%%%2017-03-17%%%4GB%%%0
+Event[0]%%%Windows, MacOS%%%14.99%%%2016-09-14%%%8GB%%%0
+Serious Sam Classics: Revolution%%%Windows%%%7.99%%%2014-04-30%%%256MB%%%0
+Tropico 3%%%Windows%%%7.99%%%2009-11-13%%%1GB%%%0
+Company of Heroes: Tales of Valor%%%Windows%%%9.99%%%2009-04-08%%%512MB%%%0
+Hero Zero%%%Windows%%%0%%%2016-07-05%%%1GB%%%0
+Tattletail%%%Windows, MacOS%%%3.99%%%2016-12-28%%%2GB%%%0
+Battlefleet Gothic: Armada 2%%%Windows%%%34.99%%%2019-01-24%%%8GB%%%0
+Commandos 2: Men of Courage%%%Windows%%%3.99%%%2007-03-15%%%64MB%%%0
+Do Not Feed the Monkeys%%%Windows, MacOS, Linux%%%8.99%%%2018-10-23%%%2GB%%%0
+Skyborn%%%Windows, MacOS, Linux%%%10.99%%%2014-02-21%%%256MB%%%0
+Act of Aggression - Reboot Edition%%%Windows%%%23.99%%%2015-09-02%%%2GB%%%0
+Strange Brigade%%%Windows%%%39.99%%%2018-08-27%%%4GB%%%0
+Castle of Illusion%%%Windows%%%9.99%%%2013-09-04%%%2GB%%%0
+Skater XL%%%Windows%%%15.49%%%2018-12-19%%%8GB%%%0
+Red Faction%%%Windows%%%4.99%%%2009-08-05%%%64MB%%%0
+Dwarfs - F2P%%%Windows, MacOS%%%0%%%2012-10-18%%%1GB%%%0
+Blade and Sorcery%%%Windows%%%15.49%%%2018-12-11%%%8GB%%%0
+Goodbye Deponia%%%Windows, MacOS, Linux%%%16.99%%%2013-10-17%%%2GB%%%0
+Pacify%%%Windows, MacOS%%%3.99%%%2019-02-22%%%4GB%%%0
+Dead Rising 4%%%Windows%%%19.99%%%2017-03-14%%%6GB%%%18
+ONRAID%%%Windows, MacOS, Linux%%%0%%%2017-04-18%%%4GB%%%0
+D4: Dark Dreams Dont Die -Season One-%%%Windows%%%10.99%%%2015-06-05%%%6GB%%%16
+Rusty Lake Hotel%%%Windows, MacOS%%%1.59%%%2016-01-29%%%1GB%%%0
+Super House of Dead Ninjas%%%Windows%%%4.99%%%2013-02-18%%%512MB%%%0
+KARAKARA%%%Windows%%%6.99%%%2016-06-27%%%1GB%%%0
+STEINSGATE 0%%%Windows%%%27.79%%%2018-05-08%%%4GB%%%0
+Killer Instinct%%%Windows%%%29.99%%%2017-09-27%%%4GB%%%0
+Baba Is You%%%Windows, MacOS, Linux%%%11.39%%%2019-03-13%%%1GB%%%0
+Star Traders: Frontiers%%%Windows, MacOS, Linux%%%11.39%%%2018-07-31%%%1024MB%%%0
+Carmageddon: Max Damage%%%Windows%%%12.99%%%2016-10-27%%%4GB%%%18
+SuperPower 2 Steam Edition%%%Windows%%%8.99%%%2014-04-18%%%256MB%%%0
+Space Hulk%%%Windows, MacOS, Linux%%%18.99%%%2013-08-15%%%2GB%%%0
+King's Bounty: The Legend%%%Windows, MacOS%%%4.99%%%2009-05-01%%%1GB%%%0
+Space Farmers%%%Windows, MacOS, Linux%%%7.19%%%2014-04-17%%%2GB%%%0
+Boson X%%%Windows, MacOS, Linux%%%1.99%%%2014-09-15%%%512MB%%%0
+IL-2 Sturmovik: 1946%%%Windows%%%8.69%%%2008-06-13%%%64MB%%%0
+Heaven Island - VR MMO%%%Windows, MacOS, Linux%%%0.79%%%2015-12-23%%%2GB%%%0
+River City Ransom: Underground%%%Windows, MacOS, Linux%%%14.99%%%2017-02-27%%%3GB%%%0
+Scribblenauts Unmasked: A DC Comics Adventure%%%Windows%%%14.99%%%2013-09-24%%%2GB%%%0
+The Last Door - Collector's Edition%%%Windows, MacOS, Linux%%%6.99%%%2014-05-20%%%1GB%%%0
+Assault Android Cactus%%%Windows, MacOS, Linux%%%10.99%%%2015-09-23%%%2GB%%%0
+Riff Racer - Race Your Music!%%%Windows%%%6.99%%%2016-05-12%%%2GB%%%0
+The Dark Eye: Chains of Satinav%%%Windows, MacOS%%%26.99%%%2012-06-22%%%512MB%%%0
+hack_me%%%Windows%%%2.79%%%2017-01-05%%%512MB%%%0
+Divinity: Dragon Commander%%%Windows%%%29.99%%%2013-08-06%%%2GB%%%0
+Total Annihilation%%%Windows%%%3.99%%%2015-12-18%%%16MB%%%0
+Deathmatch Classic%%%Windows, MacOS, Linux%%%3.99%%%2001-06-01%%%96MB%%%0
+Super Sanctum TD%%%Windows, MacOS%%%3.99%%%2013-05-09%%%1GB%%%0
+Stacking%%%Windows, MacOS, Linux%%%6.99%%%2012-03-06%%%1GB%%%0
+Skyforge%%%Windows%%%0%%%2017-04-13%%%2GB%%%0
+Zup! Zero%%%Windows%%%0.79%%%2017-04-06%%%256MB%%%0
+Hydrophobia: Prophecy%%%Windows%%%3.99%%%2011-05-09%%%512MB%%%16
+FrostRunner%%%Windows%%%0%%%2019-01-01%%%8GB%%%0
+Gal*Gun: Double Peace%%%Windows%%%29.99%%%2016-09-27%%%6GB%%%0
+Warstone TD%%%Windows, MacOS%%%10.99%%%2018-05-23%%%2GB%%%0
+Fallen Enchantress: Legendary Heroes%%%Windows%%%19.49%%%2013-05-22%%%2GB%%%0
+Heroes of Might & Magic V%%%Windows%%%8.59%%%2008-05-13%%%64MB%%%0
+BlackShot: Mercenary Warfare FPS%%%Windows%%%0%%%2016-05-31%%%1GB%%%0
+LoveChoice%%%Windows, MacOS%%%1.69%%%2018-09-30%%%4GB%%%0
+The Guild 3%%%Windows%%%24.99%%%2017-09-26%%%4GB%%%0
+Guild of Dungeoneering%%%Windows, MacOS%%%10.99%%%2015-07-14%%%2GB%%%0
+Barony%%%Windows, MacOS, Linux%%%11.39%%%2015-06-23%%%4GB%%%0
+Condemned: Criminal Origins%%%Windows%%%9.99%%%2012-10-29%%%512MB%%%18
+The Adventures of Fei Duanmu%%%Windows, MacOS, Linux%%%2.79%%%2017-03-09%%%1GB%%%0
+Aviary Attorney%%%Windows, MacOS%%%10.99%%%2015-12-21%%%2GB%%%0
+Disturbed%%%Windows, MacOS, Linux%%%0%%%2016-10-03%%%256MB%%%0
+Crazy Taxi%%%Windows%%%5.59%%%2011-03-04%%%2GB%%%0
+INK%%%Windows, MacOS, Linux%%%3.99%%%2015-08-05%%%1GB%%%0
+Phantom Doctrine%%%Windows%%%30.99%%%2018-08-14%%%6GB%%%0
+STRAFE: Millennium Edition%%%Windows, MacOS, Linux%%%11.39%%%2017-05-09%%%4GB%%%0
+Salt%%%Windows%%%11.39%%%2018-02-06%%%2GB%%%0
+Kopanito All-Stars Soccer%%%Windows, MacOS, Linux%%%4.79%%%2016-11-16%%%1GB%%%0
+The Incredible Adventures of Van Helsing II%%%Windows%%%10.99%%%2014-06-13%%%2GB%%%0
+Zombie Defense%%%Windows, MacOS, Linux%%%0%%%2016-09-30%%%512MB%%%0
+Bardbarian%%%Windows, MacOS%%%5.59%%%2014-04-01%%%1024MB%%%0
+The Technomancer%%%Windows%%%23.99%%%2016-06-28%%%4GB%%%0
+Giana Sisters: Twisted Dreams%%%Windows%%%10.99%%%2012-10-22%%%2GB%%%0
+Age of Conquest IV%%%Windows, MacOS, Linux%%%0%%%2016-04-05%%%512MB%%%0
+Oriental Empires%%%Windows%%%22.99%%%2017-09-14%%%4GB%%%0
+Foundation%%%Windows%%%26.99%%%2019-02-01%%%4GB%%%0
+Bladed Fury%%%Windows%%%7.19%%%2018-12-17%%%4GB%%%0
+Quantum Conundrum%%%Windows%%%6.99%%%2012-06-21%%%2GB%%%0
+Tempest: Pirate Action RPG%%%Windows, MacOS%%%14.99%%%2016-08-22%%%2GB%%%0
+Star Trek: Bridge Crew%%%Windows%%%33.99%%%2017-05-30%%%8GB%%%0
+Post Apocalyptic Mayhem%%%Windows%%%6.99%%%2011-03-17%%%1GB%%%0
+Job Simulator%%%Windows%%%15.49%%%2016-04-05%%%4GB%%%0
+Velvet Assassin%%%Windows, MacOS%%%1.69%%%2009-05-01%%%512MB%%%0
+SanctuaryRPG: Black Edition%%%Windows%%%5.79%%%2015-02-13%%%512MB%%%0
+Devil May Cry HD Collection%%%Windows%%%24.99%%%2018-03-13%%%4GB%%%16
+BlazBlue: Cross Tag Battle%%%Windows%%%32.99%%%2018-06-05%%%4GB%%%0
+Oceanhorn: Monster of Uncharted Seas%%%Windows, MacOS%%%10.99%%%2015-03-17%%%1GB%%%0
+Tanki Online%%%Windows, MacOS%%%0%%%2017-03-02%%%1GB%%%0
+War of Rights%%%Windows%%%23.79%%%2018-12-03%%%8GB%%%0
+Strike Suit Zero%%%Windows, MacOS, Linux%%%14.99%%%2013-01-23%%%4GB%%%0
+Vainglory%%%Windows, MacOS%%%0%%%2019-02-13%%%2GB%%%0
+Chronicon%%%Windows, Linux%%%7.19%%%2015-07-28%%%2GB%%%0
+Dominions 4: Thrones of Ascension%%%Windows, MacOS, Linux%%%26.99%%%2013-12-05%%%1024MB%%%0
+Highway Blossoms%%%Windows, MacOS, Linux%%%10.29%%%2016-06-17%%%1024MB%%%0
+Deathgarden%%%Windows%%%24.99%%%2018-08-14%%%8GB%%%0
+Melty Blood Actress Again Current Code%%%Windows%%%18.99%%%2016-04-19%%%2GB%%%0
+Hired Ops%%%Windows%%%6.99%%%2016-10-21%%%4GB%%%0
+Gemini Rue%%%Windows, MacOS, Linux%%%6.99%%%2011-10-26%%%64MB%%%0
+Agarest: Generations of War%%%Windows%%%10.99%%%2014-02-04%%%1GB%%%0
+Westerado: Double Barreled%%%Windows, MacOS%%%10.99%%%2015-04-16%%%2GB%%%0
+STAR WARS Galactic Battlegrounds Saga%%%Windows%%%4.79%%%2016-03-01%%%1GB%%%0
+The Council%%%Windows%%%25.99%%%2018-03-13%%%4GB%%%0
+Street Legal Racing: Redline v2.3.1%%%Windows%%%4.79%%%2016-08-05%%%512MB%%%0
+Q.U.B.E: Director's Cut%%%Windows, MacOS, Linux%%%6.99%%%2014-05-21%%%2GB%%%0
+Monkey Island 2 Special Edition: LeChucks Revenge%%%Windows%%%7.19%%%2010-07-07%%%256MB%%%0
+Urban Trial Freestyle%%%Windows%%%4.99%%%2013-09-18%%%2GB%%%0
+Europa Universalis III Complete%%%Windows, MacOS%%%9.99%%%2009-02-04%%%512MB%%%0
+The Incredible Adventures of Van Helsing: Final Cut%%%Windows%%%29.99%%%2015-11-06%%%2GB%%%0
+Tanki X%%%Windows, MacOS%%%0%%%2018-03-13%%%4GB%%%0
+Learn Japanese To Survive! Hiragana Battle%%%Windows, MacOS%%%4.99%%%2016-02-16%%%2GB%%%0
+Kathy Rain%%%Windows, MacOS%%%10.99%%%2016-05-05%%%128MB%%%0
+Hitman: Codename 47%%%Windows%%%7.19%%%2007-03-15%%%64MB%%%18
+Nex Machina%%%Windows%%%14.99%%%2017-06-20%%%4GB%%%0
+SPACEPLAN%%%Windows, MacOS%%%1.99%%%2017-05-03%%%1GB%%%0
+Just Dance 2017%%%Windows%%%41.99%%%2016-10-27%%%4GB%%%0
+RollerCoaster Tycoon World%%%Windows%%%10.99%%%2016-11-16%%%4GB%%%0
+Sniper Elite%%%Windows%%%5.59%%%2009-07-16%%%256MB%%%0
+Executive Assault%%%Windows%%%10.29%%%2015-07-17%%%4GB%%%0
+PARTICLE MACE%%%Windows, MacOS%%%7.19%%%2015-01-22%%%2GB%%%0
+Sacred 2 Gold%%%Windows%%%10.99%%%2012-12-21%%%1GB%%%0
+Super Animal Royale%%%Windows, MacOS%%%10.29%%%2018-12-12%%%3GB%%%0
+Tower Wars%%%Windows, MacOS%%%5.59%%%2012-08-14%%%2GB%%%0
+The Gallery - Episode 1: Call of the Starseed%%%Windows%%%14.99%%%2016-04-05%%%8GB%%%0
+PIPE by BMX Streets%%%Windows, MacOS%%%7.19%%%2018-03-15%%%4GB%%%0
+BADLAND: Game of the Year Edition%%%Windows, MacOS, Linux%%%6.99%%%2015-05-26%%%1GB%%%0
+Resident Evil: Operation Raccoon City%%%Windows%%%22.99%%%2012-05-18%%%2GB%%%0
+Earthfall%%%Windows%%%23.79%%%2018-07-12%%%8GB%%%16
+Voxelized%%%Windows%%%2.79%%%2017-04-05%%%4GB%%%0
+McOsu%%%Windows, MacOS, Linux%%%0%%%2017-03-20%%%512MB%%%0
+Spacelords%%%Windows%%%0%%%2017-09-22%%%4GB%%%16
+Lara Croft GO%%%Windows, MacOS, Linux%%%7.99%%%2016-12-04%%%1GB%%%0
+METAL SLUG%%%Windows%%%5.59%%%2015-06-25%%%1GB%%%0
+Mad Father%%%Windows%%%3.99%%%2016-09-22%%%1GB%%%0
+Full Throttle Remastered%%%Windows, MacOS, Linux%%%10.99%%%2017-04-18%%%4GB%%%0
+Turbo Pug DX%%%Windows%%%0.79%%%2016-09-26%%%200MB%%%0
+Symphony%%%Windows, MacOS, Linux%%%6.19%%%2012-08-06%%%2GB%%%0
+RONIN%%%Windows, MacOS, Linux%%%9.99%%%2015-06-30%%%2GB%%%0
+Iconoclasts%%%Windows, MacOS, Linux%%%17.49%%%2018-01-23%%%1GB%%%0
+Warhammer 40,000: Regicide%%%Windows%%%7.19%%%2015-09-08%%%3GB%%%0
+Dropsy%%%Windows, MacOS, Linux%%%6.99%%%2015-09-10%%%1GB%%%0
+Screencheat%%%Windows, MacOS, Linux%%%11.39%%%2014-10-21%%%3GB%%%0
+POSTAL Redux%%%Windows, Linux%%%4.99%%%2016-05-20%%%4GB%%%0
+Panzermadels: Tank Dating Simulator%%%Windows, MacOS%%%6.99%%%2016-03-09%%%4GB%%%0
+Coloring Pixels%%%Windows, MacOS%%%0%%%2018-08-17%%%8GB%%%0
+Boundless%%%Windows, MacOS%%%32.99%%%2018-09-11%%%4GB%%%0
+The Longest Journey%%%Windows%%%5.99%%%2007-05-01%%%32MB%%%0
+The First Tree%%%Windows, MacOS, Linux%%%7.99%%%2017-09-14%%%8GB%%%0
+Neon Drive%%%Windows, MacOS, Linux%%%6.99%%%2016-05-12%%%2GB%%%0
+Call of Duty: Modern Warfare Remastered%%%Windows%%%34.99%%%2017-07-27%%%8GB%%%0
+Half Minute Hero: Super Mega Neo Climax Ultimate Boy%%%Windows%%%6.99%%%2012-09-27%%%1GB%%%0
+Greyfox RPG%%%Windows%%%1.59%%%2015-02-23%%%512MB%%%0
+Hover%%%Windows, MacOS, Linux%%%14.99%%%2017-05-31%%%4GB%%%0
+BallisticNG%%%Windows, MacOS, Linux%%%5.79%%%2018-12-14%%%2GB%%%0
+Trials Fusion%%%Windows%%%16.99%%%2014-04-24%%%3GB%%%0
+while True: learn()%%%Windows, MacOS, Linux%%%9.99%%%2019-01-17%%%2GB%%%0
+Zombie Night Terror%%%Windows, MacOS, Linux%%%9.99%%%2016-07-20%%%2GB%%%0
+Electric Highways%%%Windows%%%0%%%2015-10-28%%%4GB%%%0
+WORLD OF FINAL FANTASY%%%Windows%%%18.49%%%2017-11-21%%%4GB%%%12
+Get Off My Lawn!%%%Windows, MacOS%%%0%%%2014-11-11%%%2GB%%%0
+Reversion - The Escape (1st Chapter)%%%Windows, MacOS, Linux%%%0.79%%%2014-06-10%%%2GB%%%0
+Planescape: Torment: Enhanced Edition%%%Windows, MacOS, Linux%%%14.99%%%2017-04-11%%%512MB%%%0
+The Black Death%%%Windows%%%14.99%%%2016-04-19%%%6GB%%%0
+Music Racer%%%Windows%%%1.69%%%2018-07-20%%%1GB%%%0
+Waltz of the Wizard%%%Windows%%%0%%%2016-05-31%%%4GB%%%0
+Kairo%%%Windows, MacOS, Linux%%%3.99%%%2013-04-24%%%2GB%%%0
+Cities in Motion 2%%%Windows, MacOS, Linux%%%14.99%%%2013-04-02%%%3GB%%%0
+Guns and Robots%%%Windows%%%0%%%2014-08-04%%%2GB%%%0
+Three Kingdoms: The Last Warlord | :%%%Windows%%%13.49%%%2017-05-26%%%2GB%%%0
+Visage%%%Windows%%%19.49%%%2018-10-02%%%6GB%%%0
+Elise the Devil%%%Windows%%%1.59%%%2017-11-01%%%1GB%%%0
+Type:Rider%%%Windows, MacOS, Linux%%%3.99%%%2013-11-06%%%2GB%%%0
+Detective Grimoire%%%Windows, MacOS, Linux%%%5.19%%%2014-08-18%%%512MB%%%0
+Atelier Sophie: The Alchemist of the Mysterious Book%%%Windows%%%24.99%%%2017-02-07%%%4GB%%%0
+Call of Juarez: Bound in Blood%%%Windows%%%8.59%%%2009-07-02%%%1024MB%%%0
+CHRONO TRIGGER%%%Windows%%%11.99%%%2018-02-27%%%4GB%%%0
+Unholy Heights%%%Windows%%%2.79%%%2013-10-04%%%1GB%%%0
+TREE%%%Windows%%%0%%%2018-08-13%%%2GB%%%0
+Battle for Wesnoth%%%Windows, MacOS, Linux%%%0%%%2018-05-01%%%2GB%%%0
+NEKOPALIVE%%%Windows%%%0%%%2016-05-31%%%8GB%%%16
+Minecraft: Story Mode - Season Two%%%Windows, MacOS%%%11.99%%%2017-07-11%%%3GB%%%0
+Empires of the Undergrowth%%%Windows, MacOS, Linux%%%15.99%%%2017-12-01%%%4GB%%%0
+Sid Meier's Railroads!%%%Windows, MacOS%%%5.99%%%2007-05-04%%%512MB%%%0
+F1 2014%%%Windows%%%19.99%%%2014-10-16%%%2GB%%%0
+Animation Throwdown: The Quest for Cards%%%Windows, MacOS%%%0%%%2017-05-05%%%4GB%%%0
+Rodina%%%Windows%%%11.39%%%2014-07-28%%%2GB%%%0
+Ultimate Fishing Simulator%%%Windows%%%14.99%%%2018-08-30%%%4GB%%%0
+A Normal Lost Phone%%%Windows, MacOS, Linux%%%1.99%%%2017-01-26%%%4GB%%%0
+PewDiePie: Legend of the Brofist%%%Windows, MacOS%%%5.59%%%2015-12-10%%%1GB%%%0
+AI War: Fleet Command%%%Windows, MacOS, Linux%%%6.99%%%2009-10-21%%%2GB%%%0
+The Legend of Heroes: Trails in the Sky SC%%%Windows%%%22.99%%%2015-10-29%%%512MB%%%0
+Eleven: Table Tennis VR%%%Windows%%%15.49%%%2016-09-22%%%8GB%%%0
+Flashing Lights - Police, Firefighting, Emergency Services Simulator ()%%%Windows, MacOS%%%11.39%%%2018-06-07%%%4GB%%%0
+DETOUR%%%Windows%%%0.79%%%2011-05-16%%%512MB%%%0
+Peggle Deluxe%%%Windows, MacOS%%%4.25%%%2007-03-06%%%256MB%%%0
+Deadly 30%%%Windows, MacOS%%%3.99%%%2014-01-08%%%512MB%%%0
+Fire Pro Wrestling World%%%Windows%%%23.79%%%2017-12-18%%%4GB%%%0
+CastleStorm%%%Windows%%%6.99%%%2013-07-29%%%512MB%%%0
+Frosty Kiss%%%Windows, Linux%%%0%%%2016-01-08%%%512MB%%%0
+Dead Effect 2%%%Windows, MacOS%%%8.99%%%2016-05-06%%%6GB%%%0
+In Verbis Virtus%%%Windows%%%14.99%%%2015-04-03%%%2GB%%%0
+Need for Speed: Shift%%%Windows%%%9.99%%%2009-10-06%%%1GB%%%0
+Shark Attack Deathmatch 2%%%Windows%%%1.99%%%2015-05-28%%%2GB%%%0
+Passing Pineview Forest%%%Windows%%%0%%%2014-11-21%%%4GB%%%0
+Black Survival /%%%Windows%%%0%%%2019-03-19%%%512MB%%%0
+Ben and Ed%%%Windows%%%6.99%%%2015-12-08%%%4GB%%%0
+Time of Dragons%%%Windows, MacOS, Linux%%%0%%%2016-02-01%%%2GB%%%0
+MASSIVE CHALICE%%%Windows, MacOS, Linux%%%14.99%%%2015-06-01%%%4GB%%%0
+Battle of Empires : 1914-1918%%%Windows, MacOS, Linux%%%5.99%%%2015-07-22%%%2GB%%%0
+Eldevin%%%Windows, MacOS%%%0%%%2014-11-05%%%2GB%%%16
+Camera Obscura%%%Windows%%%1.59%%%2015-02-19%%%1GB%%%0
+Guild Quest%%%Windows, MacOS%%%0%%%2017-01-26%%%256MB%%%0
+The Underground Man%%%Windows, MacOS%%%1.99%%%2016-09-01%%%1024MB%%%0
+Eryi's Action%%%Windows, Linux%%%3.99%%%2013-11-19%%%512MB%%%0
+Copa Petrobras de Marcas%%%Windows%%%0%%%2015-04-08%%%1GB%%%0
+Ys I & II Chronicles+%%%Windows%%%9.99%%%2013-02-14%%%1GB%%%0
+Voices from the Sea%%%Windows%%%0%%%2015-03-24%%%2GB%%%0
+Reveal The Deep%%%Windows, MacOS, Linux%%%0.79%%%2015-12-04%%%1GB%%%0
+Cossacks: Back to War%%%Windows%%%3.99%%%2010-09-02%%%512MB%%%0
+Laser League%%%Windows%%%10.99%%%2018-05-10%%%4GB%%%0
+Equilinox%%%Windows, MacOS, Linux%%%7.5%%%2018-11-23%%%2GB%%%0
+Darkest Hour: A Hearts of Iron Game%%%Windows%%%7.99%%%2011-04-08%%%128MB%%%0
+ACE Academy%%%Windows, MacOS, Linux%%%14.99%%%2016-08-22%%%2GB%%%0
+Subsurface Circular%%%Windows, MacOS%%%4.79%%%2017-08-17%%%8GB%%%0
+Catherine Classic%%%Windows%%%14.99%%%2019-01-10%%%4GB%%%18
+Pinstripe%%%Windows, MacOS, Linux%%%10.99%%%2017-04-24%%%2GB%%%0
+Epic Battle Fantasy 5%%%Windows%%%11.49%%%2018-11-30%%%2GB%%%0
+Drop Alive%%%Windows%%%0%%%2016-12-06%%%1GB%%%0
+Red Faction Guerrilla Re-Mars-tered%%%Windows%%%14.99%%%2018-07-03%%%4GB%%%16
+AXYOS%%%Windows%%%3.99%%%2018-08-01%%%2GB%%%0
+Ultimate Tic-Tac-Toe%%%Windows%%%0%%%2015-04-28%%%512MB%%%0
+Home%%%Windows, MacOS%%%1.99%%%2012-08-31%%%2GB%%%0
+Blue Estate The Game%%%Windows%%%9.99%%%2015-04-08%%%2GB%%%0
+ZOMBI%%%Windows%%%16.99%%%2015-08-18%%%4GB%%%0
+Shroud of the Avatar: Forsaken Virtues%%%Windows, MacOS, Linux%%%0%%%2018-03-27%%%8GB%%%0
+Supreme Commander%%%Windows%%%8.99%%%2011-09-28%%%1GB%%%0
+TrackMania Canyon%%%Windows%%%16.99%%%2013-02-27%%%2GB%%%0
+Mashinky%%%Windows%%%18.99%%%2018-10-06%%%4GB%%%0
+NaissanceE%%%Windows%%%0%%%2014-02-13%%%3GB%%%0
+Grandia II Anniversary Edition%%%Windows%%%14.99%%%2015-08-24%%%4GB%%%0
+Will To Live Online%%%Windows%%%9.29%%%2018-04-05%%%8GB%%%0
+Oik%%%Windows%%%0.79%%%2017-02-14%%%256MB%%%0
+rFactor 2%%%Windows%%%25.79%%%2015-11-12%%%4GB%%%0
+Death's Gambit%%%Windows%%%14.99%%%2018-08-13%%%2GB%%%0
+Desktop Dungeons%%%Windows, MacOS, Linux%%%11.99%%%2013-11-07%%%1GB%%%0
+HEX: Shards of Fate%%%Windows, MacOS%%%0%%%2016-04-19%%%2GB%%%0
+Panzer Corps%%%Windows, MacOS%%%14.99%%%2014-03-12%%%1GB%%%0
+RIDE%%%Windows%%%14.99%%%2015-03-27%%%4GB%%%0
+Crimzon Clover WORLD IGNITION%%%Windows%%%6.99%%%2014-06-06%%%512MB%%%0
+Low Magic Age%%%Windows%%%7.19%%%2017-01-10%%%512MB%%%0
+Zup! 6%%%Windows%%%0.79%%%2017-09-19%%%256MB%%%0
+LEGO Batman: The Videogame%%%Windows%%%14.99%%%2008-09-29%%%256MB%%%0
+Predynastic Egypt%%%Windows, MacOS, Linux%%%6.99%%%2016-10-10%%%2GB%%%0
+The Magic Circle%%%Windows, MacOS, Linux%%%14.99%%%2015-07-09%%%2GB%%%0
+Love Ribbon%%%Windows, MacOS, Linux%%%6.99%%%2017-01-27%%%512MB%%%0
+Galaxy on Fire 2 Full HD%%%Windows%%%5.59%%%2012-08-21%%%2GB%%%0
+The Uncertain: Last Quiet Day%%%Windows, MacOS%%%10.99%%%2016-09-22%%%4GB%%%0
+Maize%%%Windows%%%14.99%%%2016-12-01%%%4GB%%%0
+Sixtieth Kilometer%%%Windows, Linux%%%0.79%%%2016-08-25%%%256MB%%%0
+Quern - Undying Thoughts%%%Windows, MacOS, Linux%%%18.99%%%2016-11-28%%%3GB%%%0
+Silence%%%Windows, MacOS, Linux%%%16.99%%%2016-11-15%%%4GB%%%0
+Jesus Christ RPG Trilogy%%%Windows%%%0%%%2016-03-18%%%128MB%%%0
+Halcyon 6: Starbase Commander%%%Windows, MacOS, Linux%%%10.99%%%2016-09-08%%%2GB%%%0
+Pixel Worlds: MMO Sandbox%%%Windows, MacOS%%%0%%%2017-06-08%%%2GB%%%0
+Supraland%%%Windows%%%15.49%%%2019-04-05%%%4GB%%%0
+Masked Shooters 2%%%Windows, MacOS%%%0.79%%%2016-01-14%%%1GB%%%0
+Sakura Dungeon%%%Windows, MacOS, Linux%%%14.99%%%2016-06-03%%%1GB%%%0
+PickCrafter%%%Windows, MacOS%%%0%%%2017-12-14%%%512MB%%%0
+Wargroove%%%Windows%%%15.99%%%2019-02-01%%%2GB%%%0
+Space Hulk: Deathwing - Enhanced Edition%%%Windows%%%34.99%%%2018-05-22%%%8GB%%%0
+Aim Lab%%%Windows%%%0%%%2018-02-07%%%4GB%%%0
+Destination Sol%%%Windows, MacOS, Linux%%%0%%%2015-02-05%%%512MB%%%0
+A Kiss For The Petals - Remembering How We Met%%%Windows, MacOS, Linux%%%5.59%%%2015-09-25%%%512MB%%%0
+Big Pharma%%%Windows, MacOS, Linux%%%18.99%%%2015-08-27%%%4GB%%%0
+Toy Soldiers%%%Windows%%%4.99%%%2012-04-27%%%2GB%%%0
+FINAL FANTASY III%%%Windows%%%10.99%%%2014-05-27%%%2GB%%%12
+Omerta - City of Gangsters%%%Windows, MacOS%%%10.99%%%2013-01-31%%%2GB%%%0
+Hellbound: Survival Mode%%%Windows%%%0%%%2018-05-09%%%2GB%%%0
+Enforcer: Police Crime Action%%%Windows, MacOS%%%14.99%%%2014-10-24%%%4GB%%%18
+Crystal City%%%Windows, MacOS, Linux%%%3.19%%%2017-06-09%%%512MB%%%18
+You Have 10 Seconds%%%Windows%%%0%%%2016-08-02%%%1GB%%%0
+Basement%%%Windows, MacOS, Linux%%%6.99%%%2015-04-30%%%1024MB%%%0
+CONSORTIUM%%%Windows%%%6.99%%%2014-01-08%%%4GB%%%0
+Battle Chef Brigade Deluxe%%%Windows, MacOS%%%15.49%%%2017-11-20%%%4GB%%%0
+Blood: One Unit Whole Blood%%%Windows%%%3.99%%%2014-07-14%%%256MB%%%0
+Strike.is: The Game%%%Windows, MacOS%%%0%%%2016-07-14%%%512MB%%%0
+Tengami%%%Windows, MacOS%%%3.99%%%2015-01-15%%%2GB%%%0
+Operation Flashpoint: Dragon Rising%%%Windows%%%6.99%%%2009-10-08%%%1GB%%%0
+I Can't Believe It's Not Gambling%%%Windows, Linux%%%0.79%%%2017-12-11%%%512MB%%%0
+Journey of a Roach%%%Windows, MacOS, Linux%%%5.99%%%2013-11-04%%%2GB%%%0
+Lone Survivor: The Director's Cut%%%Windows, MacOS%%%11.39%%%2012-04-23%%%2GB%%%16
+Knights of Honor%%%Windows%%%7.49%%%2009-02-04%%%256MB%%%0
+SEUM: Speedrunners from Hell%%%Windows, MacOS, Linux%%%10.99%%%2016-07-28%%%1GB%%%0
+DiRT Rally 2.0%%%Windows%%%44.99%%%2019-02-25%%%8GB%%%0
+Disc Jam%%%Windows%%%10.99%%%2017-03-07%%%4GB%%%0
+Legends of Eisenwald%%%Windows%%%14.99%%%2015-07-02%%%4GB%%%0
+Guts and Glory%%%Windows, MacOS, Linux%%%11.39%%%2018-07-19%%%2GB%%%0
+KAMI%%%Windows, MacOS%%%2.79%%%2014-01-23%%%512MB%%%0
+Ash of Gods: Redemption%%%Windows, MacOS, Linux%%%19.49%%%2018-03-23%%%2GB%%%0
+Russian Car Driver%%%Windows%%%0.79%%%2017-01-06%%%512MB%%%0
+Fight The Dragon%%%Windows, MacOS, Linux%%%6.99%%%2014-12-04%%%1GB%%%0
+IS Defense%%%Windows, Linux%%%4.12%%%2016-04-19%%%4GB%%%0
+Peace, Death!%%%Windows, Linux%%%3.59%%%2017-03-24%%%1024MB%%%0
+A New Beginning - Final Cut%%%Windows, MacOS%%%7.99%%%2012-12-11%%%1GB%%%0
+Sonic Lost World%%%Windows%%%19.99%%%2015-11-02%%%2GB%%%0
+Hitman: Contracts%%%Windows%%%8.29%%%2014-01-21%%%256MB%%%16
+Zombidle : REMONSTERED%%%Windows%%%0%%%2017-05-30%%%500MB%%%0
+Super Duper Flying Genocide 2017%%%Windows%%%0.79%%%2016-12-29%%%512MB%%%0
+House of the Dying Sun%%%Windows%%%14.99%%%2016-11-01%%%4GB%%%0
+SKYHILL%%%Windows, MacOS, Linux%%%11.99%%%2015-10-06%%%4GB%%%0
+Them's Fightin' Herds%%%Windows%%%11.39%%%2018-02-22%%%2GB%%%0
+BlazBlue: Continuum Shift Extend%%%Windows%%%14.99%%%2014-12-11%%%2GB%%%0
+Edge of Space%%%Windows%%%10.99%%%2015-09-17%%%2GB%%%0
+Hard Truck Apocalypse / Ex Machina%%%Windows%%%5.59%%%2014-03-14%%%512MB%%%0
+That Dragon, Cancer%%%Windows, MacOS, Linux%%%6.99%%%2016-01-11%%%2GB%%%0
+Super Trench Attack!%%%Windows%%%3.99%%%2014-07-24%%%512MB%%%0
+Agony%%%Windows%%%11.39%%%2018-05-29%%%8GB%%%0
+Dungeon Warfare%%%Windows, MacOS, Linux%%%6.99%%%2015-11-04%%%2GB%%%0
+Trailmakers%%%Windows%%%19.49%%%2018-01-30%%%8GB%%%0
+Deus Ex: The Fall%%%Windows%%%7.99%%%2014-03-17%%%2GB%%%18
+Fate/EXTELLA LINK%%%Windows%%%39.99%%%2019-03-19%%%4GB%%%0
+Beholder 2%%%Windows, MacOS, Linux%%%9.99%%%2018-12-04%%%4GB%%%0
+Fortified%%%Windows%%%10.99%%%2016-02-03%%%4GB%%%0
+MegaTagmension Blanc + Neptune VS Zombies (Neptunia)%%%Windows%%%19.49%%%2016-10-03%%%4GB%%%0
+Home Sweet Home%%%Windows%%%12.99%%%2017-09-26%%%4GB%%%0
+Intrusion 2%%%Windows, Linux%%%6.49%%%2012-09-11%%%1GB%%%0
+Turok 2: Seeds of Evil%%%Windows, MacOS, Linux%%%14.99%%%2017-03-16%%%1GB%%%0
+The 39 Steps%%%Windows, MacOS, Linux%%%3.99%%%2013-04-25%%%2GB%%%0
+CHUCHEL%%%Windows, MacOS%%%7.99%%%2018-03-07%%%1GB%%%0
+Bigscreen Beta%%%Windows%%%0%%%2016-04-28%%%8GB%%%0
+Waves%%%Windows%%%3.99%%%2011-11-16%%%1GB%%%0
+KINGDOMS%%%Windows%%%6.99%%%2015-10-23%%%8GB%%%0
+Shadowgrounds%%%Windows, MacOS%%%3.99%%%2006-05-08%%%384MB%%%0
+Stronghold 3 Gold%%%Windows, MacOS, Linux%%%0%%%2012-05-25%%%2GB%%%0
+Full Mojo Rampage%%%Windows%%%10.99%%%2014-05-08%%%2GB%%%0
+Secret Ponchos%%%Windows%%%10.99%%%2015-10-13%%%4GB%%%0
+Jets'n'Guns Gold%%%Windows, MacOS, Linux%%%4.99%%%2014-02-05%%%1GB%%%0
+LEGO Batman 2: DC Super Heroes%%%Windows%%%14.99%%%2012-06-22%%%1GB%%%0
+The Dream Machine: Chapter 1 & 2%%%Windows, MacOS%%%2.79%%%2012-05-11%%%1GB%%%0
+Max: The Curse of Brotherhood%%%Windows%%%10.99%%%2014-05-21%%%2GB%%%0
+StarDrive 2%%%Windows, MacOS, Linux%%%22.99%%%2015-04-09%%%4GB%%%0
+Neverwinter Nights: Enhanced Edition%%%Windows, MacOS, Linux%%%15.49%%%2018-03-27%%%1GB%%%0
+Freebie%%%Windows%%%0.79%%%2016-06-16%%%512MB%%%0
+Full Metal Furies%%%Windows, MacOS, Linux%%%14.99%%%2018-01-17%%%2GB%%%0
+Wonder Boy: The Dragon's Trap%%%Windows, MacOS, Linux%%%14.99%%%2017-06-08%%%4GB%%%0
+Ion Maiden%%%Windows, Linux%%%15.49%%%2018-02-28%%%1024MB%%%0
+MINDNIGHT%%%Windows, MacOS, Linux%%%0%%%2017-08-04%%%1GB%%%0
+Dark Deception%%%Windows%%%0%%%2018-09-26%%%8GB%%%0
+Color Symphony%%%Windows%%%0%%%2014-09-15%%%512MB%%%0
+WolfQuest%%%Windows, MacOS%%%6.99%%%2016-03-25%%%4GB%%%0
+CASE: Animatronics%%%Windows, MacOS%%%6.99%%%2016-08-03%%%512MB%%%0
+Slain: Back from Hell%%%Windows, MacOS, Linux%%%9.99%%%2016-03-24%%%1GB%%%0
+Street Warriors Online%%%Windows%%%1.59%%%2016-12-16%%%2GB%%%0
+Adventures of Shuggy%%%Windows, MacOS, Linux%%%3.99%%%2012-06-13%%%512MB%%%0
+Automobilista%%%Windows%%%22.99%%%2016-08-24%%%4GB%%%0
+Princess.Loot.Pixel.Again%%%Windows%%%3.19%%%2016-04-15%%%512MB%%%0
+Sacred 3%%%Windows%%%10.99%%%2014-07-31%%%2GB%%%16
+Assassins Creed Liberation HD%%%Windows%%%16.99%%%2014-01-15%%%2GB%%%0
+WWE 2K18%%%Windows%%%39.99%%%2017-10-17%%%4GB%%%0
+Heavy Bullets%%%Windows, MacOS, Linux%%%6.99%%%2014-09-18%%%2GB%%%0
+WRC 7 FIA World Rally Championship%%%Windows%%%34.99%%%2017-09-15%%%4GB%%%0
+Trials on Tatooine%%%Windows%%%0%%%2016-07-18%%%8GB%%%0
+Over 9000 Zombies!%%%Windows%%%1.59%%%2015-02-25%%%2GB%%%0
+Sairento VR%%%Windows%%%22.99%%%2018-02-06%%%8GB%%%0
+Planet Centauri%%%Windows, MacOS, Linux%%%11.99%%%2016-06-03%%%2GB%%%0
+Overlord: Raising Hell%%%Windows, MacOS, Linux%%%6.99%%%2009-11-12%%%512MB%%%0
+Warhammer 40,000: Gladius - Relics of War%%%Windows, Linux%%%30.99%%%2018-07-12%%%4GB%%%0
+Project Hospital%%%Windows, MacOS, Linux%%%24.99%%%2018-10-30%%%4GB%%%0
+Sinister City%%%Windows%%%0.79%%%2014-10-20%%%512MB%%%0
+LOVE%%%Windows%%%2.09%%%2014-02-07%%%1GB%%%0
+Grow Up%%%Windows%%%8.59%%%2016-08-16%%%4GB%%%0
+Ittle Dew%%%Windows, MacOS, Linux%%%7.19%%%2013-07-23%%%1GB%%%0
+Cradle%%%Windows, Linux%%%9.99%%%2015-07-24%%%2GB%%%0
+Port of Call%%%Windows, MacOS%%%0%%%2015-08-28%%%1024MB%%%0
+The Bug Butcher%%%Windows, MacOS, Linux%%%5.59%%%2016-01-19%%%4GB%%%0
+Terrorhedron Tower Defense%%%Windows%%%0.79%%%2014-07-24%%%2GB%%%0
+Cube Destroyer%%%Windows%%%0.79%%%2016-02-15%%%2GB%%%0
+Ys: The Oath in Felghana%%%Windows%%%9.99%%%2012-03-19%%%1GB%%%0
+One Troll Army%%%Windows, MacOS%%%0%%%2016-05-19%%%2GB%%%0
+Secret of Mana%%%Windows%%%29.99%%%2018-02-15%%%4GB%%%7
+The Dwarves%%%Windows, MacOS, Linux%%%34.99%%%2016-12-01%%%6GB%%%0
+Nine Parchments%%%Windows%%%15.49%%%2017-12-05%%%4GB%%%0
+Thirty Flights of Loving%%%Windows, MacOS%%%3.99%%%2012-08-20%%%512MB%%%0
+Zup! 8%%%Windows%%%0.79%%%2018-02-22%%%256MB%%%0
+Chip%%%Windows%%%3.99%%%2014-04-25%%%512MB%%%0
+BERSERK and the Band of the Hawk%%%Windows%%%49.99%%%2017-02-21%%%4GB%%%18
+Rebuild 3: Gangs of Deadsville%%%Windows, MacOS%%%10.99%%%2015-05-29%%%1GB%%%0
+Sea Dogs: To Each His Own - Pirate Open World RPG%%%Windows%%%10.99%%%2012-12-01%%%1024MB%%%0
+Lumino City%%%Windows, MacOS%%%8.99%%%2014-12-02%%%2GB%%%0
+planetarian HD%%%Windows%%%6.99%%%2017-05-08%%%1GB%%%0
+Way of the Samurai 4%%%Windows%%%18.99%%%2015-07-23%%%64MB%%%0
+Commander Cool 2%%%Windows, MacOS, Linux%%%1.99%%%2015-12-17%%%1GB%%%0
+Liftoff: FPV Drone Racing%%%Windows, MacOS, Linux%%%14.99%%%2018-09-13%%%3GB%%%0
+Original War%%%Windows%%%3.99%%%2014-01-27%%%256MB%%%0
+Bus Driver%%%Windows%%%5.59%%%2014-06-03%%%256MB%%%0
+Kio's Adventure%%%Windows, MacOS%%%1.59%%%2017-04-05%%%1GB%%%0
+Magic: The Gathering - Duels of the Planeswalkers 2013%%%Windows%%%6.99%%%2012-06-20%%%1GB%%%0
+Cosmic DJ%%%Windows, MacOS%%%1.99%%%2014-10-30%%%1GB%%%0
+Memories of a Vagabond%%%Windows%%%3.99%%%2014-07-07%%%1GB%%%0
+Deathtrap%%%Windows%%%14.99%%%2015-02-04%%%2GB%%%0
+STASIS%%%Windows, MacOS%%%7.99%%%2015-08-31%%%2GB%%%0
+The Impossible Game%%%Windows, MacOS, Linux%%%3.99%%%2014-05-08%%%2GB%%%0
+Waking Mars%%%Windows, MacOS, Linux%%%6.99%%%2012-12-13%%%512MB%%%0
+Shooty Skies%%%Windows, MacOS, Linux%%%0%%%2018-03-06%%%4GB%%%0
+FEMINAZI: The Triggering%%%Windows%%%0.79%%%2017-02-20%%%512MB%%%0
+SIMULACRA%%%Windows, MacOS%%%3.99%%%2017-10-26%%%2GB%%%0
+Judgment: Apocalypse Survival Simulation%%%Windows%%%15.49%%%2018-05-03%%%8GB%%%0
+Overload%%%Windows, MacOS, Linux%%%23.79%%%2018-05-31%%%4GB%%%0
+Emily Wants To Play%%%Windows, MacOS%%%3.99%%%2015-12-10%%%4GB%%%0
+The Yawhg%%%Windows%%%6.99%%%2014-02-27%%%2GB%%%0
+The Bard's Tale IV: Barrows Deep%%%Windows%%%27.99%%%2018-09-18%%%8GB%%%0
+The Deadly Tower of Monsters%%%Windows%%%10.99%%%2016-01-19%%%2GB%%%0
+Knights of Pen and Paper 2%%%Windows, MacOS, Linux%%%5.59%%%2015-10-20%%%1024MB%%%0
+Among Ripples%%%Windows, MacOS, Linux%%%0%%%2015-01-22%%%1GB%%%0
+Geometry Wars 3: Dimensions Evolved%%%Windows, MacOS, Linux%%%11.99%%%2014-11-25%%%2GB%%%0
+Intergalactic Bubbles%%%Windows, MacOS, Linux%%%0.79%%%2015-05-29%%%1GB%%%0
+GameGuru%%%Windows%%%14.99%%%2015-05-19%%%2GB%%%0
+Face It - A game to fight inner demons%%%Windows, MacOS, Linux%%%2.79%%%2017-06-09%%%1GB%%%0
+EmergeNYC%%%Windows, MacOS%%%26.99%%%2016-11-03%%%8GB%%%0
+A Date in the Park%%%Windows%%%0%%%2016-07-19%%%128MB%%%0
+Spellweaver%%%Windows%%%0%%%2016-02-01%%%1GB%%%0
+WWII Online%%%Windows, MacOS%%%0%%%2017-09-05%%%4GB%%%0
+Abyss: The Wraiths of Eden%%%Windows, MacOS, Linux%%%6.99%%%2014-04-03%%%512MB%%%0
+The Forgotten Ones%%%Windows, MacOS, Linux%%%0%%%2014-07-17%%%2GB%%%0
+THE KING OF FIGHTERS 2002 UNLIMITED MATCH%%%Windows%%%10.99%%%2015-02-27%%%1GB%%%0
+The Journey Down: Chapter One%%%Windows, MacOS, Linux%%%5.99%%%2013-01-09%%%1GB%%%0
+Penguins Arena: Sedna's World%%%Windows, MacOS%%%4.79%%%2008-12-18%%%256MB%%%0
+Lakeview Cabin Collection%%%Windows, MacOS%%%6.99%%%2015-04-09%%%512MB%%%0
+Danganronpa Another Episode: Ultra Despair Girls%%%Windows%%%22.99%%%2017-06-27%%%4GB%%%0
+Distrust: a Long Dark Polar Survival%%%Windows, MacOS%%%8.99%%%2017-08-23%%%4GB%%%0
+Happy Room%%%Windows, MacOS, Linux%%%3.99%%%2016-12-19%%%4GB%%%0
+The Heiress%%%Windows%%%2.79%%%2017-08-11%%%2GB%%%0
+OH MY GOD, LOOK AT THIS KNIGHT%%%Windows%%%0%%%2018-02-20%%%512MB%%%0
+Russian Roulette: One Life%%%Windows%%%0%%%2018-12-07%%%2GB%%%0
+Euro Fishing%%%Windows%%%14.99%%%2015-11-02%%%4GB%%%0
+Pixel Puzzles Ultimate%%%Windows%%%0%%%2016-09-09%%%2GB%%%0
+Continent of the Ninth Seal%%%Windows%%%0%%%2012-09-13%%%512MB%%%0
+Quake IV%%%Windows%%%12.99%%%2011-08-04%%%512MB%%%18
+Toybox Turbos%%%Windows%%%11.99%%%2014-11-11%%%2GB%%%0
+Project Nimbus%%%Windows, MacOS%%%15.49%%%2017-09-26%%%2GB%%%0
+RAID: World War II%%%Windows%%%15.49%%%2017-09-26%%%4GB%%%18
+Expeditions: Conquistador%%%Windows, MacOS, Linux%%%17.99%%%2013-05-30%%%2GB%%%0
+Distant Worlds: Universe%%%Windows%%%44.98%%%2014-05-23%%%1GB%%%0
+MU Legend%%%Windows%%%0%%%2018-08-06%%%3GB%%%0
+FINAL FANTASY VI%%%Windows%%%10.99%%%2015-12-16%%%2GB%%%12
+Zup! X%%%Windows%%%0.79%%%2018-05-17%%%256MB%%%0
+The Purring Quest%%%Windows%%%6.99%%%2015-11-12%%%4GB%%%0
+Fairy Bloom Freesia%%%Windows%%%5.59%%%2012-10-17%%%512MB%%%0
+Sid Meier's Starships%%%Windows, MacOS%%%10.99%%%2015-03-12%%%2GB%%%0
+THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION%%%Windows%%%10.99%%%2014-12-16%%%1GB%%%0
+Angels with Scaly Wings%%%Windows, MacOS, Linux%%%7.99%%%2017-01-31%%%1GB%%%0
+Grim Legends: The Forsaken Bride%%%Windows, MacOS, Linux%%%6.99%%%2014-08-21%%%512MB%%%0
+Anna - Extended Edition%%%Windows, MacOS, Linux%%%7.99%%%2013-04-12%%%2GB%%%0
+Haunt the House: Terrortown%%%Windows, MacOS%%%3.99%%%2014-06-06%%%512MB%%%0
+Heroine's Quest: The Herald of Ragnarok%%%Windows, Linux%%%0%%%2014-03-20%%%256MB%%%0
+Anna's Quest%%%Windows, MacOS, Linux%%%14.99%%%2015-07-02%%%2GB%%%0
+Horizon Source%%%Windows%%%0%%%2018-03-20%%%4GB%%%0
+One Hour One Life%%%Windows%%%15.49%%%2018-11-08%%%2GB%%%0
+Age of Conan: Unchained%%%Windows%%%0%%%2013-02-22%%%2GB%%%0
+Zero-K%%%Windows%%%0%%%2018-04-27%%%4GB%%%0
+The Legend of Heroes: Trails of Cold Steel II%%%Windows%%%29.99%%%2018-02-14%%%4GB%%%0
+LEGO Marvel Super Heroes 2%%%Windows, MacOS%%%24.99%%%2017-11-14%%%4GB%%%0
+Fresh Body%%%Windows, MacOS%%%6.99%%%2016-11-15%%%2GB%%%16
+Overture%%%Windows%%%3.99%%%2015-02-02%%%1GB%%%0
+Rocksmith%%%Windows%%%25.99%%%2012-10-18%%%2GB%%%0
+Down To One%%%Windows%%%0.79%%%2016-01-07%%%4GB%%%0
+Weapon Shop Fantasy%%%Windows, MacOS, Linux%%%4.99%%%2017-03-27%%%512MB%%%0
+MUSYNX%%%Windows%%%2.89%%%2018-12-04%%%4GB%%%0
+Megabyte Punch%%%Windows, MacOS, Linux%%%11.99%%%2013-10-15%%%2GB%%%0
+Just Cause 3: Multiplayer Mod%%%Windows%%%0%%%2017-07-20%%%8GB%%%18
+CUPID - A free to play Visual Novel%%%Windows, MacOS, Linux%%%0%%%2016-03-04%%%512MB%%%0
+Tesla Effect: A Tex Murphy Adventure%%%Windows, MacOS%%%14.99%%%2014-05-08%%%4GB%%%0
+The House of Da Vinci%%%Windows, MacOS%%%17.99%%%2017-11-24%%%2GB%%%0
+Mr. Shifty%%%Windows, MacOS, Linux%%%10.99%%%2017-04-13%%%2GB%%%0
+Marvel vs. Capcom: Infinite%%%Windows%%%32.99%%%2017-09-19%%%6GB%%%0
+Head Shot%%%Windows%%%1.59%%%2016-06-03%%%1GB%%%0
+Dying Light: Bad Blood%%%Windows%%%15.49%%%2018-09-13%%%4GB%%%0
+Tiger Knight%%%Windows%%%0%%%2018-04-30%%%4GB%%%0
+A Lenda do Heri - O Heri desta Cano%%%Windows, MacOS, Linux%%%11.99%%%2016-03-24%%%2GB%%%0
+Catlateral Damage%%%Windows, MacOS, Linux%%%6.99%%%2015-05-27%%%2GB%%%0
+Osmos%%%Windows, MacOS, Linux%%%6.99%%%2009-08-18%%%512MB%%%0
+FATE%%%Windows%%%5.59%%%2013-12-12%%%512MB%%%0
+Of Orcs And Men%%%Windows%%%10.99%%%2012-10-11%%%2GB%%%0
+They Breathe%%%Windows%%%1.59%%%2014-05-23%%%1GB%%%0
+Viking: Battle for Asgard%%%Windows%%%9.99%%%2012-10-17%%%2GB%%%18
+Anodyne%%%Windows, MacOS%%%6.99%%%2013-03-22%%%1GB%%%0
+Assassin's Creed Freedom Cry%%%Windows%%%12.49%%%2014-02-25%%%2GB%%%18
+Out There:  Edition%%%Windows, MacOS, Linux%%%10.99%%%2015-04-02%%%2GB%%%0
+Einar%%%Windows%%%0%%%2017-07-20%%%2GB%%%0
+Take On Mars%%%Windows%%%20.99%%%2017-02-09%%%2GB%%%0
+DOOM VFR%%%Windows%%%19.99%%%2017-11-30%%%8GB%%%18
+I am Setsuna%%%Windows%%%29.99%%%2016-07-19%%%2GB%%%0
+The Blackwell Legacy%%%Windows, MacOS, Linux%%%3.99%%%2012-01-13%%%64MB%%%0
+EverQuest II%%%Windows%%%0%%%2011-12-07%%%3GB%%%0
+Thief II: The Metal Age%%%Windows%%%4.99%%%2012-05-22%%%512MB%%%0
+Zup! 7%%%Windows%%%0.79%%%2017-12-12%%%256MB%%%0
+Pathologic Classic HD%%%Windows%%%9.99%%%2015-10-29%%%2GB%%%0
+CAYNE%%%Windows, MacOS, Linux%%%0%%%2017-01-24%%%4GB%%%0
+Sprout%%%Windows, MacOS%%%0%%%2018-01-05%%%1GB%%%0
+Spoiler Alert%%%Windows, MacOS, Linux%%%1.99%%%2014-06-30%%%1024MB%%%0
+Jet Racing Extreme: The First Encounter%%%Windows, MacOS, Linux%%%2.79%%%2018-05-17%%%2GB%%%0
+The Thrill of the Fight - VR Boxing%%%Windows%%%6.99%%%2016-07-01%%%8GB%%%0
+Bridge Constructor%%%Windows, MacOS, Linux%%%6.99%%%2013-10-16%%%1GB%%%0
+MIND: Path to Thalamus Enhanced Edition%%%Windows, MacOS, Linux%%%9.29%%%2014-08-05%%%2GB%%%0
+Microcosmum: survival of cells%%%Windows%%%5.79%%%2015-07-24%%%512MB%%%0
+Canyon Capers%%%Windows%%%4.99%%%2014-04-25%%%2GB%%%0
+Revenge of the Titans%%%Windows, MacOS, Linux%%%11.39%%%2011-03-16%%%512MB%%%0
+FootLOL: Epic Fail League%%%Windows, MacOS, Linux%%%9.99%%%2014-04-16%%%1024MB%%%0
+theBlu%%%Windows%%%6.99%%%2016-04-05%%%8GB%%%0
+I Have No Mouth, and I Must Scream%%%Windows, MacOS, Linux%%%4.79%%%2013-10-17%%%64MB%%%0
+Castlevania: Lords of Shadow  Mirror of Fate HD%%%Windows%%%9.99%%%2014-03-27%%%1GB%%%0
+Royal Quest%%%Windows%%%0%%%2014-08-06%%%2GB%%%0
+Planet Nomads%%%Windows, MacOS, Linux%%%14.99%%%2017-05-25%%%8GB%%%0
+Ember Strike%%%Windows%%%0%%%2016-05-26%%%1GB%%%0
+Mighty Party%%%Windows%%%0%%%2017-03-30%%%2GB%%%0
+Trainz: A New Era%%%Windows, MacOS%%%29.99%%%2015-05-14%%%4GB%%%0
+The Jackbox Party Pack 3%%%Windows, MacOS, Linux%%%18.99%%%2016-10-17%%%4GB%%%0
+Bot Vice%%%Windows%%%9.99%%%2016-07-11%%%1GB%%%0
+CityBattle | Virtual Earth%%%Windows%%%0%%%2018-10-02%%%4GB%%%0
+GOCCO OF WAR%%%Windows%%%14.99%%%2015-11-17%%%2GB%%%0
+Sigils of Elohim%%%Windows, MacOS, Linux%%%0%%%2014-10-13%%%1GB%%%0
+Monster Loves You!%%%Windows, MacOS, Linux%%%6.99%%%2013-03-18%%%1GB%%%0
+Sakura Fantasy%%%Windows, MacOS, Linux%%%6.99%%%2015-05-29%%%1GB%%%0
+The Long Journey Home%%%Windows, MacOS%%%26.99%%%2017-05-30%%%4GB%%%0
+Clicker Heroes 2%%%Windows, MacOS%%%23.79%%%2018-07-16%%%2GB%%%0
+LEGO Star Wars III - The Clone Wars%%%Windows%%%15.49%%%2011-03-22%%%512MB%%%0
+Epic Battle Fantasy 3%%%Windows%%%0%%%2016-09-01%%%2GB%%%0
+Minit%%%Windows, MacOS, Linux%%%6.99%%%2018-04-03%%%1GB%%%0
+The Cat and the Coup%%%Windows, MacOS%%%0%%%2011-06-15%%%4GB%%%0
+Ice Lakes%%%Windows, MacOS, Linux%%%10.99%%%2016-04-19%%%2GB%%%0
+Windosill%%%Windows, MacOS%%%1.99%%%2009-09-25%%%256MB%%%0
+Gunscape%%%Windows, MacOS, Linux%%%0%%%2016-03-01%%%1GB%%%0
+Serious Sam VR: The Last Hope%%%Windows%%%29.99%%%2017-09-20%%%6GB%%%0
+Door Kickers: Action Squad%%%Windows%%%10.99%%%2018-09-10%%%512MB%%%0
+X-Morph: Defense%%%Windows%%%14.99%%%2017-08-30%%%4GB%%%0
+Manhunt%%%Windows%%%5.99%%%2008-01-04%%%192MB%%%18
+Pink Hour%%%Windows%%%0%%%2015-10-28%%%1GB%%%0
+Holyday City: Reloaded%%%Windows, MacOS%%%0%%%2018-04-23%%%512MB%%%0
+Love at First Sight%%%Windows, MacOS, Linux%%%6.99%%%2015-05-18%%%1GB%%%0
+Alien Shooter%%%Windows%%%3.99%%%2009-05-27%%%32MB%%%0
+The Collider%%%Windows, MacOS, Linux%%%1.99%%%2014-09-15%%%256MB%%%0
+Sunrider Academy%%%Windows, MacOS, Linux%%%6.99%%%2015-04-15%%%1GB%%%0
+Metal Waltz: Anime tank girls%%%Windows%%%0%%%2017-05-02%%%1GB%%%0
+Slash It%%%Windows, MacOS, Linux%%%4.99%%%2016-12-17%%%1GB%%%0
+Convoy%%%Windows, MacOS, Linux%%%9.99%%%2015-04-21%%%2GB%%%0
+Technobabylon%%%Windows%%%10.99%%%2015-05-01%%%64MB%%%0
+Oh...Sir! Prototype%%%Windows, MacOS, Linux%%%0%%%2015-12-21%%%1GB%%%0
+PAC-MAN 256%%%Windows, MacOS, Linux%%%3.99%%%2016-06-21%%%1GB%%%0
+Off-Peak%%%Windows, MacOS, Linux%%%0%%%2016-10-21%%%4GB%%%0
+Tom Clancy's Rainbow Six 3 Gold%%%Windows%%%4.29%%%2008-09-25%%%128MB%%%0
+Oik 2%%%Windows%%%0.79%%%2017-03-28%%%256MB%%%0
+Another Brick in The Mall%%%Windows%%%10.29%%%2016-11-03%%%2GB%%%0
+Evil Maze%%%Windows%%%1.59%%%2016-06-17%%%128MB%%%0
+Jade Empire: Special Edition%%%Windows%%%8.99%%%2007-02-27%%%512MB%%%0
+Tick Tock: A Tale for Two%%%Windows, MacOS%%%4.99%%%2019-03-07%%%4GB%%%0
+Castle In The Darkness%%%Windows%%%4.79%%%2015-02-05%%%1GB%%%0
+Epigenesis%%%Windows%%%0%%%2014-08-01%%%2GB%%%0
+Medusa's Labyrinth%%%Windows%%%0%%%2016-02-15%%%4GB%%%0
+Duke Nukem 3D: 20th Anniversary World Tour%%%Windows%%%14.99%%%2016-10-11%%%2GB%%%18
+Tomb Raider II%%%Windows%%%4.99%%%2012-11-28%%%512MB%%%12
+Kung Fu Strike - The Warrior's Rise%%%Windows%%%6.99%%%2012-07-24%%%1GB%%%0
+Let the Cat in%%%Windows, MacOS%%%0%%%2015-08-27%%%2GB%%%0
+Mark of the Ninja: Remastered%%%Windows, MacOS, Linux%%%15.49%%%2018-10-09%%%4GB%%%16
+Tower of Guns%%%Windows, MacOS, Linux%%%10.99%%%2014-03-04%%%3GB%%%0
+Order of Battle: World War II%%%Windows, MacOS%%%0%%%2015-04-30%%%2GB%%%0
+Disgaea 5 Complete / 5%%%Windows%%%29.99%%%2018-10-22%%%6GB%%%0
+Magical Diary: Horse Hall%%%Windows, MacOS, Linux%%%10.99%%%2012-05-31%%%512MB%%%0
+Syberia 3%%%Windows, MacOS%%%23.79%%%2017-11-13%%%4GB%%%0
+Toukiden 2%%%Windows%%%49.99%%%2017-03-21%%%3GB%%%0
+A Light in the Dark%%%Windows, MacOS%%%11.39%%%2018-06-15%%%2GB%%%0
+Shardbound%%%Windows%%%0%%%2017-04-06%%%4GB%%%0
+Legacy of Kain: Soul Reaver%%%Windows%%%4.99%%%2012-12-06%%%512MB%%%16
+Slash It 2%%%Windows, MacOS, Linux%%%4.99%%%2017-01-24%%%1GB%%%0
+Tilt Brush%%%Windows%%%14.99%%%2016-04-05%%%4GB%%%0
+Lucid9: Inciting Incident%%%Windows, MacOS, Linux%%%0%%%2016-04-14%%%2GB%%%0
+Lili: Child of Geos - Complete Edition%%%Windows%%%10.99%%%2014-05-09%%%2GB%%%0
+State of Anarchy%%%Windows, MacOS%%%0.79%%%2016-04-27%%%1GB%%%0
+Call of Juarez%%%Windows%%%8.59%%%2007-11-08%%%512MB%%%0
+Lucius II%%%Windows, Linux%%%14.99%%%2015-02-13%%%4GB%%%0
+WWE 2K17%%%Windows%%%39.99%%%2017-02-06%%%4GB%%%16
+Crea%%%Windows, MacOS, Linux%%%10.99%%%2016-06-09%%%2GB%%%0
+Never Split the Party%%%Windows, MacOS, Linux%%%0%%%2018-09-14%%%1GB%%%0
+Odallus: The Dark Call%%%Windows%%%6.99%%%2015-07-15%%%2GB%%%0
+oO%%%Windows, MacOS, Linux%%%0.79%%%2015-07-06%%%2GB%%%0
+Mushihimesama%%%Windows%%%14.99%%%2015-11-12%%%2GB%%%0
+Titan Attacks!%%%Windows, MacOS, Linux%%%7.19%%%2012-02-03%%%512MB%%%0
+RUSSIA BATTLEGROUNDS%%%Windows%%%0.79%%%2018-07-13%%%512MB%%%0
+Snake Pass%%%Windows%%%15.99%%%2017-03-28%%%4GB%%%0
+Dead Island: Riptide Definitive Edition%%%Windows, Linux%%%11.99%%%2016-05-31%%%4GB%%%18
+Homesick%%%Windows%%%10.99%%%2015-05-28%%%4GB%%%0
+Aerofly FS 2 Flight Simulator%%%Windows%%%44.99%%%2017-11-20%%%4GB%%%0
+Eador. Imperium%%%Windows%%%14.99%%%2017-01-27%%%2GB%%%0
+Beyond Gravity%%%Windows, MacOS, Linux%%%1.59%%%2014-09-23%%%1GB%%%0
+SC2VN - The eSports Visual Novel%%%Windows, MacOS, Linux%%%0%%%2015-09-22%%%1GB%%%0
+Dungeons & Dragons: Chronicles of Mystara%%%Windows%%%11.99%%%2013-06-18%%%1GB%%%0
+KUBOOM%%%Windows%%%0%%%2016-10-07%%%512MB%%%0
+Stealth Bastard Deluxe%%%Windows, MacOS, Linux%%%6.99%%%2012-11-28%%%2GB%%%0
+Hitman GO: Definitive Edition%%%Windows, Linux%%%6.49%%%2016-02-23%%%1GB%%%7
+Whispering Willows%%%Windows, MacOS, Linux%%%6.99%%%2014-07-09%%%4GB%%%0
+SAO Utils: Beta%%%Windows%%%2.89%%%2018-03-14%%%2GB%%%0
+ADR1FT%%%Windows%%%14.99%%%2016-03-28%%%8GB%%%0
+LEGO City Undercover%%%Windows%%%24.99%%%2017-04-04%%%4GB%%%0
+Marc Eck's Getting Up: Contents Under Pressure%%%Windows%%%11.99%%%2013-12-13%%%512MB%%%0
+The Whispered World Special Edition%%%Windows, MacOS, Linux%%%16.99%%%2014-05-06%%%1GB%%%0
+Pool Nation FX Lite%%%Windows%%%0%%%2015-12-07%%%2GB%%%0
+Alien Breed: Impact%%%Windows%%%6.99%%%2010-06-03%%%1GB%%%0
+The Jackbox Party Pack%%%Windows, MacOS, Linux%%%18.99%%%2014-11-26%%%512MB%%%0
+True Love Confide to the Maple%%%Windows%%%8.99%%%2016-10-05%%%512MB%%%0
+Rend%%%Windows%%%11.39%%%2019-03-29%%%4GB%%%0
+Hard Reset Redux%%%Windows%%%14.99%%%2016-06-03%%%2GB%%%0
+Urban Empire%%%Windows%%%22.99%%%2017-01-20%%%6GB%%%0
+Labyronia RPG%%%Windows%%%0.79%%%2015-08-14%%%512MB%%%0
+Crystalline%%%Windows, MacOS%%%14.99%%%2018-08-22%%%2GB%%%0
+Cities XL Platinum%%%Windows%%%7.49%%%2013-02-06%%%2GB%%%0
+Lords of Xulima%%%Windows, MacOS, Linux%%%14.99%%%2014-11-14%%%2GB%%%0
+Pinball FX3%%%Windows%%%0%%%2017-09-26%%%4GB%%%0
+ChuSingura46+1 S%%%Windows, MacOS%%%0%%%2016-06-21%%%2GB%%%0
+CaesarIA%%%Windows, MacOS, Linux%%%0%%%2015-01-20%%%256MB%%%0
+Holodrive%%%Windows%%%0%%%2016-03-24%%%4GB%%%0
+Angeldust%%%Windows, MacOS, Linux%%%0%%%2016-11-18%%%128MB%%%0
+Zeno Clash 2%%%Windows%%%10.99%%%2013-04-30%%%2GB%%%0
+Remothered: Tormented Fathers%%%Windows%%%15.49%%%2018-01-30%%%4GB%%%0
+Fishing: Barents Sea%%%Windows%%%17.99%%%2018-02-07%%%4GB%%%0
+Final Exam%%%Windows%%%6.99%%%2013-11-05%%%2GB%%%0
+Circle Empires%%%Windows, MacOS, Linux%%%5.79%%%2018-08-08%%%3GB%%%0
+Grim Legends 2: Song of the Dark Swan%%%Windows, MacOS, Linux%%%6.99%%%2015-03-26%%%512MB%%%0
+Rise of Liberty%%%Windows, MacOS%%%5.79%%%2018-01-24%%%4GB%%%0
+Blueprint Tycoon%%%Windows, MacOS, Linux%%%1.99%%%2016-05-13%%%1GB%%%0
+Daylight%%%Windows%%%6.99%%%2014-04-29%%%4GB%%%16
+Apotheon Arena%%%Windows%%%0%%%2015-12-08%%%1GB%%%0
+SAMURAI WARRIORS 4-II%%%Windows%%%39.99%%%2015-09-29%%%1GB%%%0
+INFRA%%%Windows%%%23.79%%%2016-01-15%%%4GB%%%0
+War Robots%%%Windows%%%0%%%2018-04-04%%%2GB%%%0
+Witch Hunt%%%Windows%%%7.19%%%2018-09-03%%%4GB%%%0
+One Thousand Lies%%%Windows, MacOS, Linux%%%0%%%2016-04-24%%%1GB%%%0
+The Desolate Hope%%%Windows%%%0%%%2014-05-05%%%1GB%%%0
+Momodora III%%%Windows%%%1.59%%%2014-07-01%%%128MB%%%0
+BombTag%%%Windows%%%0%%%2018-02-12%%%2GB%%%0
+Azure Striker Gunvolt%%%Windows%%%10.99%%%2015-08-28%%%2GB%%%0
+Audition Online%%%Windows%%%0%%%2015-06-03%%%512MB%%%0
+Running Through Russia%%%Windows, MacOS, Linux%%%0.79%%%2017-05-21%%%512MB%%%0
+Space Pilgrim Episode I: Alpha Centauri%%%Windows%%%0.9%%%2015-12-21%%%512MB%%%0
+STAND OUT : VR Battle Royale%%%Windows%%%19.49%%%2017-12-08%%%4GB%%%0
+Ys VIII: Lacrimosa of DANA / VIII-Lacrimosa of DANA-%%%Windows%%%44.99%%%2018-04-16%%%4GB%%%0
+NightSky%%%Windows, MacOS, Linux%%%6.99%%%2011-03-01%%%512MB%%%0
+Aberoth%%%Windows, MacOS, Linux%%%0%%%2015-07-17%%%256MB%%%0
+iRacing%%%Windows%%%7.99%%%2015-01-12%%%8GB%%%0
+Tower of Time%%%Windows, Linux%%%19.49%%%2018-04-12%%%8GB%%%0
+Swarmlake%%%Windows%%%0.79%%%2018-03-12%%%1GB%%%0
+Blade Kitten%%%Windows%%%1.99%%%2014-05-22%%%1GB%%%0
+Card City Nights%%%Windows, MacOS, Linux%%%3.99%%%2014-02-14%%%1GB%%%0
+INTERSHELTER%%%Windows%%%0%%%2016-11-20%%%4GB%%%0
+Neon Chrome%%%Windows, MacOS, Linux%%%10.99%%%2016-04-28%%%2GB%%%0
+Fight'N Rage%%%Windows%%%14.99%%%2017-09-19%%%2GB%%%0
+WASTED%%%Windows%%%9.99%%%2016-06-07%%%2GB%%%0
+Trackmania Turbo%%%Windows%%%33.99%%%2016-03-24%%%2GB%%%0
+Influent%%%Windows, MacOS, Linux%%%6.99%%%2014-03-20%%%1GB%%%0
+AX:EL - Air XenoDawn%%%Windows%%%0%%%2015-12-04%%%2GB%%%0
+Spacebase DF-9%%%Windows, MacOS, Linux%%%6.99%%%2014-10-27%%%2GB%%%0
+Miasmata%%%Windows%%%11.99%%%2012-11-28%%%2GB%%%0
+Salty Fish Go!%%%Windows, MacOS%%%0.79%%%2017-10-10%%%512MB%%%0
+Hand of the Gods%%%Windows%%%0%%%2018-02-20%%%4GB%%%0
+Hue%%%Windows, MacOS, Linux%%%11.99%%%2016-08-30%%%2GB%%%0
+METAL SLUG DEFENSE%%%Windows%%%0%%%2015-05-01%%%1GB%%%0
+Zombie Kill of the Week - Reborn%%%Windows, MacOS%%%4.99%%%2015-03-13%%%2GB%%%0
+Woolfe - The Red Hood Diaries%%%Windows%%%6.99%%%2015-03-17%%%3GB%%%0
+Rise of Flight United%%%Windows%%%0%%%2013-09-05%%%2GB%%%0
+One Finger Death Punch 2%%%Windows%%%5.79%%%2019-04-15%%%4GB%%%0
+Kingdom Two Crowns%%%Windows, MacOS%%%15.49%%%2018-12-11%%%2GB%%%0
+Clockwork Tales: Of Glass and Ink%%%Windows, MacOS, Linux%%%6.99%%%2014-04-24%%%512MB%%%0
+And Yet It Moves%%%Windows, MacOS, Linux%%%6.99%%%2009-04-02%%%512MB%%%0
+ArcaniA%%%Windows%%%17.99%%%2010-10-11%%%2GB%%%0
+Lost girl`s [diary]%%%Windows, MacOS%%%0%%%2016-03-24%%%500MB%%%16
+Toukiden: Kiwami%%%Windows%%%49.99%%%2015-06-25%%%2GB%%%0
+Air Brawl%%%Windows, MacOS, Linux%%%0%%%2015-11-05%%%2GB%%%0
+Wild Terra Online%%%Windows, MacOS, Linux%%%0%%%2017-12-18%%%4GB%%%0
+Shenmue I & II%%%Windows%%%24.99%%%2018-08-21%%%4GB%%%0
+Koi-Koi Japan [Hanafuda playing cards]%%%Windows, MacOS%%%6.99%%%2015-04-27%%%2GB%%%0
+Impossible Creatures Steam Edition%%%Windows%%%8.99%%%2015-11-11%%%512MB%%%0
+Last Tide%%%Windows%%%19.49%%%2018-08-27%%%6GB%%%0
+Jagged Alliance - Back in Action%%%Windows, MacOS, Linux%%%14.99%%%2012-02-08%%%2GB%%%0
+Linea, the Game%%%Windows, MacOS, Linux%%%1.59%%%2016-01-04%%%2GB%%%0
+Little Racers STREET%%%Windows, MacOS, Linux%%%4.79%%%2014-02-06%%%2GB%%%0
+The Count Lucanor%%%Windows, MacOS, Linux%%%7.19%%%2016-03-03%%%2GB%%%0
+Yomawari: Night Alone /%%%Windows%%%14.99%%%2016-10-25%%%2GB%%%0
+StarBreak%%%Windows, MacOS, Linux%%%0%%%2016-05-10%%%512MB%%%0
+King's Bounty: Warriors of the North%%%Windows, MacOS%%%6.99%%%2012-10-25%%%1GB%%%0
+Niffelheim%%%Windows, MacOS, Linux%%%14.99%%%2018-09-26%%%4GB%%%0
+Gunjitsu%%%Windows, MacOS%%%2.79%%%2015-07-31%%%2GB%%%0
+Bloody Walls%%%Windows%%%0%%%2016-09-28%%%512MB%%%0
+Rick and Morty: Virtual Rick-ality%%%Windows%%%22.99%%%2017-04-20%%%4GB%%%0
+Capsized%%%Windows, MacOS, Linux%%%5.99%%%2011-04-29%%%5GB%%%0
+Virtual Desktop%%%Windows%%%10.99%%%2016-03-31%%%4GB%%%0
+Eastside Hockey Manager%%%Windows%%%14.99%%%2015-12-01%%%256MB%%%0
+Monday Night Combat%%%Windows%%%3.99%%%2011-01-24%%%1GB%%%0
+Tiny Troopers%%%Windows, MacOS%%%3.99%%%2012-08-24%%%2GB%%%0
+VALKYRIE DRIVE -BHIKKHUNI-%%%Windows%%%22.99%%%2017-06-20%%%1GB%%%0
+The Town of Light%%%Windows%%%13.99%%%2016-02-26%%%4GB%%%18
+Split/Second%%%Windows%%%15.49%%%2014-10-06%%%2GB%%%0
+Grimoire: Manastorm%%%Windows%%%0%%%2017-10-26%%%4GB%%%0
+Ultimate Arena%%%Windows%%%3.99%%%2016-08-22%%%512MB%%%0
+Frederic: Resurrection of Music%%%Windows, MacOS, Linux%%%1.99%%%2014-05-16%%%2GB%%%0
+Kingsway%%%Windows%%%6.99%%%2017-07-18%%%3GB%%%0
+Sepia Tears%%%Windows, MacOS, Linux%%%0%%%2016-01-08%%%1GB%%%0
+Divide By Sheep%%%Windows, MacOS%%%3.99%%%2015-07-02%%%2GB%%%0
+Decay: The Mare%%%Windows, MacOS, Linux%%%3.99%%%2015-02-13%%%2GB%%%0
+Wild Warfare%%%Windows, MacOS%%%0%%%2014-07-15%%%2GB%%%0
+Icewind Dale: Enhanced Edition%%%Windows, MacOS, Linux%%%14.99%%%2014-10-30%%%1GB%%%0
+Yet Another Zombie Defense HD%%%Windows%%%2.79%%%2017-08-25%%%2GB%%%16
+Blind Trust%%%Windows%%%0%%%2016-05-27%%%2GB%%%0
+Finding Teddy%%%Windows, MacOS, Linux%%%5.99%%%2013-12-03%%%512MB%%%0
+Prospekt%%%Windows%%%7.5%%%2016-02-18%%%7MB%%%0
+Block'hood%%%Windows, MacOS, Linux%%%10.99%%%2017-05-10%%%4GB%%%0
+Toren%%%Windows, MacOS%%%6.99%%%2015-05-11%%%2GB%%%0
+Section 8: Prejudice%%%Windows%%%6.99%%%2011-05-04%%%2GB%%%0
+Tumblestone%%%Windows, MacOS, Linux%%%18.99%%%2016-07-12%%%1GB%%%0
+Peggle Extreme%%%Windows%%%0%%%2007-09-11%%%256MB%%%0
+NosTale%%%Windows%%%0%%%2017-09-18%%%512MB%%%0
+Sisyphus Reborn%%%Windows, Linux%%%0%%%2016-09-05%%%128MB%%%0
+Grand Ages: Medieval%%%Windows, MacOS, Linux%%%14.99%%%2015-09-25%%%2GB%%%0
+Magic: The Gathering - Duels of the Planeswalkers 2012%%%Windows%%%0%%%2011-06-15%%%1GB%%%0
+Desperados: Wanted Dead or Alive%%%Windows, MacOS, Linux%%%4.49%%%2013-11-20%%%256MB%%%0
+Touhou Genso Wanderer -Reloaded- / TOD -RELOADED- / TOD -RELOADED-%%%Windows%%%29.99%%%2018-10-25%%%4GB%%%0
+Cloudbuilt%%%Windows%%%14.99%%%2014-03-20%%%2GB%%%0
+Minds Eyes%%%Windows%%%0%%%2016-08-31%%%4GB%%%0
+Bud Spencer & Terence Hill - Slaps And Beans%%%Windows, MacOS, Linux%%%15.49%%%2018-04-20%%%2GB%%%0
+DRAGON QUEST HEROES Slime Edition%%%Windows%%%24.99%%%2015-12-03%%%4GB%%%12
+Notruf 112 | Emergency Call 112%%%Windows%%%18.1%%%2016-11-09%%%8GB%%%0
+Prismata%%%Windows, MacOS%%%0%%%2018-03-08%%%4GB%%%0
+Hustle Cat%%%Windows, MacOS%%%14.99%%%2016-03-16%%%2GB%%%0
+LARA CROFT AND THE TEMPLE OF OSIRIS%%%Windows%%%14.99%%%2014-12-08%%%4GB%%%12
+SpellForce - Platinum Edition%%%Windows%%%8.99%%%2009-11-03%%%512MB%%%0
+Call of War%%%Windows, MacOS%%%0%%%2017-10-21%%%2GB%%%0
+Enigmatis: The Ghosts of Maple Creek%%%Windows, MacOS, Linux%%%6.99%%%2014-10-16%%%512MB%%%0
+Burning Daylight%%%Windows%%%0%%%2019-04-19%%%4GB%%%0
+Sniper Fury%%%Windows%%%0%%%2017-06-13%%%2GB%%%16
+F1 RACE STARS%%%Windows%%%10.99%%%2012-11-15%%%2GB%%%0
+Horizon Chase Turbo%%%Windows, MacOS, Linux%%%15.49%%%2018-05-15%%%2GB%%%0
+Crashday Redline Edition%%%Windows%%%8.99%%%2017-08-10%%%1GB%%%0
+Space Channel 5: Part 2%%%Windows%%%5.59%%%2011-03-04%%%2GB%%%0
+The Average Everyday Adventures of Samantha Browne%%%Windows, MacOS, Linux%%%0%%%2016-04-18%%%2GB%%%0
+Zero G Arena%%%Windows, MacOS, Linux%%%7.19%%%2018-08-08%%%4GB%%%0
+Cliff Empire%%%Windows%%%5.99%%%2018-04-26%%%2GB%%%0
+Paradigm%%%Windows, MacOS, Linux%%%10.99%%%2017-04-05%%%2GB%%%0
+Obscure%%%Windows%%%4.99%%%2014-03-10%%%256MB%%%0
+Bad North%%%Windows, MacOS%%%11.99%%%2018-11-16%%%4GB%%%0
+Beyond Eyes%%%Windows, MacOS, Linux%%%9.99%%%2015-08-11%%%4GB%%%0
+Treasure Hunter Claire%%%Windows%%%15.49%%%2018-07-19%%%4GB%%%0
+Lust for Darkness%%%Windows%%%10.99%%%2018-06-12%%%8GB%%%0
+Iris.Fall%%%Windows%%%11.39%%%2018-12-07%%%4GB%%%0
+The Darkside Detective%%%Windows, MacOS, Linux%%%9.99%%%2017-07-27%%%2GB%%%0
+Closure%%%Windows, Linux%%%6.99%%%2012-09-07%%%512MB%%%0
+ULTIMATE HARDBASS DEFENCE%%%Windows%%%1.69%%%2019-04-12%%%2GB%%%0
+Super Panda Adventures%%%Windows%%%3.99%%%2014-07-14%%%1024MB%%%0
+Subterrain%%%Windows%%%12.99%%%2016-01-21%%%4GB%%%0
+Terra Incognita ~ Chapter One: The Descendant%%%Windows%%%0.79%%%2015-02-03%%%128MB%%%0
+Troubleshooter%%%Windows%%%14.99%%%2017-12-30%%%8GB%%%0
+OrbusVR: Reborn%%%Windows%%%34.99%%%2019-04-23%%%8GB%%%0
+Her Lie I Tried To Believe%%%Windows, MacOS, Linux%%%0%%%2018-04-02%%%1GB%%%0
+Ship Simulator Extremes%%%Windows%%%14.99%%%2010-08-27%%%256MB%%%0
+Bear With Me - Episode One%%%Windows, MacOS, Linux%%%0%%%2016-08-08%%%2GB%%%0
+Super Time Force Ultra%%%Windows, MacOS, Linux%%%10.99%%%2014-08-25%%%2GB%%%0
+VTOL VR%%%Windows%%%22.99%%%2017-08-03%%%8GB%%%0
+LoveBeat%%%Windows%%%0%%%2016-01-13%%%1GB%%%0
+The Banner Saga 3%%%Windows, MacOS%%%18.74%%%2018-07-26%%%2GB%%%0
+Rock 'N' Roll Defense%%%Windows%%%0.79%%%2016-08-10%%%1GB%%%0
+Space Beast Terror Fright%%%Windows%%%10.99%%%2015-04-06%%%2GB%%%0
+Prime World: Defenders%%%Windows, MacOS%%%6.99%%%2013-06-05%%%2GB%%%0
+Bit Heroes%%%Windows%%%0%%%2017-12-13%%%1GB%%%0
+Bionic Dues%%%Windows, MacOS, Linux%%%6.99%%%2013-10-08%%%2GB%%%0
+HELLGATE: London%%%Windows%%%10.29%%%2018-11-15%%%2GB%%%0
+Batman: Arkham VR%%%Windows%%%14.99%%%2017-04-25%%%8GB%%%0
+Arx Fatalis%%%Windows%%%2.99%%%2007-04-03%%%64MB%%%0
+Despair%%%Windows%%%0.79%%%2015-05-12%%%2MB%%%0
+Toki Tori 2+%%%Windows, MacOS, Linux%%%10.99%%%2013-07-11%%%2GB%%%0
+Crayon Physics Deluxe%%%Windows, MacOS%%%15.99%%%2009-05-06%%%512MB%%%0
+Guns n Zombies%%%Windows, MacOS%%%5.59%%%2014-10-30%%%1GB%%%0
+Once in Yaissor%%%Windows%%%0.79%%%2016-11-09%%%174MB%%%0
+Everybody's Gone to the Rapture%%%Windows%%%15.99%%%2016-04-14%%%4GB%%%16
+FURIDASHI: Drift Cyber Sport%%%Windows%%%10.99%%%2017-11-02%%%2GB%%%0
+Atom Fishing II%%%Windows%%%0%%%2016-11-29%%%2GB%%%0
+Descenders%%%Windows, MacOS, Linux%%%19.49%%%2018-02-09%%%4GB%%%0
+Slavistan%%%Windows%%%1.59%%%2016-07-29%%%2GB%%%0
+Live2DViewerEX%%%Windows, MacOS%%%3.99%%%2017-06-30%%%1GB%%%0
+Marble Mayhem: Fragile Ball%%%Windows%%%0.79%%%2015-07-07%%%256MB%%%0
+Battlestar Galactica Deadlock%%%Windows%%%29.99%%%2017-08-31%%%4GB%%%0
+Empires Mod%%%Windows, Linux%%%0%%%2008-07-28%%%2GB%%%0
+Dead Effect 2 VR%%%Windows%%%19.49%%%2017-10-03%%%6GB%%%0
+Super Seducer : How to Talk to Girls%%%Windows, MacOS%%%10.29%%%2018-03-06%%%4GB%%%0
+The Brookhaven Experiment%%%Windows%%%14.99%%%2016-07-05%%%4GB%%%0
+Agatha Christie - The ABC Murders%%%Windows, MacOS, Linux%%%10.99%%%2016-02-04%%%2GB%%%0
+Aven Colony%%%Windows%%%24.99%%%2017-07-25%%%4GB%%%0
+Real Boxing%%%Windows%%%3.99%%%2014-07-02%%%3GB%%%0
+Sins Of The Demon RPG%%%Windows%%%0.79%%%2016-05-13%%%512MB%%%0
+The House in Fata Morgana%%%Windows%%%18.99%%%2016-05-13%%%128MB%%%0
+Hiveswap Friendsim%%%Windows, MacOS, Linux%%%0.79%%%2018-04-13%%%1GB%%%0
+Depth Hunter 2: Deep Dive%%%Windows%%%10.99%%%2014-08-20%%%1GB%%%0
+Avernum: Escape From the Pit%%%Windows, MacOS%%%6.99%%%2012-04-11%%%256MB%%%0
+GUILTY GEAR XX ACCENT CORE PLUS R%%%Windows%%%10.99%%%2015-05-26%%%2GB%%%0
+Mechanic Escape%%%Windows, MacOS%%%4.49%%%2014-04-15%%%1GB%%%0
+Galcon 2: Galactic Conquest%%%Windows, MacOS, Linux%%%0%%%2014-12-05%%%512MB%%%0
+World of Soccer online%%%Windows%%%0%%%2015-08-26%%%1GB%%%0
+Panty Party%%%Windows%%%6.99%%%2017-01-24%%%4GB%%%0
+Survisland /%%%Windows%%%11.39%%%2018-07-16%%%8GB%%%0
+Tiny Snow%%%Windows%%%2.89%%%2019-02-27%%%512MB%%%0
+Microtransaction Simulator%%%Windows, MacOS%%%0%%%2017-09-14%%%150MB%%%0
+NEKO-NIN exHeart%%%Windows%%%6.99%%%2017-04-21%%%1GB%%%0
+Zero Gear%%%Windows%%%3.99%%%2010-01-12%%%1GB%%%0
+UNDER NIGHT IN-BIRTH Exe:Late%%%Windows%%%22.99%%%2016-07-12%%%2GB%%%0
+Lovers of Aether%%%Windows, MacOS%%%0%%%2019-04-01%%%512MB%%%0
+Crisis in the Kremlin%%%Windows, MacOS, Linux%%%3.99%%%2017-03-20%%%2GB%%%0
+The Swords of Ditto%%%Windows, MacOS, Linux%%%11.39%%%2018-04-24%%%4GB%%%0
+Stealth Inc 2: A Game of Clones%%%Windows%%%12.99%%%2015-04-30%%%3GB%%%0
+Bionic Commando%%%Windows%%%6.49%%%2009-07-28%%%5GB%%%0
+Message Quest%%%Windows, MacOS, Linux%%%1.99%%%2015-10-22%%%1GB%%%0
+ECHO%%%Windows%%%18.99%%%2017-09-19%%%4GB%%%16
+Need For Drink%%%Windows%%%1.49%%%2017-11-03%%%2GB%%%0
+Bio Inc. Redemption%%%Windows%%%9.99%%%2018-03-08%%%2GB%%%0
+WWE 2K19%%%Windows%%%39.99%%%2018-10-08%%%4GB%%%16
+ShootMania Storm%%%Windows%%%16.99%%%2013-04-10%%%1GB%%%0
+MXGP - The Official Motocross Videogame%%%Windows%%%7.19%%%2014-03-28%%%2GB%%%0
+Sacred Citadel%%%Windows%%%7.99%%%2013-04-16%%%2GB%%%0
+Sentinels of the Multiverse%%%Windows, MacOS, Linux%%%6.99%%%2014-12-22%%%2GB%%%0
+MachineCraft%%%Windows%%%0%%%2016-03-25%%%4GB%%%0
+EDEN STAR%%%Windows%%%14.99%%%2015-01-30%%%8GB%%%0
+Enemy Mind%%%Windows%%%6.99%%%2014-06-06%%%2GB%%%0
+Cargo Commander%%%Windows, MacOS, Linux%%%2.09%%%2012-11-01%%%2GB%%%0
+Maelstrom%%%Windows%%%15.49%%%2018-04-11%%%8GB%%%0
+Zero Escape: The Nonary Games%%%Windows%%%23.79%%%2017-03-24%%%4GB%%%0
+The Witcher Adventure Game%%%Windows, MacOS%%%6.99%%%2014-11-27%%%1GB%%%0
+The Golf Club%%%Windows%%%22.99%%%2014-08-19%%%4GB%%%0
+The Flood%%%Windows, MacOS, Linux%%%0%%%2018-03-30%%%2GB%%%0
+Meltdown%%%Windows, MacOS, Linux%%%3.49%%%2014-06-05%%%1GB%%%0
+Cheeky Chooks%%%Windows%%%0%%%2018-10-31%%%500MB%%%0
+Randal's Monday%%%Windows, MacOS%%%14.99%%%2014-11-12%%%2GB%%%0
+Pure Farming 2018%%%Windows%%%15.49%%%2018-03-13%%%4GB%%%0
+Super Mega Baseball: Extra Innings%%%Windows%%%15.49%%%2015-08-21%%%2GB%%%0
+Empires Apart%%%Windows%%%0%%%2018-03-29%%%4GB%%%0
+Defiance 2050%%%Windows%%%0%%%2018-07-10%%%4GB%%%18
+Killing Room%%%Windows%%%6.99%%%2016-10-20%%%4GB%%%0
+Warbands: Bushido%%%Windows, MacOS, Linux%%%0%%%2017-09-15%%%2GB%%%0
+Aimtastic%%%Windows%%%0%%%2018-01-28%%%512MB%%%0
+Megaton Rainfall%%%Windows%%%11.99%%%2017-11-17%%%4GB%%%0
+BLACKHOLE%%%Windows, MacOS, Linux%%%5.99%%%2015-02-27%%%2GB%%%0
+Superdimension Neptune VS Sega Hard Girls | VS  | VS SEGA%%%Windows%%%22.99%%%2017-06-12%%%4GB%%%0
+The Repopulation%%%Windows%%%14.99%%%2014-12-22%%%3GB%%%0
+Umbrella Corps/Biohazard Umbrella Corps%%%Windows%%%14.99%%%2016-06-21%%%4GB%%%18
+Shark Dating Simulator XL%%%Windows%%%0.79%%%2017-08-14%%%1GB%%%0
+How To Survive: Third Person Standalone%%%Windows%%%6.99%%%2015-07-02%%%4GB%%%0
+Towns%%%Windows, MacOS%%%9.99%%%2012-11-07%%%1GB%%%0
+Tap Tap Infinity%%%Windows, MacOS%%%0%%%2015-07-17%%%1GB%%%0
+I Expect You To Die%%%Windows%%%18.99%%%2017-04-25%%%8GB%%%0
+Noel The Mortal Fate S1-7%%%Windows%%%11.39%%%2018-05-15%%%2GB%%%0
+Survive the Nights%%%Windows, MacOS%%%19.99%%%2017-12-21%%%6GB%%%0
+Disgaea 2 PC / 2 PC%%%Windows, MacOS, Linux%%%14.99%%%2017-01-30%%%2GB%%%0
+LEGO Harry Potter: Years 5-7%%%Windows%%%14.99%%%2012-01-05%%%1GB%%%0
+King's Bounty: Dark Side%%%Windows, MacOS%%%9.99%%%2014-08-19%%%1GB%%%0
+System Shock: Enhanced Edition%%%Windows%%%6.99%%%2015-10-22%%%128MB%%%0
+Guns of Icarus Alliance%%%Windows, MacOS, Linux%%%7.19%%%2017-03-31%%%3GB%%%0
+Crash Drive 2%%%Windows, MacOS, Linux%%%3.99%%%2015-05-28%%%2GB%%%0
+TimeShift%%%Windows%%%9.99%%%2009-07-23%%%1GB%%%0
+Welcome to the Game II%%%Windows, MacOS%%%7.19%%%2018-04-03%%%2GB%%%18
+Close Your Eyes [Old Version]%%%Windows%%%0%%%2015-08-31%%%512MB%%%0
+CRYPTARK%%%Windows, MacOS, Linux%%%10.99%%%2017-06-20%%%1GB%%%0
+DISSIDIA FINAL FANTASY NT Free Edition%%%Windows%%%0%%%2019-03-12%%%8GB%%%0
+Party Panic%%%Windows, MacOS, Linux%%%12.99%%%2017-08-07%%%4GB%%%0
+Attack on Titan 2 - A.O.T.2 -%%%Windows%%%54.99%%%2018-03-14%%%6GB%%%18
+PixelJunk Monsters Ultimate%%%Windows, MacOS, Linux%%%6.99%%%2013-08-26%%%2GB%%%0
+Disciples III: Reincarnation%%%Windows%%%9.99%%%2014-02-14%%%1GB%%%0
+Kings Bounty: Legions%%%Windows%%%0%%%2013-12-10%%%2GB%%%0
+Heat%%%Windows%%%15.49%%%2019-01-30%%%12GB%%%0
+Clickteam Fusion 2.5%%%Windows%%%69.99%%%2013-12-05%%%256MB%%%0
+Soundodger+%%%Windows%%%5.59%%%2013-10-11%%%512MB%%%0
+Dysfunctional Systems: Learning to Manage Chaos%%%Windows, MacOS, Linux%%%3.99%%%2013-09-26%%%1GB%%%0
+Sky Rogue%%%Windows, MacOS, Linux%%%14.99%%%2017-08-24%%%512MB%%%0
+New kind of adventure%%%Windows%%%0.79%%%2015-06-04%%%2GB%%%0
+Sonic & SEGA All-Stars Racing%%%Windows%%%4.99%%%2010-03-03%%%1GB%%%0
+Pixel Privateers%%%Windows%%%10.99%%%2017-02-21%%%3GB%%%0
+Seek Girl%%%Windows%%%0.79%%%2019-03-14%%%4GB%%%0
+Real Pool 3D - Poolians%%%Windows%%%0%%%2018-01-04%%%1024MB%%%0
+Chaser%%%Windows%%%4.49%%%2010-07-16%%%128MB%%%0
+Hentai Memory%%%Windows%%%0.79%%%2018-07-20%%%1GB%%%0
+Crossing Souls%%%Windows, MacOS, Linux%%%10.99%%%2018-02-13%%%1GB%%%0
+Alpha Prime%%%Windows%%%2.99%%%2007-11-07%%%512MB%%%0
+Overdungeon%%%Windows, MacOS%%%11.39%%%2018-11-20%%%4GB%%%0
+J.U.L.I.A.: Among the Stars%%%Windows, MacOS, Linux%%%14.99%%%2014-09-12%%%1GB%%%0
+Dungeon Rushers: Crawler RPG%%%Windows, MacOS, Linux%%%10.99%%%2016-09-06%%%1GB%%%0
+Cogmind%%%Windows%%%15.49%%%2017-10-16%%%500MB%%%0
+ATOMEGA%%%Windows%%%8.59%%%2017-09-19%%%4GB%%%0
+Interstellar Rift%%%Windows%%%14.99%%%2015-06-23%%%4GB%%%0
+Holopoint%%%Windows%%%10.99%%%2016-04-04%%%8GB%%%0
+Unavowed%%%Windows, MacOS%%%10.99%%%2018-08-08%%%64MB%%%0
+Guacamelee! 2%%%Windows%%%15.49%%%2018-08-21%%%1GB%%%0
+Guncraft%%%Windows%%%10.99%%%2013-08-09%%%1GB%%%0
+The Way%%%Windows, MacOS, Linux%%%10.99%%%2016-05-20%%%2GB%%%0
+Warhammer 40,000: Dawn of War  Winter Assault%%%Windows%%%9.99%%%2007-08-07%%%256MB%%%16
+Three Heroes%%%Windows%%%1.59%%%2015-09-16%%%512MB%%%0
+Warspear Online%%%Windows, MacOS, Linux%%%0%%%2017-11-02%%%512MB%%%0
+Saurian%%%Windows%%%14.99%%%2017-08-02%%%8GB%%%0
+Cities in Motion%%%Windows, MacOS, Linux%%%14.99%%%2011-02-22%%%2GB%%%0
+Gunman Clive%%%Windows%%%1.59%%%2014-01-03%%%1GB%%%0
+Novus Inceptio%%%Windows%%%14.99%%%2015-10-05%%%6GB%%%0
+Tank Force%%%Windows, MacOS, Linux%%%0%%%2017-10-23%%%2GB%%%0
+PWND%%%Windows%%%0%%%2018-04-06%%%3GB%%%0
+Genesis Online%%%Windows%%%0%%%2015-11-10%%%1024MB%%%0
+Varenje%%%Windows, MacOS, Linux%%%0%%%2018-07-03%%%1024MB%%%0
+Pixel Puzzles 2: Anime%%%Windows%%%6.99%%%2015-03-27%%%2GB%%%0
+Overload Playable Teaser 3.0%%%Windows, MacOS, Linux%%%0%%%2016-03-07%%%4GB%%%0
+Imperial Glory%%%Windows%%%3.99%%%2014-04-11%%%256MB%%%0
+Out of the Park Baseball 18%%%Windows, MacOS, Linux%%%15.49%%%2017-03-24%%%2GB%%%0
+Navy Field 2 : Conqueror of the Ocean%%%Windows%%%0%%%2015-03-05%%%4GB%%%0

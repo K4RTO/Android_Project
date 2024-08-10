@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_account"
+    tools:context=".view.accountFragment.AccountFragment"
+    >
+
+    <RelativeLayout
+        android:id="@+id/userDetail_block"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/profileImg"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:scaleType="centerCrop"
+            android:background="@drawable/background_circle"
+            app:riv_oval="true" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/profileImg"
+            android:layout_marginLeft="20dp"
+            android:orientation="vertical"
+            android:layout_centerVertical="true">
+
+            <TextView
+                android:id="@+id/txtUserName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/profileImg"
+                android:textSize="25dp"
+                android:text="Name"/>
+
+            <TextView
+                android:id="@+id/txtEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtUserName"
+                android:layout_toRightOf="@+id/profileImg"
+                android:layout_marginTop="10dp"
+                android:text="email"
+                android:textSize="18dp"/>
+
+            <TextView
+                android:id="@+id/txtLocation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="5dp"
+                android:text="city"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/action_block"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/userDetail_block"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnBookmark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/userDetail_block"
+            android:paddingHorizontal="10dp"
+            android:text="Bookmark"
+            android:textSize="18dp"
+            android:background="@color/light_background"
+            app:drawableStartCompat="@drawable/ic_baseline_bookmark_24"
+            app:drawableEndCompat="@drawable/baseline_arrow_forward_ios_24" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnBlockUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:paddingHorizontal="10dp"
+            android:layout_marginTop="5dp"
+            android:text="Blocked Users"
+            android:textSize="18dp"
+            android:background="@color/light_background"
+            app:drawableStartCompat="@drawable/baseline_block_24"
+            app:drawableEndCompat="@drawable/baseline_arrow_forward_ios_24" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnSetProfile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:paddingHorizontal="10dp"
+            android:layout_marginTop="5dp"
+            android:text="Profile setting"
+            android:textSize="18dp"
+            android:background="@color/light_background"
+            app:drawableEndCompat="@drawable/baseline_arrow_forward_ios_24"
+            app:drawableStartCompat="@drawable/baseline_manage_accounts_24" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnSignOut"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:text="Logout"
+            android:textSize="18dp"
+            android:padding="10dp"
+            android:background="@color/light_background"/>
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/posts"
+        android:layout_below="@+id/action_block"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginHorizontal="10dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+
+</RelativeLayout>

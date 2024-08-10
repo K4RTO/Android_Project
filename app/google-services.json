@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34301176954",
+    "project_id": "g20-ga-23s2",
+    "storage_bucket": "g20-ga-23s2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34301176954:android:3319071cbe6ddc7a805fc3",
+        "android_client_info": {
+          "package_name": "com.example.ga_23s2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuai0B4aiD1MWjyYkkGgtDyhE1FF_7dA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

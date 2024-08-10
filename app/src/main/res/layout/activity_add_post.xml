@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.posts.addPost.AddPostActivity">
+    <include layout="@layout/toolbar_header"
+        android:id="@+id/header"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/header"
+        android:layout_above="@+id/btn_post">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/gameName_block"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_marginHorizontal="30dp">
+
+                <TextView
+                    android:id="@+id/txtGame"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Game: "
+                    android:textSize="18dp"/>
+
+                <AutoCompleteTextView
+                    android:id="@+id/autoCompleteGameName"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/txtGame"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="5dp"
+                    android:padding="10dp"
+                    android:scrollbarSize="18dp"
+                    android:background="@drawable/background_rectangle"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/title_block"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/gameName_block"
+                android:layout_marginTop="20dp"
+                android:layout_marginHorizontal="30dp">
+
+                <TextView
+                    android:id="@+id/txtTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Title: "
+                    android:textSize="18dp"/>
+
+                <EditText
+                    android:id="@+id/edtTitle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/txtTitle"
+                    android:layout_marginLeft="5dp"
+                    android:padding="10dp"
+                    android:textSize="18dp"
+                    android:background="@drawable/background_rectangle"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/post_detail_block"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title_block"
+                android:layout_marginTop="20dp"
+                android:layout_marginHorizontal="30dp">
+
+                <TextView
+                    android:id="@+id/txtPostDetail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Post: "
+                    android:textSize="18dp"/>
+
+                <EditText
+                    android:id="@+id/edtPostContent"
+                    android:layout_width="fill_parent"
+                    android:layout_height="200dp"
+                    android:layout_below="@id/txtPostDetail"
+                    android:layout_marginTop="10dp"
+                    android:padding="10dp"
+                    android:maxLines="10"
+                    android:textSize="18dp"
+                    android:gravity="top|start"
+                    android:inputType="textMultiLine"
+                    android:scrollbars="vertical"
+                    android:background="@drawable/background_rectangle"/>
+
+            </RelativeLayout>
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/ImgLayout"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:layout_below="@id/post_detail_block">
+
+                <ImageView
+                    android:id="@+id/img_post"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:background="@color/light_background"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txtAddImg"
+                    android:layout_gravity="center"
+                    android:text="Add image"/>
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_post"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Submit"
+        android:padding="10dp"
+        android:background="@color/light_background"/>
+
+</RelativeLayout>
